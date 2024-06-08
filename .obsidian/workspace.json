@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "929b5bf20ce8600b",
+    "type": "split",
+    "children": [
+      {
+        "id": "844b2a48ee39ac41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208fdb4c1459357d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chaos is Eternal/Chaos24/Chaos24 gpt EDF part 7.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b067b1b12044fcba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d522e2b64623081a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa0ff00d7c1d9890",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82701fd41f09e75a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24724b2ad1ac912f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "eb18aeca63973875",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70fccc92e2c2382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a6380e0d90e5482",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chaos is Eternal/Chaos24/Chaos24 gpt EDF part 7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb6a89663d2f50dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8d02a392c56862f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "208fdb4c1459357d",
+  "lastOpenFiles": [
+    "Chaos is Eternal/Chaos24/Chaos24 🀄 Home.md",
+    "Chaos is Eternal/Chaos24/Chaos24 gpt EDF part 7.md",
+    "Chaos is Eternal/Omnipendium/🏛 EDF 🟩.md",
+    "Chaos is Eternal/Omnipendium/㊙ Fringe Realms.md",
+    "Chaos is Eternal/Omnipendium/🌌 Dreamscape.md",
+    "Chaos is Eternal/Omnipendium/🟩 Vedaric Nox Rammus.md",
+    "Image Library/VedaricNoxRammus-v24.webp",
+    "People/Benjamin Bradford.md",
+    "People/Credits.md",
+    "Chaos is Eternal/Omnipendium/Timeline of Material Reality.canvas",
+    "Chaos is Eternal/Omnipendium/✴️ Omnipendium Home.md",
+    "Chaos is Eternal/Omnipendium/📄 Damage Types.md",
+    "Main Notes/soap box/political correctness and offense.md",
+    "Chaos is Eternal/The Book/Excerpts from a Book I'll Never Write.md",
+    "Chaos is Eternal/The Book/Disk1 draft24.md",
+    "Chaos is Eternal/The Book/Disk1 draft23.md",
+    "Chaos is Eternal/The Book/Disk1 draft22.md",
+    "Chaos is Eternal/The Book/Disk1 - Index.md",
+    "Chaos is Eternal/The Book/Apocalypse in 2091.md",
+    "Chaos is Eternal/Chaos19/Chaos19 resource management.md",
+    "Chaos is Eternal/GPT Play/Chaos24 gpt play a game.md",
+    "Chaos is Eternal/GPT Play/chaos24 gpt play 2.md",
+    "Chaos is Eternal/Chaos19/Chaos19 Masteries Index table.png",
+    "Chaos is Eternal/Chaos19/Chaos19 Masteries by Category.png",
+    "Chaos is Eternal/Chaos19/Chaos19 Health and Other Resources table.png",
+    "Chaos is Eternal/Chaos19/Chaos19 Expected Masteries table.png",
+    "Chaos is Eternal/Chaos17/Chaos17 Simpler Simple System.md",
+    "Chaos is Eternal/Chaos17/Chaos17 Magic Rules.md",
+    "Chaos is Eternal/Chaos17/Chaos17 Home.md",
+    "Chaos is Eternal/Chaos17/Chaos17 Fate Simple System.md",
+    "Chaos is Eternal/Chaos17/Chaos17 Equipment Rules.md",
+    "Chaos is Eternal/Chaos17/Chaos17 Combat Rules.md",
+    "Image Library/ShadesmithPhotoshoot.png",
+    "Image Library/Michael Shadesmith portrait.png",
+    "Image Library/icon.webp",
+    "Image Library/House Yakobe.png",
+    "Image Library/Graph 20240522123145.png",
+    "Chaos is Eternal/Chaos24/Chaos24.zip",
+    "Chaos is Eternal/Omnipendium/Old Lore",
+    "Image Library",
+    "New folder",
+    "Game Notes/Terraria/Terraria NPC Housing Plan.canvas",
+    "Project ONE",
+    "Chaos is Eternal/GPT Play",
+    "WORK/THD 6892 A16.canvas",
+    "Chaos is Eternal/Omnipendium/desktop.ini",
+    "Game Notes/MINECRAFT/desktop.ini",
+    "desktop.ini",
+    "Main Notes/soap box",
+    "Main Notes/test canvas.canvas"
+  ]
+}

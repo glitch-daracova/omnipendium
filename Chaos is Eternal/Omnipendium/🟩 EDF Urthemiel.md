@@ -1,0 +1,5 @@
+Formatted Link: [[🟩 EDF Urthemiel | Urthemiel]]
+
+URTHEMIEL _The death of the gods is the birth of our divinity._ Role: Warden of Heavens Title(s): The Monster, The False Goddess Domain(s): Celestial, Beauty, Hate Channel: Divinity Specialty: Divine Magic Personality: Lust
+
+The keeper of what goes in and out of all conquered Divine realms. These provide Dark Light energy and divine insights into the higher laws of the Multiverse for undermining Fiends, Celestials and everything else in between. Urthemiel relishes her position in being above enslaved Celestials, keeping a strict hold on them and rarely allowing more than their power to leave their realms, akin to the original prison nature of Hell. To the Cult, she is the paragon of how anyone can become a god among gods, regardless of origin. Urthemiel promotes the idea of Celestials as old beings who need to be retired for the greater good, therefore responding to prayers of Hatred towards Celestials rather than those of simple Worship.

@@ -1,0 +1,27 @@
+Originally posted August 28th, 2016.
+
+In the confidence of Alzael Shadesmith.
+
+_ In the closing years of the Third Pantheon’s reign, one Damon Smith was but an ordinary man. He had a beautiful wife, and children whom he loved dearly. Living in what would later become the Kingdom of Einroth, Damon and his family where not concerned about the troubles brewing in the relatively distant land of Olympia. He simply made his way forging whatever his clients would buy. Usually this was horseshoes and plowshares, but the occasional sword was also commissioned as well. He was pretty boring back then, so I never really paid much attention to him. No offense.
+
+_ Around this time as well, the great dwarven clans were warring among themselves over petty differences, with the leaders of each of the clans calling himself ‘King of Einroth’. One day Damon was summoned to present a gift to a newly crowned king. He crafted a fine blade and set out to pay the demanded respects.
+
+_ It took weeks to travel by foot to the castle of the new king. Fortunately, his coronation celebration was lasting all year, so Damon was not considered late. Upon arrival, he was scorned by the dwarven nobles and artisans who gathered there. It was probably a race thing, Damon being human and all. The king, however, was very much so appreciative of the fine craftsmanship of the blade. Long story short, the great smiths of the land didn’t like that very much and decided to do something rather diabolical to get rid of the man who would show them up like that. Petty, but in hindsight, expected.
+
+_ On his way home, Damon was accosted by a demon (what a surprise!) threatening to consume his soul. Damon, being the smart man he always was, challenged the demon to single combat wagering his soul against that of the demon’s. Needless to say, Damon whupped demon ass. Sorry I can’t say how it happened, I wasn’t there.
+
+_ What I can tell you is that Damon never made it home. After one demon came another, and another, and another. He was only able to kill so many. Finally, he was dragged down to the infernal abyss, where he raised some quire literal hell. The great thing about living in a place like that is that you’re never going to get tired due to the immense flow of magical energies. The downside is that those energies will change you. Damon was down there for a long time.
+
+_ At first, Damon had little more than a simple sword, one of the first he had forged back when he was but an apprentice. While it served him well against the petty demons he fought before, it didn’t last long in the infernal abyss. So he used the fires of hell itself to forge new weapons. They’d break too after a few days of demon killing, so he forged again and again.
+
+_ Eventually, he began to draw the attention of larger and more powerful demons. One in particular, a certain prince of destruction Devnikolus had the pity within himself to offer a deal to the mortal hell-bent (heh) on getting home. He challenged Damon to forge a blade so great that even he couldn’t destroy it. There would be no restriction on material use, he even made certain that an appropriate forge was provided exactly to Damon’s specifications for the sole purpose of a fair challenge. Needless to say, the task was impossible as the prince of destruction had the power to destroy literally anything and everything. Damon, however, didn’t give a damn.
+
+_ It took five years just to build the forge, even with the help of Devnikolus’s minions. Another year was spent gathering materials, and checking them for quality. Nine more years where spent actually forging the damn sword. Exotic metals needed to be heated not only to very specific temperatures, but also at specific times in the cosmic calendar to ensure perfection.
+
+_ And perfect it was, Damon’s magnum opus. The greatest sword ever forged, though it was never given a name. Once complete, Damon presented it to the demon prince. However, before Devnikolus could test the blade for indestructibility, Damon stabbed the demon, impaling him, thus proving beyond all doubt that Damon was not to be fucked with.
+
+_ Damon was escorted out of the infernal abyss by another demon prince, one who was probably scared shitless of what the mortal would do if he stayed. Devnikolus, despite grievous injury, recovered in short order. It is said that he still caries the sword made by Damon, and that it truly is indestructible.
+
+_ By the time he returned home, three decades had passed. Damon’s wife and children where nowhere to be found. His friends didn’t recognize him, and many cursed him as a demon (he kind of was one at that point, having lived so long in the infernal abyss). He found that he couldn’t walk on holy ground. When he sought to find the king and court responsible for his plight, he discovered it gone and already replaced by another.
+
+_ It was in a pit of misery and alcohol that I found Damon Smith. There he was, cheated out of any sense of revenge he could have hoped for, I gave him the only real advice I could: Sometimes, you just have to chuck it in the fuck it bucket and move on. It’s not what he wanted to hear, but it got him moving again. He traveled back to his home town and set up shop once more, this time making weapons and armor for adventurers. He made a name for himself as the best in all the land. The rest, as they say, is history.

@@ -1,0 +1,12 @@
+{
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Image Library",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
+}

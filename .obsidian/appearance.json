@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "translucency": false,
+  "cssTheme": "Prism",
+  "accentColor": "#e13737",
+  "interfaceFontFamily": "Segoe UI,Tahoma",
+  "monospaceFontFamily": "Courier New",
+  "textFontFamily": "Liberation Serif,Times New Roman"
+}

@@ -1,0 +1,5 @@
+Formatted Link: [[🟩 EDF Dumat | Dumat]]
+
+DUMAT _Only the faithful mighty will receive Her blessings._ Role: Savior Titles(s): The Betrayer, The Silencer Domain(s): Silence, Salvation, Betrayal Channel: Worship Specialty: Superpower Manipulation Personality: Pride
+
+Dumat's domain is the Imperium’s making of shallow promises of reward and false safety in exchange for Submission and Worship. He is known to make deals, himself. Dumat keeps favored Cultists appeased, but Betrays those deemed expired to their deaths and into the maw of Andoral. Dumat is The Voice, the first to answer prayers from the Cult before they may address the rest of the Seven. He has rights over all energy channels and traits of his siblings when necessary and is quite capable of wielding their powers with greater aptitude. He is the least powerful of the Seven when fighting on his Strength alone, however.

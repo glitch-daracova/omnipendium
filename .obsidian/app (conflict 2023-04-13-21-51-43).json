@@ -1,0 +1,11 @@
+{
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "livePreview": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
+}
