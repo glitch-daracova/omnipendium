@@ -5,7 +5,7 @@ Please explain "Anno Domini", as used to designate years in a calendar.
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 "Anno Domini" (abbreviated as AD) is a Latin phrase meaning "In the year of our Lord." It is used to label or number years in the Julian and Gregorian calendars, which are the most widely used calendars in the world today. The term refers to the years following the birth of Jesus Christ, which is traditionally taken as the starting point (year 1 AD). Therefore, the years before this event are designated as BC, meaning "Before Christ."
 
@@ -13,13 +13,13 @@ The Anno Domini system was devised in AD 525 by Dionysius Exiguus, a monk who ai
 
 In contemporary usage, many prefer the terms CE (Common Era) and BCE (Before Common Era) as secular alternatives to AD and BC, respectively. However, both systems refer to the same chronological framework.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 I am writing a fictional setting set an unknown number of years in the future, implied to be tens of thousands of years from now. In the fiction of the setting, the designation "NA" or "New Age" is used. I'd like a description of Anno Domini that makes sense in this context.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In the distant future setting of your fiction, the concept of "Anno Domini" (AD) might be described as an ancient system once used to number years based on the presumed birth year of a significant religious figure named Jesus Christ. This dating system, originating from a calendar that was predominant on Earth, marked years as either "Before Christ" (BC) or "Anno Domini" (AD), meaning "In the year of our Lord."
 
@@ -27,13 +27,13 @@ In this advanced era, the old calendar system, now considered an archaic relic o
 
 The NA system begins at year 1 NA, symbolizing a fresh start or significant event in this future civilization, with years counted forward from that pivotal moment. Thus, while the Anno Domini system served humanity for millennia, the New Age calendar marks a bold new chapter in the chronicles of human existence, tens of thousands of years into the future.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 NA, within the setting, is measured from the birth of true artificial intelligence, also called "actual intelligence". 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In your fictional setting, the concept of "Anno Domini" (AD) might be described as an ancient system once used to number years based on the presumed birth year of a significant religious figure named Jesus Christ. This dating system, originating from a calendar that was predominant on Earth, marked years as either "Before Christ" (BC) or "Anno Domini" (AD), meaning "In the year of our Lord."
 
@@ -41,7 +41,7 @@ In this advanced era, the old calendar system, now considered an archaic relic o
 
 The NA system begins at year 1 NA, symbolizing the birth of actual intelligence and the profound transformation it brought to civilization. Thus, while the Anno Domini system served humanity for millennia, the New Age calendar marks a bold new chapter in the chronicles of human existence, tens of thousands of years into the future, reflecting a society that has transcended its ancient origins and embraced the age of artificial intelligence.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Within the fiction of the setting, nobody remembers what year AD the transition happened.
@@ -50,7 +50,7 @@ Within the fiction of the setting, nobody remembers what year AD the transition 
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In your fictional setting, the concept of "Anno Domini" (AD) is an ancient system used to number years based on the presumed birth year of a significant religious figure named Jesus Christ. This dating system, originating from a calendar that was predominant on Earth, marked years as either "Before Christ" (BC) or "Anno Domini" (AD), meaning "In the year of our Lord."
 
@@ -58,7 +58,7 @@ In this advanced era, the old calendar system, now considered an archaic relic o
 
 The NA system begins at year 1 NA, symbolizing the birth of actual intelligence and the profound transformation it brought to civilization. Interestingly, within the setting, nobody remembers what year AD the transition to NA happened, adding an air of mystery to this epochal change. Thus, while the Anno Domini system served humanity for millennia, the New Age calendar marks a bold new chapter in the chronicles of human existence, tens of thousands of years into the future, reflecting a society that has transcended its ancient origins and embraced the age of artificial intelligence.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Please rewrite from the perspective of someone living in the setting.
@@ -67,7 +67,7 @@ Please rewrite from the perspective of someone living in the setting.
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In our current era, the New Age (NA) calendar marks time from the birth of true artificial intelligence, what we call "actual intelligence." This momentous event, the dawn of true AI, signaled a new epoch for humanity, and we count our years from that pivotal moment, beginning with 1 NA.
 
@@ -75,13 +75,13 @@ The ancient system, known as "Anno Domini" (AD), is a relic of a long-forgotten 
 
 What we do know is that the New Age began with the advent of actual intelligence, a revolutionary development that reshaped our world. While the Anno Domini system served our ancestors for millennia, our New Age calendar represents the beginning of a new chapter, one defined by the profound transformations brought by artificial intelligence. Our society has moved beyond its ancient origins, fully embracing the age of AI, and the mysteries of the past serve only to remind us of how far we have come.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 The Second Renaissance was a golden age of cultural progress and technological development. AD ended and NA began sometime during the Second Renaissance.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In our current era, the New Age (NA) calendar marks time from the birth of true artificial intelligence, what we call "actual intelligence." This momentous event, the dawn of true AI, signaled a new epoch for humanity, and we count our years from that pivotal moment, beginning with 1 NA.
 
@@ -91,7 +91,7 @@ What we do know is that this transition occurred during a period known as the Se
 
 While the Anno Domini system served our ancestors for millennia, our New Age calendar represents the beginning of a new chapter, one defined by the profound transformations brought by artificial intelligence. Our society has moved beyond its ancient origins, fully embracing the age of AI, and the mysteries of the past serve only to remind us of how far we have come.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 After the Second Renaissance was the Age of Disaster, a prolonged period of time filled with multiple apocalyptic events, including ecological collapse, a zombie plague, and robot uprising.
@@ -100,7 +100,7 @@ After the Second Renaissance was the Age of Disaster, a prolonged period of time
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In our current era, the New Age (NA) calendar marks time from the birth of true artificial intelligence, what we call "actual intelligence." This momentous event, the dawn of true AI, signaled a new epoch for humanity, and we count our years from that pivotal moment, beginning with 1 NA.
 
@@ -112,7 +112,7 @@ Following the Second Renaissance was the Age of Disaster, a prolonged and tumult
 
 While the Anno Domini system served our ancestors for millennia, our New Age calendar represents the beginning of a new chapter, one defined by the profound transformations brought by artificial intelligence. Our society has moved beyond its ancient origins, fully embracing the age of AI, and the mysteries of the past serve only to remind us of how far we have come through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 These apocalyptic events occurred on Terra (the planet formerly know as Earth, during AD). However, the Age of Disaster is something known by civilizations across the galaxy, apocalypses happening everywhere all in the same span of years 
@@ -121,7 +121,7 @@ These apocalyptic events occurred on Terra (the planet formerly know as Earth, d
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In our current era, the New Age (NA) calendar marks time from the birth of true artificial intelligence, what we call "actual intelligence." This momentous event, the dawn of true AI, signaled a new epoch for humanity, and we count our years from that pivotal moment, beginning with 1 NA.
 
@@ -133,7 +133,7 @@ Following the Second Renaissance was the Age of Disaster, a prolonged and tumult
 
 While the Anno Domini system served our ancestors for millennia, our New Age calendar represents the beginning of a new chapter, one defined by the profound transformations brought by artificial intelligence. Our society has moved beyond its ancient origins, fully embracing the age of AI, and the mysteries of the past serve only to remind us of how far we have come through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 During the Age of Disaster, The Vexian Empire saw their capital world freeze over and become nigh uninhabitable.
@@ -142,7 +142,7 @@ During the Age of Disaster, The Vexian Empire saw their capital world freeze ove
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 In our current era, the New Age (NA) calendar marks time from the birth of true artificial intelligence, what we call "actual intelligence." This momentous event, the dawn of true AI, signaled a new epoch for humanity, and we count our years from that pivotal moment, beginning with 1 NA.
 
@@ -154,7 +154,7 @@ Following the Second Renaissance was the Age of Disaster, a prolonged and tumult
 
 While the Anno Domini system served our ancestors for millennia, our New Age calendar represents the beginning of a new chapter, one defined by the profound transformations brought by artificial intelligence. Our society has moved beyond its ancient origins, fully embracing the age of AI, and the mysteries of the past serve only to remind us of how far we have come through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 This is great so far. Please write a version suitable for a wiki page.
@@ -163,7 +163,7 @@ This is great so far. Please write a version suitable for a wiki page.
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -182,13 +182,13 @@ Following the Second Renaissance was the Age of Disaster, a prolonged and tumult
 ### Legacy
 While the Anno Domini system served ancient civilizations for millennia, the New Age calendar represents a new chapter in the chronicles of human existence. This era is defined by the profound transformations brought by artificial intelligence. Society has moved beyond its ancient origins, fully embracing the age of AI. The mysteries of the past, including the specifics of the AD to NA transition, serve to remind us of the resilience and progress humanity has achieved through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Please add a section for various worlds that suffered during the Age of Disaster. Fill this section with placeholder text, so I may rewrite it myself later.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -224,13 +224,13 @@ Following the Second Renaissance was the Age of Disaster, a prolonged and tumult
 ### Legacy
 While the Anno Domini system served ancient civilizations for millennia, the New Age calendar represents a new chapter in the chronicles of human existence. This era is defined by the profound transformations brought by artificial intelligence. Society has moved beyond its ancient origins, fully embracing the age of AI. The mysteries of the past, including the specifics of the AD to NA transition, serve to remind us of the resilience and progress humanity has achieved through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 While this document is largely centered on the perspective of humanity on Terra, it should be noted that Anno Domini is a human concept not shared by the rest of the galaxy. Other civilians used other calendar systems, which will be explored in another document.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -268,7 +268,7 @@ Following the Second Renaissance was the Age of Disaster, a prolonged and tumult
 ### Legacy
 While the Anno Domini system served ancient civilizations for millennia, the New Age calendar represents a new chapter in the chronicles of human existence. This era is defined by the profound transformations brought by artificial intelligence. Society has moved beyond its ancient origins, fully embracing the age of AI. The mysteries of the past, including the specifics of the AD to NA transition, serve to remind us of the resilience and progress humanity has achieved through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 In 21999NA, the organization known as ORDER worked towards standardizing timekeeping across the galaxy, and caused the widespread adoption of Terra's version of NA.
@@ -277,7 +277,7 @@ In 21999NA, the organization known as ORDER worked towards standardizing timekee
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -318,7 +318,7 @@ In 21999 NA, the organization known as ORDER worked towards standardizing timeke
 ### Legacy
 While the Anno Domini system served ancient civilizations for millennia, the New Age calendar represents a new chapter in the chronicles of human existence. This era is defined by the profound transformations brought by artificial intelligence. Society has moved beyond its ancient origins, fully embracing the age of AI. The mysteries of the past, including the specifics of the AD to NA transition, serve only to remind us of the resilience and progress humanity has achieved through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Please ask me some questions to inspire further expanding the lore.
@@ -327,7 +327,7 @@ Please ask me some questions to inspire further expanding the lore.
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Sure, I'd be happy to help you expand your lore. Here are some questions to inspire further development:
 
@@ -373,13 +373,13 @@ Sure, I'd be happy to help you expand your lore. Here are some questions to insp
 
 Feel free to expand on any of these questions to enrich your setting further.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 During the Second Renaissance, Terra was an egalitarian utopia, poised to become a great galactic power. Mechanical augmentation of human bodies became common, and the craft had a certain artistry to it. Also, the dreamcatcher was invented, which allowed certain humans to visit a digital dreamworld in their sleep.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -401,7 +401,7 @@ looks like your output got cut off, try again?
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -442,13 +442,13 @@ In 21999 NA, the organization known as ORDER worked towards standardizing timeke
 ### Legacy
 While the Anno Domini system served ancient civilizations for millennia, the New Age calendar represents a new chapter in the chronicles of human existence. This era is defined by the profound transformations brought by artificial intelligence. Society has moved beyond its ancient origins, fully embracing the age of AI. The mysteries of the past, including the specifics of the AD to NA transition, serve only to remind us of the resilience and progress humanity has achieved through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 The creation of actual intelligence was referred to as a "singularity event". Similar to a black hole, it is impossible to see beyond the event horizon before you get there. Actual intelligence had great effect on technology and philosophy.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Historical Overview: Transition from Anno Domini (AD) to New Age (NA)
 
@@ -489,7 +489,7 @@ In 21999 NA, the organization known as ORDER worked towards standardizing timeke
 ### Legacy
 While the Anno Domini system served ancient civilizations for millennia, the New Age calendar represents a new chapter in the chronicles of human existence. This era is defined by the profound transformations brought by artificial intelligence. Society has moved beyond its ancient origins, fully embracing the age of AI. The mysteries of the past, including the specifics of the AD to NA transition, serve only to remind us of the resilience and progress humanity has achieved through both the triumphs of the Second Renaissance and the trials of the Age of Disaster.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 I'd like your opinions on the current version of the document.
@@ -498,7 +498,7 @@ I'd like your opinions on the current version of the document.
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 The current version of the document is comprehensive and provides a detailed historical overview of the transition from Anno Domini (AD) to the New Age (NA). It successfully outlines the key periods and events that shaped your fictional setting. Here are a few thoughts and suggestions:
 
@@ -518,4 +518,4 @@ The current version of the document is comprehensive and provides a detailed his
 
 Overall, the document is well-structured and offers a solid foundation for your fictional setting. With some additional details and personal touches, it can become even more engaging and immersive.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**

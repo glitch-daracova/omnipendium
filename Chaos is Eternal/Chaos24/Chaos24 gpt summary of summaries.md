@@ -6,7 +6,7 @@ You
 
 Please make a comprehensive list of the subjects mentioned in these summaries. Please also provide a count of each time a subject was mentioned across summaries.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Here's a comprehensive list of the subjects mentioned in your summaries, along with a count of how many times each subject was mentioned across our conversations:

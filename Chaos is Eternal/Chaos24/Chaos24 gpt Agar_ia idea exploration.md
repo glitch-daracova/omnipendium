@@ -4,7 +4,7 @@ You
 
 Please summarize what we've discussed pertaining to Agar_ia and the kingdoms within.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Certainly! Here’s a comprehensive summary of the details we've discussed about Agar_ia and its kingdoms:

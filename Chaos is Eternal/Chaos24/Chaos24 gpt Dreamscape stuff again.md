@@ -1,4 +1,4 @@
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 ### Dreamscape Overview

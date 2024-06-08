@@ -4,7 +4,7 @@ You
 
 Many social media platforms now have a section for adding your preferred pronouns. While I think this is silly, I don't want to offend anyone to whom this actually matters. I'd like to invent a set of "pronouns" that portray me as a godly/divine being. People who know me will get the joke.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Creating a set of "pronouns" that reflect a humorous and divine aspect while not intending to offend can be a delicate task, but here's an inventive approach that respects the significance of pronouns for many individuals while allowing you to share your personality:
@@ -24,7 +24,7 @@ You
 
 I like Maj/Majs, and your suggestion about a disclaimer is a good idea.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 I'm glad you liked the "Maj/Majs" idea! Adding a touch of humor and personality to your profile can be a great conversation starter, and the disclaimer will help ensure everyone understands your creative approach. If you need any more advice or creative ideas, feel free to ask!

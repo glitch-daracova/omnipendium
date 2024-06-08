@@ -1,25 +1,25 @@
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 I just sent your summaries to the EDF's original author. I'm looking forward to what he has to say about our contributions to his lore.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 That sounds exciting! I hope the original author finds the expansions and details we've discussed enriching and in line with his vision for the Empire of the Darkness Flame. If there are any feedback or further directions he provides, I’d be more than happy to continue working with you to refine and develop the lore further.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 While we're waiting, let's shift to another subject.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 Absolutely, I'm ready to dive into another subject whenever you are! What would you like to explore or discuss next?
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Within the EDF, there exists a number of High Lords and Low Lords, each belonging to various Great Houses.
 
-![[AI.webp|100]] **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) **ChatGPT**
 The introduction of High Lords and Low Lords within various Great Houses adds another layer to the social and political hierarchy of the Empire of the Darkness Flame. This structure could lead to complex interactions of power, loyalty, and competition within the empire.
 
 Here are some questions to consider for further expanding this aspect of your lore:
@@ -32,11 +32,11 @@ Here are some questions to consider for further expanding this aspect of your lo
 
 Exploring these elements can help you develop a rich tapestry of political intrigue and power dynamics within your setting.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 The difference between a High Lord and a Low Lord is a matter of the magnitude of their domain. A Low Lord might preside over a collection of cities, or a country. High Lords preside over entire realms, often several of them. Both kinds of lords are politicians, and engage in the kind of cloak-and-dagger shenanigans that you'd expect.
 
-![[AI.webp|100]] **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) **ChatGPT**
 Thanks for clarifying the distinction between High Lords and Low Lords. This tiered system of governance definitely sets the stage for intricate political maneuverings and power plays within the Empire of the Darkness Flame.
 
 To delve deeper into this structure, here are some potential areas to explore:
@@ -49,11 +49,11 @@ To delve deeper into this structure, here are some potential areas to explore:
 
 Exploring these questions can help further flesh out the political landscape of your empire and provide a richer backdrop for your narratives.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Every lord, both high and low, pledge their souls to the Emperor when they take office. This is often a formality, as usually their souls are already pledged.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 The practice of lords pledging their souls to the Emperor as a formality when they take office, while already having pledged them earlier, adds a ritualistic and binding layer to their loyalty and service within the Empire of the Darkness Flame. This tradition could be seen as both a reaffirmation of their allegiance and a demonstration of the Emperor's absolute control over his nobility.
 
@@ -67,12 +67,12 @@ To explore this aspect further, consider these points:
 
 Exploring these elements can help deepen the understanding of the political and spiritual dynamics within the Empire of the Darkness Flame, enriching the narrative and adding layers of complexity to the characters involved.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 For anyone who breaches their pledge, not just lords, life is automatically forfeit. Given how the empire expects and anticipates everyone to pursue personal agendas, there are only two real ways to breach the pledge. One way is to knowingly and purposely disobey the wishes of the Emperor, Empress, or the Archdemons. The other is to knowingly and purposely sabotage the primary goals of the EDF, whatever they may be.
 
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 The stringent consequences for breaching one's pledge in the Empire of the Darkness Flame emphasize the absolute authority of the empire's leadership and the high stakes involved in serving within its hierarchy. This framework of loyalty and punishment underscores the empire's harsh governance and the perilous nature of its political landscape.
 
@@ -88,7 +88,7 @@ Exploring these questions can add depth to the narrative, highlighting the compl
 
 The pledge is a psychic contract. When breached, the person's own mind turns against them.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 The concept of the pledge as a psychic contract with self-enforcing consequences through the individual’s own mind is both intriguing and terrifying. It illustrates the depth of control the Empire of the Darkness Flame exerts over its subjects and adds a psychological horror element to the breach of loyalty.
 
@@ -102,11 +102,11 @@ The concept of the pledge as a psychic contract with self-enforcing consequences
 
 Exploring these elements can provide a richer understanding of the psychic contract’s role within the empire and its impact on the characters and the storyline.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 The more psychicly or magically powerful the individual, the more extreme the symptoms of violating the pledge can be. Ironically, it is the weaker beings that can more easily survive breaking the pledge. Beings of sufficient power would simply instantly die.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 The correlation between an individual's magical or psychic power and the severity of the consequences they face upon breaching the pledge adds a fascinating layer of risk to the use of power within the Empire of the Darkness Flame. This dynamic not only enforces loyalty but also inherently limits the potential for rebellion among the most powerful members of society.
 
@@ -120,11 +120,11 @@ The correlation between an individual's magical or psychic power and the severit
 
 Exploring these questions can help illustrate the complex interplay between power, loyalty, and control in your setting, enriching the narrative and deepening character motivations.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 There is only one person within the EDF who is not bound by this pledge: Zebulah. I believe I have mentioned him before.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 Zebulah's unique status as the only individual in the Empire of the Darkness Flame not bound by the psychic pledge certainly sets him apart and could have significant implications for his role and actions within the empire. Given his position and exemption, Zebulah may have a complex relationship with power and loyalty, potentially making him a wildcard in the political landscape.
 
@@ -138,11 +138,11 @@ Zebulah's unique status as the only individual in the Empire of the Darkness Fla
 
 Exploring these questions can help deepen the narrative surrounding Zebulah and provide insights into the intricacies of loyalty and power within the Empire of the Darkness Flame.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Zebulah is Vedaric's best friend, a childhood friend, and helped found the EDF in the first place. This unique status gave Zebulah many privileges not afforded to anyone else.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 Zebulah's foundational role in the creation of the Empire of the Darkness Flame, alongside his close personal relationship with Emperor Vedaric Nox Rammus, clearly positions him as a key figure within the empire. His unique privileges and exemption from the psychic pledge add layers of influence and potential intrigue to his character.
 
@@ -156,11 +156,11 @@ Zebulah's foundational role in the creation of the Empire of the Darkness Flame,
 
 Exploring these aspects can deepen the understanding of Zebulah's character and his pivotal role within the Empire of the Darkness Flame, enriching the political and personal dynamics of your narrative.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Zebulah is loyal to the empire, not the emperor. He views the emperors relatively recent obsession with the newly crowned empress as a weakness to the empire.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 Zebulah's loyalty to the Empire of the Darkness Flame rather than to Emperor Vedaric personally, coupled with his concerns about the emperor's focus on Empress Valex, introduces potential for complex internal dynamics and political maneuvering. This perspective positions Zebulah as a potentially pivotal figure in the future of the empire, especially if he perceives the emperor's actions as detrimental to the empire's stability or power.
 
@@ -174,11 +174,11 @@ Zebulah's loyalty to the Empire of the Darkness Flame rather than to Emperor Ved
 
 Exploring these questions can help flesh out Zebulah's strategic role within the Empire of the Darkness Flame and highlight the internal tensions that might affect its future direction.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 The Great Houses each represent the interests of a foundational magical precept: Biomancy Technomancy Chronomancy Geomancy Astromancy I'd like you to suggest potential names for these Great Houses.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 Naming the Great Houses of the Empire of the Darkness Flame based on their foundational magical precepts can add thematic depth and enhance the lore of your world. Here are some potential names for the Great Houses aligned with each magical discipline:
 
@@ -210,11 +210,11 @@ Naming the Great Houses of the Empire of the Darkness Flame based on their found
 
 These names are designed to reflect the essence of each magical precept, while also sounding distinguished and fitting for influential and powerful families within your empire. Each name can evoke different characteristics or legacies associated with the respective magical domains.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Let's go with these: Verdanthall Cogwright Temporus Grundstone Voidhart
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 Excellent choices! Houses Verdanthall, Cogwright, Temporus, Grundstone, and Voidhart are now the prominent Great Houses within the Empire of the Darkness Flame, each representing a unique magical discipline. This alignment adds depth to the empire's culture and politics, as each house likely has its own goals, traditions, and influence based on their magical specialties.
 
@@ -228,11 +228,11 @@ Excellent choices! Houses Verdanthall, Cogwright, Temporus, Grundstone, and Void
 
 Exploring these aspects can provide a richer narrative and more vivid world-building in your Empire of the Darkness Flame.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Every Lord, be they High Lord or Low Lord, belongs to one of these houses.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 That's a key detail, linking every Lord, both High and Low, directly to one of the Great Houses. This connection likely plays a significant role in the politics and power dynamics within the Empire of the Darkness Flame.
@@ -247,11 +247,11 @@ That's a key detail, linking every Lord, both High and Low, directly to one of t
 
 Exploring these questions can add layers to the interaction between the Lords and their respective Great Houses, enhancing the complexity and richness of your setting.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 The great houses are less like institutions, and more like philosophies of how to achieve the best version of the empire possible.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 With the Great Houses embodying distinct philosophies rather than just serving as political entities, they add a profound ideological layer to the structure of the Empire of the Darkness Flame. This approach allows for a rich interplay of ideas and values that can drive the narrative and the actions of characters within your world.
 
@@ -265,11 +265,11 @@ With the Great Houses embodying distinct philosophies rather than just serving a
 
 Exploring these elements can help showcase the diversity of thought and strategy within the Empire of the Darkness Flame, making the interactions and conflicts within your story more dynamic and thought-provoking.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Even so, each house has lengthy texts of doctrines by which they abide. They have oversight boards and militaries and so on and so forth.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 The structured approach within each Great House, complete with doctrinal texts, oversight boards, and military forces, suggests a deep level of organization and governance aligned with their philosophical principles. This adds both depth and complexity to how these houses operate within the Empire of the Darkness Flame.
 
@@ -283,11 +283,11 @@ The structured approach within each Great House, complete with doctrinal texts, 
 
 Exploring these questions can provide a clearer picture of the internal workings of each Great House and their impact on the broader political landscape of the Empire of the Darkness Flame.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 Please summarize everything you've learned since I last asked for a summary. Please be verbose, and after every subject, include some questions to inspire expanding the lore.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 **Great Houses of the Empire of the Darkness Flame:** The Great Houses within the Empire of the Darkness Flame—Verdanthall, Cogwright, Temporus, Grundstone, and Voidhart—are not merely political entities but represent distinct philosophical doctrines on achieving the empire’s ideal state. Each house is dedicated to a foundational magical precept (Biomancy, Technomancy, Chronomancy, Geomancy, and Astromancy, respectively) and possesses its own texts of doctrines, oversight boards, and military forces to ensure adherence to these principles.

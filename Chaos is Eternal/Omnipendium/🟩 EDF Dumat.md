@@ -1,4 +1,4 @@
-Formatted Link: [[🟩 EDF Dumat | Dumat]]
+Formatted Link: [🟩 EDF Dumat | Dumat](../../-edf-dumat--dumat.md)
 
 DUMAT _Only the faithful mighty will receive Her blessings._ Role: Savior Titles(s): The Betrayer, The Silencer Domain(s): Silence, Salvation, Betrayal Channel: Worship Specialty: Superpower Manipulation Personality: Pride
 

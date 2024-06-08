@@ -6,11 +6,11 @@ Please confirm that no memories currently exist. I'd like to start with a clean 
 # input 2
 This is a formatting rule. I'd like you to start all output with this line:
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Also, please end all output with this line:
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 The reason for this formatting rule is to assist in archiving this conversation in my note software.
 
@@ -25,7 +25,7 @@ I have here a collection of .md files, most of which are partial archives of pas
 
 The documents will be in a .zip file. Read "Chaos24 🀄 Home.md" first. Yes, there is an emoji in the file name.
 
-Some documents will reference other documents. Links will appear in double brackets [[like this]]. Be aware that not all documents referenced this way will be uploaded to you.
+Some documents will reference other documents. Links will appear in double brackets [like this](../../like-this.md). Be aware that not all documents referenced this way will be uploaded to you.
 
 Some of the information in these documents are contradictory. Please be aware that the subject matter has evolved over time, and in most cases newer information should take priority over older information. However, some documents intentionally omit or simplify information to stay focused on certain subjects. Please be aware of such omissions and simplifications as you process these documents.
 

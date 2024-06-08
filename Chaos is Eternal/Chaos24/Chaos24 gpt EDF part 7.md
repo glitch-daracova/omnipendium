@@ -1,14 +1,14 @@
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 Let's focus on the section on The Great Work for now. Right now, I have just one line on the subject. Using what you know from this conversation, I'd like you to expand on The Great Work.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### The Great Work
 > [!tip] ㊙️ Secret Knowledge ㊙️
 > The following contains information that is not intended to be widely known, not even among readers. Proceed at your own risk.
 
-The end goal of the Empire, given current rulership, is to transform all that exists into [[✨ Pure Energy ✨ | pure energy]] for the [[🟩 Valex Nox Rammus | Empress]] to consume for the rest of time.
+The end goal of the Empire, given current rulership, is to transform all that exists into [✨ Pure Energy ✨ | pure energy](../../-pure-energy---pure-energy.md) for the [🟩 Valex Nox Rammus | Empress](../../-valex-nox-rammus--empress.md) to consume for the rest of time.
 
 The **Great Work** is the ultimate ambition of the Empire of the Darkness Flame, a grand plan orchestrated by Emperor Vedaric Nox Rammus and Empress Valex Nox Rammus. This vision aims to transcend the traditional bounds of power and existence, achieving a state of absolute dominance and sustenance.
 
@@ -65,11 +65,11 @@ The **Great Work** is the ultimate ambition of the Empire of the Darkness Flame,
 
 By expanding on The Great Work, the overview of the EDF becomes richer and more detailed, providing a clearer picture of the empire's ultimate goals and the mechanisms driving its relentless expansion.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 What are some questions to ask the original author, to inspire expanding the lore surrounding The Great Work?
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 To inspire the original author to expand the lore surrounding The Great Work, consider asking questions that delve into various aspects of its implementation, impact, and the broader implications for the Empire of the Darkness Flame. Here are some questions to consider:
 
@@ -117,4 +117,4 @@ To inspire the original author to expand the lore surrounding The Great Work, co
 
 By exploring these questions, the original author can provide deeper insights and expand the lore surrounding The Great Work, adding complexity and richness to the narrative of the Empire of the Darkness Flame.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**

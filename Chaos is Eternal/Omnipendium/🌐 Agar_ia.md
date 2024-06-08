@@ -1,5 +1,5 @@
-Location: [[🌌 Dreamscape]]
-Home of the [[🏛 Core Realms Pantheon]]
+Location: [🌌 Dreamscape](../../-dreamscape.md)
+Home of the [🏛 Core Realms Pantheon](../../-core-realms-pantheon.md)
 
 
 > [!warning] AI generated content
@@ -11,8 +11,8 @@ Agar_ia: A realm steeped in tradition and vibrant cultures, Agar_ia is a fantasy
 ---
 
 # The Kingdoms of Agar_ia
-[[📍 Greater Anglica]] - [[📍 Jarlheim]] - [[📍 Fretalia]] - [[📍 Einroth]] - [[📍 Rodinia]] - [[📍 Former Olympia]]
+[📍 Greater Anglica](../../-greater-anglica.md) - [📍 Jarlheim](../../-jarlheim.md) - [📍 Fretalia](../../-fretalia.md) - [📍 Einroth](../../-einroth.md) - [📍 Rodinia](../../-rodinia.md) - [📍 Former Olympia](../../-former-olympia.md)
 
 # The Pantheon of Agar_ia
-Known as the [[🏛 Core Realms Pantheon | Core Realms Pantheon]]
-[[😇 Persephone]] - [[😇 Krolm]] - [[😇 Lunord]] - [[😇 Helia]] - [[😇 Grum-Gog]] - [[😇 Krypta]] - [[😇 Dauros]] - [[😇 Fervus]]
+Known as the [🏛 Core Realms Pantheon | Core Realms Pantheon](../../-core-realms-pantheon--core-realms-pantheon.md)
+[😇 Persephone](../../-persephone.md) - [😇 Krolm](../../-krolm.md) - [😇 Lunord](../../-lunord.md) - [😇 Helia](../../-helia.md) - [😇 Grum-Gog](../../-grum-gog.md) - [😇 Krypta](../../-krypta.md) - [😇 Dauros](../../-dauros.md) - [😇 Fervus](../../-fervus.md)

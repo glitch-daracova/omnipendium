@@ -1,4 +1,4 @@
-Made popular on [[🌎 Terra]], but also built on other worlds. Megacities are connected and interconnected structures that resemble ordinary cities, but are hundreds of miles across and reach upwards a mile or four at major centers. Usually separated into an undercity and uppercity.
+Made popular on [🌎 Terra](../../-terra.md), but also built on other worlds. Megacities are connected and interconnected structures that resemble ordinary cities, but are hundreds of miles across and reach upwards a mile or four at major centers. Usually separated into an undercity and uppercity.
 
 On Terra, megacities are completely enclosed, due to the outside air being toxic and sunlight burning to the point of quick lethality.
 

@@ -1,4 +1,4 @@
-Return to [[Chaos24 🀄 Home]].
+Return to [Chaos24 🀄 Home](../../chaos24--home.md).
 # The New Book Plan
 Chaos is a LitRPG set in a distant future.
 
@@ -10,6 +10,6 @@ No longer happening, at least not with the current version of the project. I mig
 
 ## Where and when does Chaos take place?
 This setting spans the entire Milky Way galaxy. In relation to our current Earth timeline, nobody knows what year it is. Disk1 of our story will occur early in the second century of the new age, and mostly on Terra.
-[[Chaos24 Timeline of Terra plan]]
+[Chaos24 Timeline of Terra plan](../../chaos24-timeline-of-terra-plan.md)
 
-[[Chaos24 Dreamscape stuff]]
+[Chaos24 Dreamscape stuff](../../chaos24-dreamscape-stuff.md)

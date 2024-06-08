@@ -1,1 +1,1 @@
-A [[🛐 Dreamscape Gods | dreamscape god]] belonging to [[🏛 House Athetos 🖤]]
+A [🛐 Dreamscape Gods | dreamscape god](../../-dreamscape-gods--dreamscape-god.md) belonging to [🏛 House Athetos 🖤](../../-house-athetos-.md)

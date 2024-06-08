@@ -1,2 +1,2 @@
-[[📆 Great Exodus]]
+[📆 Great Exodus](../../-great-exodus.md)
 

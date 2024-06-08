@@ -1,4 +1,4 @@
-Return to [[✴️ Omnipendium Home]]
+Return to [✴️ Omnipendium Home](../../-omnipendium-home.md)
 
 Kinetic is basic physical damage, for when an object strikes another object. If a damage type isn't specified, it's probably this. Nothing that exists physically can be immune to kinetic damage.
 

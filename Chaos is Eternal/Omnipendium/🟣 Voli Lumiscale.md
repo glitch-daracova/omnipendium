@@ -1,1 +1,1 @@
-A [[🛐 Dreamscape Gods]] belonging to [[🏛 House Yakobe 🟣]]
+A [🛐 Dreamscape Gods](../../-dreamscape-gods.md) belonging to [🏛 House Yakobe 🟣](../../-house-yakobe-.md)

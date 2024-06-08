@@ -1,1 +1,1 @@
-Location: [[🌌 Material Reality]]
+Location: [🌌 Material Reality](../../-material-reality.md)

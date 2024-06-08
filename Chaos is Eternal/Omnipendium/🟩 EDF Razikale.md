@@ -1,4 +1,4 @@
-Formatted Link: [[🟩 EDF Razikale | Razikale]]
+Formatted Link: [🟩 EDF Razikale | Razikale](../../-edf-razikale--razikale.md)
 
 RAZIKALE _Fear the powers of the Empress._ Role: Executioner Title(s): The Shadow, The Beast Domain(s): Death, Mystery, Punishment Channel: Fear Specialty: Void Magic Personality: Gluttony
 

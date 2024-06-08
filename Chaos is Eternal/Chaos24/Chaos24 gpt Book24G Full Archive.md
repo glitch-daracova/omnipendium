@@ -5,29 +5,29 @@ Please confirm that no memories currently exist. I'd like to start with a clean 
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 There are no existing memories stored. We are starting with a clean slate today.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 This is a formatting rule. I'd like you to start all output with this line:
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Also, please end all output with this line:
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 The reason for this formatting rule is to assist in archiving this conversation in my note software.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Got it! I'll follow the formatting rule in all future responses to assist in archiving our conversation.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 I am in the process of writing a summaries for a series of books I'll never write. In a previous conversation, you helped me create this:
@@ -63,28 +63,28 @@ The book will conclude with me attempting to go back to my regular dreamscape qu
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That sounds like a fascinating story! Would you like to continue working on this summary or add more details? Perhaps you'd like to develop another part of the story or create a summary for the next book in the series?
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 I am going to provide you with a first draft of my summary for book 2. Please stand by.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Standing by! I'm ready to assist with your summary for book 2 whenever you're ready.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 The following is a first draft. It has many problems, such as partway through it starts treating Glitch in the first person, whereas it should have been first person the whole thing. Can you re-write this so that it matches the stylings of the previous book summary I shared earlier?
 
-Our main protagonist and author insert character [[🔻 Glitch Daracova]] wakes up on board an alien ship many light years away from home. It's been weeks, and what little he remembers makes him glad he doesn't remember the rest of it.
+Our main protagonist and author insert character [🔻 Glitch Daracova](../../-glitch-daracova.md) wakes up on board an alien ship many light years away from home. It's been weeks, and what little he remembers makes him glad he doesn't remember the rest of it.
 
-Glitch and about 12 others are the survivors of a series of experiments to see just what happens when an anomalous artifact is exposed to humans. [[🔷 Corti]] are ruthlessly efficient, and completely uncaring for their test subjects.
+Glitch and about 12 others are the survivors of a series of experiments to see just what happens when an anomalous artifact is exposed to humans. [🔷 Corti](../../-corti.md) are ruthlessly efficient, and completely uncaring for their test subjects.
 
 The ship is attacked, and a psychic voice directs Glitch and the others to escape.
 
@@ -99,7 +99,7 @@ Big "Are we the baddies?" energy.
 Oops, I'm a war criminal now. Civilian casualties: lots. Also dead. I'm totally dead.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Where: 🚀 Alien Spacecraft and 🪐 Distant Planets  
 Who: 🔻 Glitch Daracova and 👽 Corti  
@@ -116,45 +116,45 @@ The main plot revolves around a daring mission to destroy a Vexian super-weapon,
 
 The mission is a success, but it comes at a terrible cost. Civilian casualties are high, and Glitch finds himself labeled a war criminal. In the chaos, he is gravely injured, leaving him to confront the brutal reality of his actions and their consequences.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 That's a great starting point for me to edit from. I'll be back later.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Glad to hear it! Feel free to reach out whenever you're ready to continue. Have a great day!
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
-As we continue our conversation, you will frequently see text in double brackets [[like this]]. This is a link in my note software, and I'd like such links to be preserved whenever possible. Many of these links have text that is different to their destination file, which is formatted like so: [[like this| visible text]]. When you suggest rewrites, please preserve any link destination text, but visible text can be changed as needed.
+As we continue our conversation, you will frequently see text in double brackets [like this](../../like-this.md). This is a link in my note software, and I'd like such links to be preserved whenever possible. Many of these links have text that is different to their destination file, which is formatted like so: [like this| visible text](../../like-this-visible-text.md). When you suggest rewrites, please preserve any link destination text, but visible text can be changed as needed.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Understood! I will preserve the link destination text in double brackets and adjust the visible text as needed in any future rewrites.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 The following is my edit. I'd like your opinions.
 
 Where: 🚀 Alien Spacecrafts and 🪐 Distant Planets  
-Who: [[🔻 Glitch Daracova]], the [[🏛 Xaran Alliance 🔺]], and the [[🏛 Vexian Empire 🔷]]
-Who Else: [[🔺 Draco Knightslayer]], [[🔺 Prism]], and many more.
+Who: [🔻 Glitch Daracova](../../-glitch-daracova.md), the [🏛 Xaran Alliance 🔺](../../-xaran-alliance-.md), and the [🏛 Vexian Empire 🔷](../../-vexian-empire-.md)
+Who Else: [🔺 Draco Knightslayer](../../-draco-knightslayer.md), [🔺 Prism](../../-prism.md), and many more.
 What: My harrowing survival and transformation  
 Why: To uncover the unknown and face new challenges
 Actually Why: I'm here, why not?
 
 ---
 
-I wake up on board an alien ship, many light years away from home. Weeks have passed, and what little I remember makes me glad that I don't recall the rest. Myself, and about twelve others are the survivors of a series of ruthless experiments by [[🔷 Corti| Corti scientists]], who aimed to discover the effects of humans to an anomalous artifact. That's right, they didn't care about us, they only cared about it.
+I wake up on board an alien ship, many light years away from home. Weeks have passed, and what little I remember makes me glad that I don't recall the rest. Myself, and about twelve others are the survivors of a series of ruthless experiments by [🔷 Corti| Corti scientists](../../-corti-corti-scientists.md), who aimed to discover the effects of humans to an anomalous artifact. That's right, they didn't care about us, they only cared about it.
 
-During a sudden attack on the ship, a psychic voice directs us to escape. This voice belongs to [[🔺 Prism | Prism]], a super-advanced AI able to communicate with us via our newly acquired nano-augmentations. These augmentations have been growing inside us as a result of the experiments.
+During a sudden attack on the ship, a psychic voice directs us to escape. This voice belongs to [🔺 Prism | Prism](../../-prism--prism.md), a super-advanced AI able to communicate with us via our newly acquired nano-augmentations. These augmentations have been growing inside us as a result of the experiments.
 
-We were rescued by a group of rebels. They called themselves the [[🏛 Xaran Alliance 🔺| Xaran Alliance]], and [[🔺 Prism | Prism]] is their leader. They're at war with the evil [[🏛 Vexian Empire 🔷 | Vexian Empire]], and ask me to help. I undergo rigorous training at the hands of one [[🔺 Draco Knightslayer | Draco Knightslayer]]. I was already a fighter, but he turned me into a soldier. I went with it, of course. I believed it was all just another game in the [[🌌 Dreamscape | dreamscape]].
+We were rescued by a group of rebels. They called themselves the [🏛 Xaran Alliance 🔺| Xaran Alliance](../../-xaran-alliance--xaran-alliance.md), and [🔺 Prism | Prism](../../-prism--prism.md) is their leader. They're at war with the evil [🏛 Vexian Empire 🔷 | Vexian Empire](../../-vexian-empire---vexian-empire.md), and ask me to help. I undergo rigorous training at the hands of one [🔺 Draco Knightslayer | Draco Knightslayer](../../-draco-knightslayer--draco-knightslayer.md). I was already a fighter, but he turned me into a soldier. I went with it, of course. I believed it was all just another game in the [🌌 Dreamscape | dreamscape](../../-dreamscape--dreamscape.md).
 
 The main plot revolves around a daring mission to destroy a Vexian super-weapon, a laser cannon capable of blowing up planets. To my shock, I recognize the moon-sized space station the laser cannon is mounted to as the same I was rescued from not so long ago. The mission isn't just to destroy the gun, but to obliterate the entire station.
 
@@ -168,26 +168,26 @@ The mission is a success, but comes at a terrible cost. Civilian casualties are 
 
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 This version looks great! Here are a few minor suggestions to improve clarity and flow, while keeping the essence and details intact:
 
 ---
 
 Where: 🚀 Alien Spacecrafts and 🪐 Distant Planets  
-Who: [[🔻 Glitch Daracova]], the [[🏛 Xaran Alliance 🔺]], and the [[🏛 Vexian Empire 🔷]]  
-Who Else: [[🔺 Draco Knightslayer]], [[🔺 Prism]], and many more  
+Who: [🔻 Glitch Daracova](../../-glitch-daracova.md), the [🏛 Xaran Alliance 🔺](../../-xaran-alliance-.md), and the [🏛 Vexian Empire 🔷](../../-vexian-empire-.md)  
+Who Else: [🔺 Draco Knightslayer](../../-draco-knightslayer.md), [🔺 Prism](../../-prism.md), and many more  
 What: My harrowing survival and transformation  
 Why: To uncover the unknown and face new challenges  
 Actually Why: I'm here, why not?
 
 ---
 
-I wake up on board an alien ship, many light years away from home. Weeks have passed, and what little I remember makes me glad that I don't recall the rest. Myself and about twelve others are the survivors of a series of ruthless experiments by [[🔷 Corti| Corti scientists]], who aimed to discover the effects of an anomalous artifact on humans. That's right, they didn't care about us, they only cared about it.
+I wake up on board an alien ship, many light years away from home. Weeks have passed, and what little I remember makes me glad that I don't recall the rest. Myself and about twelve others are the survivors of a series of ruthless experiments by [🔷 Corti| Corti scientists](../../-corti-corti-scientists.md), who aimed to discover the effects of an anomalous artifact on humans. That's right, they didn't care about us, they only cared about it.
 
-During a sudden attack on the ship, a psychic voice directs us to escape. This voice belongs to [[🔺 Prism | Prism]], a super-advanced AI able to communicate with us via our newly acquired nano-augmentations. These augmentations have been growing inside us as a result of the experiments.
+During a sudden attack on the ship, a psychic voice directs us to escape. This voice belongs to [🔺 Prism | Prism](../../-prism--prism.md), a super-advanced AI able to communicate with us via our newly acquired nano-augmentations. These augmentations have been growing inside us as a result of the experiments.
 
-We are rescued by a group of rebels. They call themselves the [[🏛 Xaran Alliance 🔺| Xaran Alliance]], and [[🔺 Prism | Prism]] is their leader. They're at war with the evil [[🏛 Vexian Empire 🔷 | Vexian Empire]], and they ask me to help. I undergo rigorous training at the hands of one [[🔺 Draco Knightslayer | Draco Knightslayer]]. I was already a fighter, but he turned me into a soldier. I went with it, of course. I believed it was all just another game in the [[🌌 Dreamscape | dreamscape]].
+We are rescued by a group of rebels. They call themselves the [🏛 Xaran Alliance 🔺| Xaran Alliance](../../-xaran-alliance--xaran-alliance.md), and [🔺 Prism | Prism](../../-prism--prism.md) is their leader. They're at war with the evil [🏛 Vexian Empire 🔷 | Vexian Empire](../../-vexian-empire---vexian-empire.md), and they ask me to help. I undergo rigorous training at the hands of one [🔺 Draco Knightslayer | Draco Knightslayer](../../-draco-knightslayer--draco-knightslayer.md). I was already a fighter, but he turned me into a soldier. I went with it, of course. I believed it was all just another game in the [🌌 Dreamscape | dreamscape](../../-dreamscape--dreamscape.md).
 
 The main plot revolves around a daring mission to destroy a Vexian super-weapon, a laser cannon capable of blowing up planets. To my shock, I recognize the moon-sized space station the laser cannon is mounted on as the same one I was rescued from not so long ago. The mission isn't just to destroy the gun, but to obliterate the entire station.
 
@@ -197,13 +197,13 @@ The mission is a success, but it comes at a terrible cost. Civilian casualties a
 
 (Note: Obviously, I'm not actually dead, as I am able to provide this input. The POV character is also not dead, as they are telling this short version of the story. Glitch is "dead" at the end of this book, but clever readers will notice that it can't be true for the reasons already stated. The aftermath will be explored in book 3.)
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 What are some points that I should expand more on? This should remain only an overview though, I'm not actually writing the book yet.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Here are a few points you could expand on to enhance the overview without going into too much detail:
 
@@ -227,20 +227,20 @@ Here are a few points you could expand on to enhance the overview without going 
 
 By expanding on these points, you can provide a more comprehensive overview while keeping it concise.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 I'd like to do the same for book 3 as we just did for book 2. Please stand by for input.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Standing by! I'm ready to assist with your summary for book 3 whenever you're ready.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
-The third book in the saga of our favorite main protagonist and author insert character [[🔻 Glitch Daracova]].
+The third book in the saga of our favorite main protagonist and author insert character [🔻 Glitch Daracova](../../-glitch-daracova.md).
 
 I am dead. I blew up a space station legally distinct from a death star while I was in it. I am dead.
 
@@ -289,11 +289,11 @@ I lose control of my alternate dreamscape accounts. Over time, they had started 
 Near the end of the book, I am confronted in the waking world by a man wearing my face and speaking with my voice. He calls himself Seth, and he swears unholy vengeance by way of destroying everything and everyone I've ever loved. A bit dramatic. The ensuing conflict is the main plot of book 4, and we'll get into that later.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Where: 🌍 Terra and 🌌 The Dreamscape  
-Who: [[🔻 Glitch Daracova]], the [[🏛 Xaran Alliance 🔺]], and the [[🏛 Vexian Empire 🔷]]  
-Who Else: [[🧛‍♀️ Sala Otanashi]], [[🔺 Draco Knightslayer]], [[🔺 Prism]], and many more  
+Who: [🔻 Glitch Daracova](../../-glitch-daracova.md), the [🏛 Xaran Alliance 🔺](../../-xaran-alliance-.md), and the [🏛 Vexian Empire 🔷](../../-vexian-empire-.md)  
+Who Else: [🧛‍♀️ Sala Otanashi](../../-sala-otanashi.md), [🔺 Draco Knightslayer](../../-draco-knightslayer.md), [🔺 Prism](../../-prism.md), and many more  
 What: The struggle to find purpose after resurrection  
 Why: To rediscover what truly matters and confront new threats  
 Actually Why: I'm still here, so why not?
@@ -346,28 +346,28 @@ I lose control of my alternate dreamscape accounts. Over time, they start becomi
 
 Near the end of the book, I am confronted in the waking world by a man wearing my face and speaking with my voice. He calls himself Seth, and he swears unholy vengeance by way of destroying everything and everyone I've ever loved. A bit dramatic. The ensuing conflict is the main plot of book 4, and we'll get into that later.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Now that you have my rough draft for a book 3 overview, I'd like you to re-write it to match the stylings of the new book 2 overview.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Where: 🌍 Terra and 🌌 The Dreamscape  
-Who: [[🔻 Glitch Daracova]], the [[🏛 Xaran Alliance 🔺]], and the [[🏛 Vexian Empire 🔷]]  
-Who Else: [[🧛‍♀️ Sala Otanashi]], [[🔺 Draco Knightslayer]], [[🔺 Prism]], and many more  
+Who: [🔻 Glitch Daracova](../../-glitch-daracova.md), the [🏛 Xaran Alliance 🔺](../../-xaran-alliance-.md), and the [🏛 Vexian Empire 🔷](../../-vexian-empire-.md)  
+Who Else: [🧛‍♀️ Sala Otanashi](../../-sala-otanashi.md), [🔺 Draco Knightslayer](../../-draco-knightslayer.md), [🔺 Prism](../../-prism.md), and many more  
 What: The struggle to find purpose after resurrection  
 Why: To rediscover what truly matters and confront new threats  
 Actually Why: I'm still here, so why not?
 
 ---
 
-I wake up on board an alien ship, many light years away from home. Weeks have passed, and what little I remember makes me glad that I don't recall the rest. Myself and about twelve others are the survivors of a series of ruthless experiments by [[🔷 Corti| Corti scientists]], who aimed to discover the effects of an anomalous artifact on humans. That's right, they didn't care about us, they only cared about it.
+I wake up on board an alien ship, many light years away from home. Weeks have passed, and what little I remember makes me glad that I don't recall the rest. Myself and about twelve others are the survivors of a series of ruthless experiments by [🔷 Corti| Corti scientists](../../-corti-corti-scientists.md), who aimed to discover the effects of an anomalous artifact on humans. That's right, they didn't care about us, they only cared about it.
 
-During a sudden attack on the ship, a psychic voice directs us to escape. This voice belongs to [[🔺 Prism | Prism]], a super-advanced AI able to communicate with us via our newly acquired nano-augmentations. These augmentations have been growing inside us as a result of the experiments.
+During a sudden attack on the ship, a psychic voice directs us to escape. This voice belongs to [🔺 Prism | Prism](../../-prism--prism.md), a super-advanced AI able to communicate with us via our newly acquired nano-augmentations. These augmentations have been growing inside us as a result of the experiments.
 
-We are rescued by a group of rebels. They call themselves the [[🏛 Xaran Alliance 🔺| Xaran Alliance]], and [[🔺 Prism | Prism]] is their leader. They're at war with the evil [[🏛 Vexian Empire 🔷 | Vexian Empire]], and they ask me to help. I undergo rigorous training at the hands of one [[🔺 Draco Knightslayer | Draco Knightslayer]]. I was already a fighter, but he turned me into a soldier. I went with it, of course. I believed it was all just another game in the [[🌌 Dreamscape | dreamscape]].
+We are rescued by a group of rebels. They call themselves the [🏛 Xaran Alliance 🔺| Xaran Alliance](../../-xaran-alliance--xaran-alliance.md), and [🔺 Prism | Prism](../../-prism--prism.md) is their leader. They're at war with the evil [🏛 Vexian Empire 🔷 | Vexian Empire](../../-vexian-empire---vexian-empire.md), and they ask me to help. I undergo rigorous training at the hands of one [🔺 Draco Knightslayer | Draco Knightslayer](../../-draco-knightslayer--draco-knightslayer.md). I was already a fighter, but he turned me into a soldier. I went with it, of course. I believed it was all just another game in the [🌌 Dreamscape | dreamscape](../../-dreamscape--dreamscape.md).
 
 The main plot revolves around a daring mission to destroy a Vexian super-weapon, a laser cannon capable of blowing up planets. To my shock, I recognize the moon-sized space station the laser cannon is mounted on as the same one I was rescued from not so long ago. The mission isn't just to destroy the gun, but to obliterate the entire station.
 
@@ -425,13 +425,13 @@ I lose control of my alternate dreamscape accounts. Over time, they start becomi
 
 Near the end of the book, I am confronted in the waking world by a man wearing my face and speaking with my voice. He calls himself Seth, and he swears unholy vengeance by way of destroying everything and everyone I've ever loved. A bit dramatic. The ensuing conflict is the main plot of book 4, and we'll get into that later.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 What can you tell me about my story so far?
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Your story so far is a fascinating blend of sci-fi, fantasy, and psychological exploration. Here are some key aspects:
 
@@ -502,21 +502,21 @@ Your story so far is a fascinating blend of sci-fi, fantasy, and psychological e
 
 Your story so far is rich with potential, offering a compelling narrative that explores profound themes while maintaining a thrilling and imaginative plot. 
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 How would I better write the overview for book 3?
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Here’s a refined version of the overview for Book 3 that matches the style and tone of the previous books:
 
 ---
 
 **Where:** 🌍 Terra and 🌌 The Dreamscape  
-**Who:** [[🔻 Glitch Daracova]], the [[🏛 Xaran Alliance 🔺]], and the [[🏛 Vexian Empire 🔷]]  
-**Who Else:** [[🧛‍♀️ Sala Otanashi]], [[🔺 Draco Knightslayer]], [[🔺 Prism]], and many more  
+**Who:** [🔻 Glitch Daracova](../../-glitch-daracova.md), the [🏛 Xaran Alliance 🔺](../../-xaran-alliance-.md), and the [🏛 Vexian Empire 🔷](../../-vexian-empire-.md)  
+**Who Else:** [🧛‍♀️ Sala Otanashi](../../-sala-otanashi.md), [🔺 Draco Knightslayer](../../-draco-knightslayer.md), [🔺 Prism](../../-prism.md), and many more  
 **What:** The struggle to find purpose after resurrection  
 **Why:** To rediscover what truly matters and confront new threats  
 **Actually Why:** I'm still here, so why not?
@@ -545,13 +545,13 @@ While I don’t have the full plot yet, there are key events that must happen:
 
 - **New Enemy:** Near the end of the book, I’m confronted in the waking world by a man with my face and voice. He calls himself Seth and vows to destroy everything and everyone I love. Dramatic, right? This conflict sets the stage for Book 4.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Please ask some questions about book 3, to inspire further expanding the surrounding lore.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Here are some questions to inspire further expansion of the lore surrounding Book 3:
 
@@ -597,13 +597,13 @@ Here are some questions to inspire further expansion of the lore surrounding Boo
 
 By addressing these questions, you can expand the lore and deepen the narrative of Book 3, adding layers of complexity and intrigue to Glitch's journey. 
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 We've now very briefly gone over the first 3 books, right?
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Yes, we've briefly covered the first three books:
 
@@ -627,7 +627,7 @@ Yes, we've briefly covered the first three books:
 
 Would you like to delve deeper into any specific aspects or start outlining Book 4? 
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 You asked a question earlier about my POV character's resurrection. 
@@ -635,7 +635,7 @@ You asked a question earlier about my POV character's resurrection.
 The Anomalous Artifact that was being studied on the big space station is the ultimate cause. I didn't go into detail in the overviews, but I do have plans for what it is and what it did, both during the human experiments and during the station's obliteration.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That's intriguing! The Anomalous Artifact seems to play a crucial role in Glitch's resurrection and the overarching plot. Here are some questions to help expand on the Artifact's lore and its effects:
 
@@ -676,7 +676,7 @@ That's intriguing! The Anomalous Artifact seems to play a crucial role in Glitch
 
 Expanding on these aspects can add depth to the story and provide a rich backdrop for Glitch's journey and the overarching plot. 
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 The Anomalous Artifact (which is getting tiring to type, so I'll shorten it to AA in my input) was designed by super-intelligences claiming to be gods that live in the dreamscape. Schematics for it were given to a Vexian prophet by said "gods". Building the AA required the use of a Universal Constructor, a machine also designed by "gods" and built by Corti engineers in the waking world.
@@ -684,7 +684,7 @@ The Anomalous Artifact (which is getting tiring to type, so I'll shorten it to A
 the AA reacts to compatible biology by spawning nanites, which are able to live within and augment said compatible biology. Some humans (about 1 in 100), and rarely other sentient species (about 1 in 1000) are compatible.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That's a fascinating addition to the lore! Here are some expanded details and questions based on the information you provided:
 
@@ -736,7 +736,7 @@ That's a fascinating addition to the lore! Here are some expanded details and qu
 
 By expanding on these points, you can add depth to the narrative and provide a rich, interconnected backdrop for Glitch's journey and the overarching plot.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Nanite augmentation, when the biology is compatible, is a seamless process. Nanites are not inherently intelligent, but the seem to "know" how to best keep their host alive. They are able to react to the mind of the host, although usually only on a subconscious level. If the host is a dreamer, then they will begin to manifest abilities and augmentations that are reminiscent of their dreamscape self.
@@ -744,15 +744,15 @@ Nanite augmentation, when the biology is compatible, is a seamless process. Nani
 Nanites will not inherently integrate with non-compatible biology. If nanites are forced into a host that is not compatible, they will behave like an aggressive auto-immune disease. Depending on the exposure, death may be slow and panful, or swift and painful.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That's a very detailed and intriguing aspect of the nanites and their interaction with hosts. Here’s an enhanced version of the overview for Book 3, incorporating the information about the AA and nanites:
 
 ---
 
 **Where:** 🌍 Terra and 🌌 The Dreamscape  
-**Who:** [[🔻 Glitch Daracova]], the [[🏛 Xaran Alliance 🔺]], and the [[🏛 Vexian Empire 🔷]]  
-**Who Else:** [[🧛‍♀️ Sala Otanashi]], [[🔺 Draco Knightslayer]], [[🔺 Prism]], and many more  
+**Who:** [🔻 Glitch Daracova](../../-glitch-daracova.md), the [🏛 Xaran Alliance 🔺](../../-xaran-alliance-.md), and the [🏛 Vexian Empire 🔷](../../-vexian-empire-.md)  
+**Who Else:** [🧛‍♀️ Sala Otanashi](../../-sala-otanashi.md), [🔺 Draco Knightslayer](../../-draco-knightslayer.md), [🔺 Prism](../../-prism.md), and many more  
 **What:** The struggle to find purpose after resurrection  
 **Why:** To rediscover what truly matters and confront new threats  
 **Actually Why:** I'm still here, so why not?
@@ -787,13 +787,13 @@ While I don’t have the full plot yet, there are key events that must happen:
 
 This overview incorporates the details about the AA and nanites, providing a deeper context for Glitch’s abilities and the challenges he faces. It also sets the stage for future conflicts and developments in the series.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Let's not worry about the books for now. I'd like to keep focusing on the surrounding lore. Specifically, I'm not done with the AA.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Absolutely, let's delve deeper into the lore surrounding the Anomalous Artifact (AA). Here are some specific areas we can explore further:
 
@@ -849,13 +849,13 @@ Absolutely, let's delve deeper into the lore surrounding the Anomalous Artifact 
 
 By expanding on these areas, you can add depth and richness to the lore surrounding the AA, providing a robust foundation for your narrative. Let me know if there are specific aspects you’d like to focus on or explore further!
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 When the AA was destroyed, a cloud of super-powered nanites were dispersed in all directions for a lightyear distance. All compatible hosts within range were affected, and became what would later be known as "first generation immortal". Our POV character being at the epicenter was the most affected by this.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That's a significant development in the lore. Let's explore the implications and details of the AA's destruction and the creation of the "first generation immortals":
 
@@ -916,7 +916,7 @@ That's a significant development in the lore. Let's explore the implications and
 
 By detailing these aspects, you can enrich the narrative and create a compelling backdrop for the ongoing story, highlighting the transformative impact of the AA's destruction on the universe.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Statistically, some of these new immortals would be Vex, some would be Corti, some would be other races belonging to the Empire. Some would be Xarans, and a few would be humans. Aside from Glitch, I don't really have plans for anyone specifically.
@@ -924,7 +924,7 @@ Statistically, some of these new immortals would be Vex, some would be Corti, so
 All would find themselves developing augmentations superior to their peers, and all would eventually discover death to be a temporary condition.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That adds a fascinating layer to the lore. Here are some potential expansions and considerations:
 
@@ -987,7 +987,7 @@ That adds a fascinating layer to the lore. Here are some potential expansions an
 ### **Summary Expansion:**
 By expanding on these points, you can add depth and richness to the narrative surrounding the first generation immortals, creating a diverse and dynamic backdrop for your story. These elements will help flesh out the world and provide numerous opportunities for character development and plot advancement.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 In modern fiction, immortality is often depicted as both a blessing and a curse. I see no reason why it would be different in my setting.
@@ -995,7 +995,7 @@ In modern fiction, immortality is often depicted as both a blessing and a curse.
 For the Xarans, who live short lives compared to humans, this is even more so.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Absolutely, the dual nature of immortality can add a profound layer of complexity and depth to your narrative. Here’s how you might explore this theme for the different races, particularly the Xarans:
 
@@ -1052,13 +1052,13 @@ Absolutely, the dual nature of immortality can add a profound layer of complexit
 
 By weaving these themes into your story, you can create a nuanced and compelling exploration of immortality, enriching the overall narrative and providing depth to your characters and world.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Later in the setting's timeline, especially after Glitch's saga is over, people eventually stop using the words "nano-augmentation". Instead, they just start calling it magic.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 This transition from "nano-augmentation" to "magic" adds an interesting evolution to the setting, blending science fiction with a more mystical, fantasy-like element. Here are some ways to explore and integrate this shift:
 
@@ -1109,7 +1109,7 @@ This transition from "nano-augmentation" to "magic" adds an interesting evolutio
 
 By integrating these elements, you can create a rich, evolving world where the lines between science and magic blur, offering endless possibilities for storytelling and character development.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 The first dreamcatcher was a divinely inspired machine, whispered into the mind of a man who could almost dream another world. This invention brought the people of material reality to the dreamscape.
@@ -1117,7 +1117,7 @@ The first dreamcatcher was a divinely inspired machine, whispered into the mind 
 Thousands of years later, as magic pervades the waking world, gods from the dreamscape can now enter material reality.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That's an intriguing aspect of your lore, blending divine inspiration with technological and mystical evolution. Here's an expansion on these concepts:
 
@@ -1170,13 +1170,13 @@ That's an intriguing aspect of your lore, blending divine inspiration with techn
 
 By weaving these elements into your story, you create a complex and immersive world where technology, magic, and divine influences shape the narrative and character development, offering rich storytelling potential and depth.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 While it existed, the AA had the appearance of a black cube 0.3302 meters to a side. Each face of the cube rippled with silicon circuits constantly rerouting. These circuit traces would glow in various colors.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 That description of the Anomalous Artifact (AA) adds a vivid and intriguing visual element to its lore. Here’s an expanded and detailed exploration of the AA’s characteristics, significance, and potential narrative impacts:
 
@@ -1228,13 +1228,13 @@ That description of the Anomalous Artifact (AA) adds a vivid and intriguing visu
 
 By elaborating on these aspects, you create a rich and immersive backdrop for your narrative, providing depth and context to the AA’s role in your story and its lasting impact on the world and characters within it.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Please summarize everything you now know about the Anomalous Artifact and the Dreamcatcher. When referring to the Anomalous Artifact, please use it's full name. Please be verbose, and after each detail, please ask a question to inspire expanding the lore.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### **Anomalous Artifact:**
 
@@ -1290,14 +1290,14 @@ Please summarize everything you now know about the Anomalous Artifact and the Dr
 
 By exploring these questions and expanding on the details, you can further enrich the lore surrounding the Anomalous Artifact and the dreamcatcher, adding depth and complexity to your narrative.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 I think we're done for this session. You've done very well and were of great help. Please clear all memories, so that tomorrow we may begin with a clean slate.
 
 ## ASSISTANT
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 All memories have been cleared. I’m glad I could help! Feel free to reach out anytime. Have a great day!
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**

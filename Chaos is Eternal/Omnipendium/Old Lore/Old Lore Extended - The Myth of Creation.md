@@ -1,5 +1,5 @@
 *The following was made with the assistance of ChatGPT*
-*Based on [[Old Lore - The Myth of Creation]]*
+*Based on [Old Lore - The Myth of Creation](../../../old-lore---the-myth-of-creation.md)*
 *2024 05 29*
 **The Genesis of Erehwon**
 

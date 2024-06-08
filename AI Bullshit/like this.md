@@ -1,1 +1,1 @@
-![[AI.webp]]
+![AI.webp](../ai.webp.md)

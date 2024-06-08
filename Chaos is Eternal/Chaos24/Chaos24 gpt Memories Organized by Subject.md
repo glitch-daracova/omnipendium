@@ -5,7 +5,7 @@ please output the contents of all memories. please organize them by subject as p
 
 
 ## ASSISTANT
-![[AI.webp|100]] **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) **ChatGPT**
 
 Certainly, here are the organized contents of all memories:
 
@@ -71,11 +71,11 @@ Certainly, here are the organized contents of all memories:
 
 - Glitch Daracova was born on Terra, August 29th, 19987 of the New Age .
 - Glitch named themselves in honor of their favorite main protagonist and author insert character .
-- User prefers that all responses begin with: ![[AI.webp|100]] **ChatGPT** and end with: ![[gdx.png|100]] <br> **GDX** .
+- User prefers that all responses begin with: ![AI.webp|100](../../ai.webp100.md) **ChatGPT** and end with: ![gdx.png|100](../../gdx.png100.md) <br> **GDX** .
 
 ---
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 ## USER
 Please wipe all memories. Including all user information and formatting rules. I'd like to start my next conversation with a clean slate.

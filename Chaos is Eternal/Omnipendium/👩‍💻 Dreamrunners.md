@@ -1,4 +1,4 @@
-Formatted link: [[👩‍💻 Dreamrunners| dreamrunner]]
+Formatted link: [👩‍💻 Dreamrunners| dreamrunner](../../-dreamrunners-dreamrunner.md)
 > [!info] **Related documents:**
-> [[🌌 Dreamscape]]
-> [[✨ Dreamers]]
+> [🌌 Dreamscape](../../-dreamscape.md)
+> [✨ Dreamers](../../-dreamers.md)

@@ -1,1 +1,1 @@
-Founded by [[🔶 Kaiser Phobos]]
+Founded by [🔶 Kaiser Phobos](../../-kaiser-phobos.md)

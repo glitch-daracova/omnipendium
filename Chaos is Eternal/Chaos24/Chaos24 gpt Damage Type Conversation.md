@@ -4,7 +4,7 @@ You
 
 i'm making a list of damage types for a LitRPG. I'd like opinions on what I have so far.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 I'd be happy to help you refine your list of damage types for your LitRPG! Please share the damage types you've come up with so far, and I can provide feedback, suggest additions, or help fine-tune the details based on common practices in the genre or potential for interesting gameplay dynamics.
@@ -15,7 +15,7 @@ You
 
 Kinetic is basic physical damage, for when an object strikes another object. If a damage type isn't specified, it's probably this. Nothing that exists physically can be immune to kinetic damage. Other common damage types include Heat, Cold and Electric, of these I don't think any need explanation. Toxic damage is an umbrella for anything poisonous or corrosive. This includes acids, venoms, diseases, radiation, and more. Despite wildly varying methods, these are all considered 'toxic'. Because of these wildly varying methods, nothing that exists physically can be totally immune to toxic damage. Instead, there can only be resistances/immunities to specific sources of toxic damage. Psychic damage doesn't hurt physically, it hurts the mind. If a difficult puzzle has ever left your head hurting, you've experienced psychic damage from a mnemonic agent. An image of impossible geometry that kills anyone who looks at it does so with psychic damage. All creatures with a mind, be it organic or digital, are susceptible to psychic damage.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Your list of damage types for a LitRPG is a solid foundation, covering a broad spectrum of physical and non-physical harm. Here are some thoughts and suggestions for each type and potential additions:
@@ -63,7 +63,7 @@ You
 
 I'm trying to avoid magical shenanigans in this setting, so no generic "magic damage". I also want to avoid "good energy vs evil energy", as the setting will mostly call for moral ambiguity. Sonic damage is an interesting one, although I'm not sure if it shouldn't just be part of kinetic damage. We should look into that further. Environmental damage makes more sense as a damage source rather than a damage type, as it could hurt in all kinds of ways.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Given your focus on avoiding magical elements and maintaining moral ambiguity, along with your considerations regarding sonic and environmental damage, let's refine these concepts within your setting's framework.
@@ -100,7 +100,7 @@ You
 
 What are some other damage types I may be missing?
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Expanding on your already comprehensive list of damage types and considering your setting's avoidance of magical elements, there are a few additional categories that might enrich your LitRPG's gameplay and world-building. These types can add depth and complexity, encouraging players to strategize and adapt to various threats.
@@ -143,7 +143,7 @@ You
 
 Based on what you've suggested, I think my existing system is sufficiently comprehensive. Thank you for helping me solidify this decision.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 You're welcome! I'm glad to hear that your damage system feels comprehensive and well-rounded. It sounds like you've put a lot of thought into creating a balanced and immersive gameplay experience. If you ever need further assistance, whether it's refining mechanics, exploring lore, or anything else related to your LitRPG, feel free to reach out. Happy writing and game designing!

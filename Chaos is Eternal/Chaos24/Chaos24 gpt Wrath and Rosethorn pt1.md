@@ -4,7 +4,7 @@ You
 
 let's focus on something else. I've got an idea for a character, but I'm not sure what point in time in the narrative that they'd best fit.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Great, let's explore your character idea! To help find the right point in your narrative for this new character, we can start by discussing some key aspects of their creation:
@@ -30,7 +30,7 @@ You
 
 They called her Wrath. The physical embodiment of rage. It's not her fault though. In her tragic backstory, she had forced upon her a mechanical augmentation to her brain. This augmentation caused her pain whenever she'd feel anything that wasn't anger.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Stopped talking to undefined
@@ -54,7 +54,7 @@ You
 
 Rosethorn is a voidborn, and an empath. He has many abilities, but relevant here is his ability to take away the pain of others.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Stopped talking to undefined
@@ -82,7 +82,7 @@ You
 
 the two met in a gladiatorial arena, both slaves forced to fight on opposing sides. She could have killed him easily (so she claims), but refused to do so. He made life tolerable.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Stopped talking to undefined
@@ -108,7 +108,7 @@ You
 
 Together, Wrath and Rosethorn lead a rebellion against their captors. They succeeded in liberating many slave gladiators, but were forced on the run.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 The rebellion and subsequent flight add a dynamic arc to Wrath and Rosethorn's story, showcasing their courage and the strength of their bond. Here’s how you might further develop this storyline:
@@ -146,7 +146,7 @@ You
 
 The forces of the rebellion were forced to retreat into the mountains, where a last stand was made. In this climactic battle, Rosethorn was gravely wounded. Bleeding out in Wrath's arms, he whispers his last words "I'll return in a thousand years", and dies. Wrath is pissed.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 This climactic and emotional scene adds significant weight to Wrath and Rosethorn's story. Rosethorn's prophecy of returning in a thousand years could introduce new plotlines and mysteries for future narratives. Here are some potential directions for the story following this pivotal moment:
@@ -184,7 +184,7 @@ You
 
 The battle went horribly for the rebels. Wrath survived, due to being teleported out by an outside observer who otherwise was not involved. All of the rebellious slaves were slain, as Wrath watched, unable to save anyone.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 This grim turn of events heightens the stakes and adds layers of trauma and survivor's guilt to Wrath's character. Here's how this development could shape the narrative moving forward:
@@ -227,7 +227,7 @@ You
 
 Please summarize everything you now know about Wrath and Rosethorn. Be verbose, and feel free to extrapolate on details I've neglected.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 ### Wrath

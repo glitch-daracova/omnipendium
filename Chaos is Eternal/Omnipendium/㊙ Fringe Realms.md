@@ -1,5 +1,5 @@
 # The Fringe Realms
-[[㊙ Fringe Realms]]
+[㊙ Fringe Realms](../../-fringe-realms.md)
 
 > [!tip] ㊙️ Secret Knowledge ㊙️
 > This page contains information that is not intended to be widely known, not even among readers. Proceed at your own risk.

@@ -13,7 +13,7 @@ Stratos: God of air, knowledge, and magic.
 Charnel: God of death, pain, and suffering.
 
 ---
-[[Chaos24 House Yakobe]]
+[Chaos24 House Yakobe](../../chaos24-house-yakobe.md)
 The Godly House Yakobe isn't just a building, but eight sibling gods, all young newcomers who are unaccustomed to the power and responsibilities of being gods. I do not have names for these gods, can you make some suggestions based on the powers they have?
 1: The Queen has the power of balance. She can amplify the powers of her chosen, and disable the powers of her foes.
 2: The Regent has the power of gravity. She can manipulate matter at will.

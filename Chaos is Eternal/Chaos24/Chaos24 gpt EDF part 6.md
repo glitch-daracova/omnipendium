@@ -1,4 +1,4 @@
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Expanding on the concept of the Great Houses and their roles within the Empire of the Darkness Flame can provide a richer understanding of the empire's structure and dynamics. Here's a more detailed look at the functions and interactions of these institutions:
 
@@ -43,11 +43,11 @@ Expanding on the concept of the Great Houses and their roles within the Empire o
 
 Exploring these areas can add depth to the lore and provide a comprehensive understanding of the intricate power structures within the Empire of the Darkness Flame.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 Please suggest more alternative names for "Great Houses".
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Certainly! Here are some alternative names for the "Great Houses":
 
@@ -64,11 +64,11 @@ Certainly! Here are some alternative names for the "Great Houses":
 
 Each of these names aims to convey the prestige, authority, and structure of these powerful entities within the Empire of the Darkness Flame.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 I'm going to get the original author to weigh in on the name, in the meantime, let's focus on something else.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Of course! We can shift our focus to another aspect of the Empire of the Darkness Flame. Here are a few suggestions:
 
@@ -80,13 +80,13 @@ Of course! We can shift our focus to another aspect of the Empire of the Darknes
 
 Which of these areas would you like to explore further, or is there another aspect you’re interested in focusing on?
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 There is an artifact, I believe mentioned in passing, referred to as a "manasword". The following was copied from my notes.
 
 > Manaswords are magical artifacts designed as a focus for the wielder's potential. Using the wielder's very life force as fuel, these devices emit a powerful beam of **Pure Energy**, usually one meter in length. The color of the beam can vary depending on the manufacture of the device, or the natural aura of the user.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Manaswords sound like fascinating and powerful artifacts within the Empire of the Darkness Flame. They serve as both weapons and symbols of the wielder’s potential and status. Here’s a more detailed exploration of manaswords:
 
@@ -122,11 +122,11 @@ Manaswords sound like fascinating and powerful artifacts within the Empire of th
 
 Exploring these aspects can provide a deeper understanding of the significance and functionality of manaswords within the Empire of the Darkness Flame, adding layers to the lore and the narrative potential of your setting.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 Within the cult academy, it is expected for students to learn how to project such a weapon using their own power. Relying on a manasword device is viewed as training wheels, making the wielder appear inept.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 This expectation within the Cult Academy underscores the importance of personal mastery and power. Learning to project a weapon using one's own energy is seen as a crucial step in proving an initiate's worth and capability.
 
@@ -156,11 +156,11 @@ This expectation within the Cult Academy underscores the importance of personal 
 
 Exploring these elements can provide a comprehensive view of the training process at the Cult Academy and the cultural significance of mastering energy projection, adding depth to the lore of the Empire of the Darkness Flame.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 While specifics on other cultures are beyond the scope of this conversation, it is worth mentioning that manaswords have been made and used outside the EDF. Manaswords made by the cult tend to be easily identified as such, due to a natural aura of malevolence surrounding the device.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 The use of manaswords beyond the Empire of the Darkness Flame introduces a broader context for these artifacts and highlights the distinct characteristics of those crafted by the cult.
 
@@ -186,11 +186,11 @@ The use of manaswords beyond the Empire of the Darkness Flame introduces a broad
 
 Exploring these elements can expand the narrative scope of manaswords and their influence, providing a richer context for their use within and beyond the Empire of the Darkness Flame.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 Given what you now know about manaswords, please generate an article about such devices suitable for a wiki page. Please make this article culture-agnostic, leaving out EDF specific details and focusing only on the devices themselves. For this article, feel free to extrapolate details based on what was previously discussed.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 ### Manaswords
 
@@ -232,11 +232,11 @@ Given what you now know about manaswords, please generate an article about such 
 
 Manaswords are powerful and versatile magical artifacts that serve as both weapons and symbols of magical prowess. Their use and mastery require significant skill and commitment, reflecting the wielder's journey towards understanding and harnessing their inner potential. Whether used in training, combat, or ceremonial contexts, manaswords continue to be revered across various cultures for their unique ability to channel and project life energy.
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**
 
 Previously, you helped make the name "Order of Octogrammic Knights", which is an excellent name implying the power and authority of the EDF's knights. The archdemons deserve a similar collective name, which would imply their status as the defacto pantheon of the EDF.
 
-![[AI.webp|100]] <br> **ChatGPT**
+![AI.webp|100](../../ai.webp100.md) <br> **ChatGPT**
 
 Certainly! Here are some suggestions for a collective name for the Archdemons, reflecting their status as the de facto pantheon of the Empire of the Darkness Flame:
 
@@ -253,4 +253,4 @@ Certainly! Here are some suggestions for a collective name for the Archdemons, r
 
 Each of these names aims to convey the power, authority, and divine status of the Archdemons within the EDF. Which one resonates most with you, or would you like to modify or combine any of these suggestions?
 
-![[gdx.png|100]] <br> **GDX**
+![gdx.png|100](../../gdx.png100.md) <br> **GDX**

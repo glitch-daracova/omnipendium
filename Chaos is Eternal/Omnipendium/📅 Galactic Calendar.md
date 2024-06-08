@@ -1,5 +1,5 @@
-Within [[🌌 Material Reality]]
+Within [🌌 Material Reality](../../-material-reality.md)
 
 See
-> [[📅 New Age]]
-> [[📅 Anno Domini]]
+> [📅 New Age](../../-new-age.md)
+> [📅 Anno Domini](../../-anno-domini.md)

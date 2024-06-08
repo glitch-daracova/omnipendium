@@ -1,4 +1,4 @@
-Formatted Link: [[🟩 EDF Andoral | Andoral]]
+Formatted Link: [🟩 EDF Andoral | Andoral](../../-edf-andoral--andoral.md)
 
 ANDORAL _The price for weakness is damnation._ Role: Warden of Souls Title(s): The Devourer, The Shadow's Twin Domain(s): Hunger, Slavery, Corruption Channel: Souls Specialty: Soul Manipulation Personality: Wrath
 

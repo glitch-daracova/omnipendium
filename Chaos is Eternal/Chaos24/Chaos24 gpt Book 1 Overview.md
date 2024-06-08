@@ -1,6 +1,6 @@
 **GPT Conversation Book24F**
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 I am introduced as a dreamer. Within the dreamscape I am a swordsman and sorcerer, doing quests for whomever grants interesting rewards.
@@ -25,7 +25,7 @@ Sala and Diva's reunion was heartfelt, but probably would have been more impactf
 
 The book will conclude with me attempting to go back to my regular dreamscape questing. I soon reawaken, finding myself not at home but in space. I had been abducted by aliens.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 *edited*
 Your overview is intriguing and sets the stage for an engaging story. Here's a revised version with some expansions and refinements:

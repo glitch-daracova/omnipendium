@@ -1,5 +1,5 @@
-Where: [[🌎 Terra]] and the [[🌌 Dreamscape]]
-Who: [[🔻 Glitch Daracova]] and [[🧛‍♀️ Sala Otanashi]]
+Where: [🌎 Terra](../../-terra.md) and the [🌌 Dreamscape](../../-dreamscape.md)
+Who: [🔻 Glitch Daracova](../../-glitch-daracova.md) and [🧛‍♀️ Sala Otanashi](../../-sala-otanashi.md)
 Who Else: Many characters not named
 What: My origin story
 Why: Because I'm an egocentric ass and of course the first book is about me

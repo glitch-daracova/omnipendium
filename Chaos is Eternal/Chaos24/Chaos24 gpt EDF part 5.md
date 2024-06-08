@@ -1,16 +1,16 @@
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 The original author has responded, and he's stoked about what we've done. I'm going to break apart his response into sections and give it to you piece by piece. As we go along, I'd like you to help track inconsistencies and contradictions between the following and what we established earlier in this conversation.
 
   
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That's great to hear! I'm ready to review the sections of the original author's response as you provide them. I'll help track any inconsistencies or contradictions with the details we've established earlier. Just send the sections over when you're ready!
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *What specific traditions or ceremonies mark someone’s rise to knighthood within the Order?*
@@ -23,7 +23,7 @@ When a promising contender challenges a knight, there is a ceremony that guarant
 
 The victor is granted the soul, powers, and titles from their victim.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Thank you for sharing this detailed description of the traditions and ceremonies marking a rise to knighthood within the Order of the Octogrammic Knights. This process emphasizes the competitive and perilous nature of achieving and maintaining the status of a knight in the Empire of the Darkness Flame.
@@ -44,7 +44,7 @@ These questions can help deepen the lore around the knighthood ceremonies and th
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *How does the relationship between a knight and their squires function on a day-to-day basis?*
@@ -53,7 +53,7 @@ In most cases, its ideal for a squire to rarely have to see a knight and only to
 
 Otherwise, to be around a knight is a sign that the squire is lacking in their duty and thus forcing the knight to be present to see the task done. If this is the case, it is very likely the squire or squires originally assigned to the task will be killed and consumed by their knight.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The dynamic between knights and their squires in the Empire of the Darkness Flame is marked by a strong emphasis on independence and competence. Squires are expected to handle their duties with minimal direct oversight, and failure to do so has severe consequences, up to and including death.
@@ -74,7 +74,7 @@ Exploring these aspects can help provide a deeper understanding of the social an
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *What are the personal ambitions of individual knights within the broader context of the Empire of the Darkness Flame?*
@@ -113,7 +113,7 @@ Exploring these questions can provide deeper insights into the motivations drivi
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *How do the knights interact with each other? Is there rivalry, cooperation, or a strict hierarchy among them?*
@@ -124,7 +124,7 @@ Kaden is the most targeted in this manner, for not only being a human boy upon k
  
 Ra'jaad and Kaden hold the most animosity towards each other out of all the petty rivalries within the 8.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The dynamics among the knights of the Order of the Octogrammic Knights reveal a complex interplay of respect, prejudice, and rivalry. This environment shapes their interactions and potentially influences their actions within the Empire of the Darkness Flame.
@@ -144,7 +144,7 @@ Exploring these aspects can help provide a clearer picture of the internal worki
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *In the name of Toth, I charge you to be ruthless.
@@ -159,7 +159,7 @@ Toth before me,
 Andoral behind me,
 Beneath my feet, the ground of the Empress.*
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The ceremonial rites and invocations used during the knighting ceremonies of the Order of the Octogrammic Knights emphasize the deep integration of religious and spiritual elements within the Empire of the Darkness Flame. The charges invoke the names of Archdemons Toth, Dumat, and Razikale, aligning the knight's virtues with those of the empire's powerful figures. The prayer involving the Archdemons and the Empress reinforces the sacredness and the hierarchical reverence within the empire.
@@ -179,7 +179,7 @@ Exploring these aspects can help deepen the understanding of the spiritual and h
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *What is the daily life like for a student at the Cult Academy, from induction to being chosen by a master?*
@@ -194,7 +194,7 @@ The chosen initiate then retires their benefactor by returning their academy bad
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *Who are the notable masters at the Cult Academy, and what are their teaching philosophies or specialties?*
@@ -205,7 +205,7 @@ The masters are starkly unique to each other in their teaching methods and subje
 
 “Peace is a lie. There is only passion. Through passion I gain strength. Through strength I gain power. Through power I gain victory. Through victory my chains are broken. The Darkness Flame will set me free.”
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The description of a student's journey at the Cult Academy from induction to potentially being chosen by a master outlines a rigorous and perilous path filled with academic, martial, and magical training, alongside a continuous evaluation of their worthiness and ability to contribute to the Empire of the Darkness Flame.
@@ -225,14 +225,14 @@ Exploring these aspects can provide a deeper understanding of the training regim
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *How do the academy’s teachings reflect or propagate the religious and militaristic values of the Empire of the Darkness Flame?*
 
 The academy offers a way to become part of the divine family of the Emperor and Empress, and become prayed to yourself, one day. To become a zealot of the religion is to become prepared to join in divine glory and might in a literal sense, to have the chance to become the true arm of the God-Emperor and God-Empress.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The teachings at the Cult Academy not only aim to instill deep religious and militaristic values in the students but also provide a transformative path that aligns with the divine and deified structure of the Empire of the Darkness Flame. The promise of ascending to become part of the divine family of the Emperor and Empress underscores the profound integration of religious fervor with political and military ambitions within the empire.
@@ -252,7 +252,7 @@ Exploring these aspects can deepen the understanding of how the Cult Academy ser
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 (The following text was written by the EDF's original author)
 *What happens to initiates who fail to impress a master? Are there alternative paths or roles for them within the empire?*
@@ -261,7 +261,7 @@ An initiate can always be of use in the academy for the masters even if the init
 
 If such an initiate can survive fellow students being sent after them while continuing as a student, then they will regain prestige. Perhaps even a chance to be noticed by the headmaster one day, though it might take many, many semesters for this to happen, and the academies are deadly.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The process for initiates who fail to impress a master at the Cult Academy reveals a highly competitive and perilous environment. Those deemed weak are used as tests for their peers, adding a brutal element to the academy's culture that emphasizes survival and resilience as paths back to favor.
@@ -281,12 +281,12 @@ Exploring these aspects can provide deeper insights into the dynamics at the Cul
 
 ---
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 That's everything so far. let's talk about it.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Fantastic! We've covered quite a bit about the Empire of the Darkness Flame, from the intricate details of Vedaric's origins to the rigorous and dangerous life at the Cult Academy. This gives us a rich tapestry of political, military, and spiritual elements to discuss and potentially expand upon.
@@ -300,12 +300,12 @@ Here are a few broad topics we could dive into or clarify further:
 
 Which of these areas interests you the most, or is there another aspect of the lore you'd like to focus on?
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 I noticed that the path through the academy that I described is very different from the one that the original author described. I think this can be reconciled by various campuses having different methods of processing aspirants.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That's a great way to reconcile the differences in descriptions! Having various campuses with distinct training methods and cultures could add depth to the Empire of the Darkness Flame, showing how diverse and adaptable its educational system is. This approach also allows for a variety of stories and character backgrounds depending on which campus an individual attended.
@@ -319,12 +319,12 @@ Here are some aspects you could explore with this setup:
 
 Would you like to delve deeper into how these campuses are structured or perhaps focus on developing specific aspects of their differences?
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Also, I previously said that there was no "graduation" per se. I was wrong. The Ritual is the graduation. I'm not familiar with the details, unfortunately.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Understanding that The Ritual serves as a form of graduation helps to clarify the endpoint of an initiate's journey at the Cult Academy. Even without the details, knowing there is a significant ceremonial conclusion to the training gives a clear goal for the students and can be a pivotal moment in their development and integration into the broader structures of the Empire of the Darkness Flame.
@@ -338,12 +338,12 @@ Here are some potential areas to explore or think about concerning The Ritual:
 
 If you're interested in developing this concept further, we could brainstorm potential ceremonies and rites that could be included in The Ritual, or explore how it influences the lives of the initiates after they complete it.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Let's explore the process. An aspirant (sometimes called a "hopeful"), is an individual who is not yet part of the Cult Academy, but wishes to be. Every campus has different rules for how an aspirant can become an initiate. Some require a benefactor to vouch for the aspirant, usually the more prestigious campuses. Other campuses use the test of the wailing gate, and allow anyone to attempt. An initiate has only just begun their journey through the Cult Academy. Think of them as "freshmen" in college, except this college is deadly. They are given a manasword hilt, an academy uniform, and a badge notating their status within the academy.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Thank you for the detailed description of the aspirant and initiate stages at the Cult Academy. This distinction helps clarify the early stages of an individual's journey through the academy.
@@ -380,12 +380,12 @@ To further develop this process, let's consider the following:
 
 By exploring these aspects, we can provide a comprehensive view of the journey from aspirant to initiate, setting the stage for further development in the Cult Academy.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Benefactors can be anyone of sufficient rank within the Cult. The only real requirements are that you must have undergone the graduation ritual, and hold some kind of position within the larger cult. Being the benefactor of a successful student will help your own prestige.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 This additional detail about benefactors enriches the narrative of the Cult Academy, highlighting the interconnected nature of advancement and prestige within the cult. Benefactors play a crucial role in the development of new initiates, and their own status is directly influenced by the success of those they vouch for.
@@ -411,12 +411,12 @@ This additional detail about benefactors enriches the narrative of the Cult Acad
 
 By exploring these aspects, we can provide a deeper understanding of the roles and dynamics involved in the early stages of an initiate's journey through the Cult Academy.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Please summarize everything you've learned since I last asked for a summary. Please be verbose, and after every subject, include some questions to inspire expanding the lore.
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 **Vedaric Nox Rammus’s Origin and Transformation:** Vedaric Nox Rammus hails from the realm of Azer_os, which, while less tumultuous than other realms, faced a significant, ongoing conflict where the living were under siege by the dead, ruled by the Lich King. Vedaric, initially a hopeful hero, challenged the Lich King to single combat but failed and subsequently served him. Zebulah, Vedaric's childhood friend and the only individual not bound by the psychic pledge, facilitated their escape to another realm by making a deal with a demon, marking the beginning of their partnership and habit of outmaneuvering more powerful beings.
@@ -469,5 +469,5 @@ Please summarize everything you've learned since I last asked for a summary. Ple
 
 By exploring these questions and elements, we can provide a comprehensive and cohesive narrative that delves into the complexities and intricacies of the Empire of the Darkness Flame.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**

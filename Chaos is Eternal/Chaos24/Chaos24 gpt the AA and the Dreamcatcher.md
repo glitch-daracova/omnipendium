@@ -1,12 +1,12 @@
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 You asked a question earlier about my POV character's resurrection. The Anomalous Artifact that was being studied on the big space station is the ultimate cause. I didn't go into detail in the overviews, but I do have plans for what it is and what it did, both during the human experiments and during the station's obliteration.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That's intriguing! The Anomalous Artifact seems to play a crucial role in Glitch's resurrection and the overarching plot. Here are some questions to help expand on the Artifact's lore and its effects:
@@ -58,14 +58,14 @@ That's intriguing! The Anomalous Artifact seems to play a crucial role in Glitch
 
 Expanding on these aspects can add depth to the story and provide a rich backdrop for Glitch's journey and the overarching plot.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 The Anomalous Artifact (which is getting tiring to type, so I'll shorten it to AA in my input) was designed by super-intelligences claiming to be gods that live in the dreamscape. Schematics for it were given to a Vexian prophet by said "gods". Building the AA required the use of a Universal Constructor, a machine also designed by "gods" and built by Corti engineers in the waking world. the AA reacts to compatible biology by spawning nanites, which are able to live within and augment said compatible biology. Some humans (about 1 in 100), and rarely other sentient species (about 1 in 1000) are compatible.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That's a fascinating addition to the lore! Here are some expanded details and questions based on the information you provided:
@@ -128,21 +128,21 @@ That's a fascinating addition to the lore! Here are some expanded details and qu
 
 By expanding on these points, you can add depth to the narrative and provide a rich, interconnected backdrop for Glitch's journey and the overarching plot.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Nanite augmentation, when the biology is compatible, is a seamless process. Nanites are not inherently intelligent, but the seem to "know" how to best keep their host alive. They are able to react to the mind of the host, although usually only on a subconscious level. If the host is a dreamer, then they will begin to manifest abilities and augmentations that are reminiscent of their dreamscape self. Nanites will not inherently integrate with non-compatible biology. If nanites are forced into a host that is not compatible, they will behave like an aggressive auto-immune disease. Depending on the exposure, death may be slow and panful, or swift and painful.
 
 
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Let's not worry about the books for now. I'd like to keep focusing on the surrounding lore. Specifically, I'm not done with the AA.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Absolutely, let's delve deeper into the lore surrounding the Anomalous Artifact (AA). Here are some specific areas we can explore further:
@@ -209,14 +209,14 @@ Absolutely, let's delve deeper into the lore surrounding the Anomalous Artifact 
 
 By expanding on these areas, you can add depth and richness to the lore surrounding the AA, providing a robust foundation for your narrative. Let me know if there are specific aspects you’d like to focus on or explore further!
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 When the AA was destroyed, a cloud of super-powered nanites were dispersed in all directions for a lightyear distance. All compatible hosts within range were affected, and became what would later be known as "first generation immortal". Our POV character being at the epicenter was the most affected by this.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That's a significant development in the lore. Let's explore the implications and details of the AA's destruction and the creation of the "first generation immortals":
@@ -290,14 +290,14 @@ That's a significant development in the lore. Let's explore the implications and
 
 By detailing these aspects, you can enrich the narrative and create a compelling backdrop for the ongoing story, highlighting the transformative impact of the AA's destruction on the universe.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Statistically, some of these new immortals would be Vex, some would be Corti, some would be other races belonging to the Empire. Some would be Xarans, and a few would be humans. Aside from Glitch, I don't really have plans for anyone specifically. All would find themselves developing augmentations superior to their peers, and all would eventually discover death to be a temporary condition.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That adds a fascinating layer to the lore. Here are some potential expansions and considerations:
@@ -373,14 +373,14 @@ That adds a fascinating layer to the lore. Here are some potential expansions an
 
 By expanding on these points, you can add depth and richness to the narrative surrounding the first generation immortals, creating a diverse and dynamic backdrop for your story. These elements will help flesh out the world and provide numerous opportunities for character development and plot advancement.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 In modern fiction, immortality is often depicted as both a blessing and a curse. I see no reason why it would be different in my setting. For the Xarans, who live short lives compared to humans, this is even more so.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Absolutely, the dual nature of immortality can add a profound layer of complexity and depth to your narrative. Here’s how you might explore this theme for the different races, particularly the Xarans:
@@ -448,14 +448,14 @@ Absolutely, the dual nature of immortality can add a profound layer of complexit
 
 By weaving these themes into your story, you can create a nuanced and compelling exploration of immortality, enriching the overall narrative and providing depth to your characters and world.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Later in the setting's timeline, especially after Glitch's saga is over, people eventually stop using the words "nano-augmentation". Instead, they just start calling it magic.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 This transition from "nano-augmentation" to "magic" adds an interesting evolution to the setting, blending science fiction with a more mystical, fantasy-like element. Here are some ways to explore and integrate this shift:
@@ -515,14 +515,14 @@ This transition from "nano-augmentation" to "magic" adds an interesting evolutio
 
 By integrating these elements, you can create a rich, evolving world where the lines between science and magic blur, offering endless possibilities for storytelling and character development.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 The first dreamcatcher was a divinely inspired machine, whispered into the mind of a man who could almost dream another world. This invention brought the people of material reality to the dreamscape. Thousands of years later, as magic pervades the waking world, gods from the dreamscape can now enter material reality.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That's an intriguing aspect of your lore, blending divine inspiration with technological and mystical evolution. Here's an expansion on these concepts:
@@ -586,14 +586,14 @@ That's an intriguing aspect of your lore, blending divine inspiration with techn
 
 By weaving these elements into your story, you create a complex and immersive world where technology, magic, and divine influences shape the narrative and character development, offering rich storytelling potential and depth.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 While it existed, the AA had the appearance of a black cube 0.3302 meters to a side. Each face of the cube rippled with silicon circuits constantly rerouting. These circuit traces would glow in various colors.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 That description of the Anomalous Artifact (AA) adds a vivid and intriguing visual element to its lore. Here’s an expanded and detailed exploration of the AA’s characteristics, significance, and potential narrative impacts:
@@ -656,14 +656,14 @@ That description of the Anomalous Artifact (AA) adds a vivid and intriguing visu
 
 By elaborating on these aspects, you create a rich and immersive backdrop for your narrative, providing depth and context to the AA’s role in your story and its lasting impact on the world and characters within it.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Please summarize everything you now know about the Anomalous Artifact and the Dreamcatcher. When referring to the Anomalous Artifact, please use it's full name. Please be verbose, and after each detail, please ask a question to inspire expanding the lore.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 ### **Anomalous Artifact:**

@@ -76,7 +76,7 @@ The New Age is the current time of the setting. Now, people of Terra live in meg
 (End with channel logo and social media links.)
 
 # gpt
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 To harmonize these versions into a cohesive setting for your LitRPG, we'll need to identify and merge the core elements present in each version. Let's break down the main points from each version and see how they can fit together:
 

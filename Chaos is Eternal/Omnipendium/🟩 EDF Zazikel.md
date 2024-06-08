@@ -1,4 +1,4 @@
-Formatted link: [[🟩 EDF Zazikel | Zazikel]]
+Formatted link: [🟩 EDF Zazikel | Zazikel](../../-edf-zazikel--zazikel.md)
 
 ZAZIKEL _Claim what is yours from the weak._ Role: Warden of Hells Title(s): The Destructor, The Devil of Devils Domain(s): Fiend, Destruction, Chaos Channel: Infernal Specialty: Chaos Magic Personality: Greed
 

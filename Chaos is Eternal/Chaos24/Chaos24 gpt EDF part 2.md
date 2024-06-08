@@ -1,5 +1,5 @@
   
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 **Order of the Octogrammic Knights:** The Order of the Octogrammic Knights in the Empire of the Darkness Flame is a highly esteemed and powerful group directly subordinate only to the Emperor, Empress, and the Archdemons. Each knight has risen through the ranks by defeating their predecessors until they had no mortal masters left to challenge. These knights are known for their ruthlessness, effectiveness, and immense power, embodying the empire’s ideals of strength and conquest. Each knight commands dozens, if not hundreds, of squires, some even managing entire organizations to handle their numerous subordinates. These squires are integral to the functioning and extension of a knight’s influence within the empire.

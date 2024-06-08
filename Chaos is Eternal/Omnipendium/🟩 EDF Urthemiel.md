@@ -1,4 +1,4 @@
-Formatted Link: [[🟩 EDF Urthemiel | Urthemiel]]
+Formatted Link: [🟩 EDF Urthemiel | Urthemiel](../../-edf-urthemiel--urthemiel.md)
 
 URTHEMIEL _The death of the gods is the birth of our divinity._ Role: Warden of Heavens Title(s): The Monster, The False Goddess Domain(s): Celestial, Beauty, Hate Channel: Divinity Specialty: Divine Magic Personality: Lust
 

@@ -3,7 +3,7 @@ You
 
 I'm thinking about some ideas for Eklyps_ia. It is a small realm, about the size of a kingdom in other realms.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Noted! Eklyps_ia being about the size of a kingdom offers a manageable yet significant scope for storytelling and world-building. Here are a few ideas to explore within this realm:
@@ -28,7 +28,7 @@ You
 
 At the center of the realm is the Estate. a gargantuan manor with sprawling wings and attachments. It is obvious that it was built over a long period of time, with several architects contributing conflicting ideologies to the design.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 The Estate sounds like a fascinating centerpiece for Eklyps_ia, rich with history and architectural intrigue. Here are some ideas for how you could further develop this location within your narrative:
@@ -55,7 +55,7 @@ You
 
 The Estate is the primary home of the Yakobe gods, but most of them don't actually spend much time there, preferring their own corners of Eklyps_ia instead. Aside from the legions of servants, house staff, operational employees, and other mortals who keep the Estate and its affairs running, only Jane Eqlar and Nora Materia actually live in the Estate.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 With Jane Eqlar and Nora Materia as the primary residents of the Estate, and other members of House Yakobe preferring different locales within Eklyps_ia, you can explore a variety of narrative dynamics centered around this setting:
@@ -81,7 +81,7 @@ You
 
 Surrounding the Estate is a lush forest, filled with wildlife both mundane and fantastic. There are roads through this forest which connect the Estate to the nearby towns and cities. These roads are paved with ornate tilework, and are travelled by mechanical horses pulling chariots and carriages.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 The vivid imagery of the forest surrounding the Estate and the ornate roads traveled by mechanical horses adds a magical yet grounded element to Eklyps_ia. Here are some ways you might further develop this setting:
@@ -109,7 +109,7 @@ You
 
 The city of Veridian is the largest (or only, depending on definition) metropolis in Eklyps_ia. Veridian features neon lights, skyscrapers of glass and steel, an overwhelming aesthetic preference for the color green, and the most advanced technology in the realm.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Veridian sounds like a vibrant and technologically advanced city that could serve as a key location within Eklyps_ia. Here are some ways you might explore and develop Veridian in your narrative:
@@ -137,7 +137,7 @@ You
 
 Azka Quickshade calls Veridian her home, and is the city's patron god. Her will influences the shape of the city. She does not directly rule nor control the city, however. Veridian has a mayor and other elected officials. There are also private organizations that do business with other parts of Eklyps_ia and even with realms beyond.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 With Azka Quickshade as the patron god influencing Veridian's development but not directly governing, the city presents a fascinating mix of divine influence and democratic governance. Here are some ways you might explore this dynamic in your narrative:
@@ -163,7 +163,7 @@ You
 
 Tucked away in the vast forests of Eklyps_ia is a grove of colossal cherry blossom trees known as Fortuna. There is a town living in the branches of these trees, populated by elves who were displaced from their homes in other realms. Many fey kind live here.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Fortuna sounds like a captivating and visually stunning setting within Eklyps_ia. Here are some ideas on how to develop this location and its inhabitants in your narrative:
@@ -191,7 +191,7 @@ You
 
 Kari, known as the Fairy of Fortuna, is the patron god of Fortuna. She imposes few real rules, but gambling is strictly forbidden. Games of chance are still allowed, but not wagering on them.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Kari's role as the patron god who forbids gambling in Fortuna adds an interesting cultural nuance to the town. Here's how you can develop this aspect of her influence and the broader impact on Fortuna:
@@ -217,7 +217,7 @@ You
 
 Sometimes, if someone is ill or wounded and the hospitals of Veridian cannot help them, they might try to make a journey to Fortuna to find healing with luck and fairy magic.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 That's a compelling aspect of Fortuna's role within Eklyps_ia, serving as a place of last resort for those seeking healing beyond conventional means. Here are some ways you might explore this element in your narrative:
@@ -243,7 +243,7 @@ You
 
 The culture and magic of Fortuna is highly based around luck. Specifically doing things to cultivate good luck and suppress bad luck. There is an air of whimsy around Fortuna. It is common for the elves of Fortuna to joke and play tricks on each other, and even more so on visitors who are not of fey kind.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 The whimsical and luck-based culture of Fortuna provides a rich tapestry for storytelling. Here are some ideas on how you might further explore and depict this unique cultural atmosphere in your narrative:
@@ -269,7 +269,7 @@ You
 
 Far from the forests and deep in the barren wastelands stands a solitary Tower. The home of one Mageon Zane.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Mageon Zane's solitary tower in the barren wastelands of Eklyps_ia sets a stark and intriguing contrast to the lush, whimsical environment of Fortuna. Here are some ways you might explore and develop this setting in your narrative:
@@ -297,7 +297,7 @@ You
 
 Zane, and the occasional visitor, are the only living creatures for miles around. The tower is largely operated and maintained by arcane golems of Zane's design. The tower itself is massive, and continues to grow year after year.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Mageon Zane's tower, with its self-sustaining golems and continuous growth, presents a fascinating location full of potential for storytelling. Here are some ideas on how to weave this into your narrative:
@@ -325,7 +325,7 @@ You
 
 There is an abandoned town at the edge of this wasteland, were it meets the mountains. This town was once home to Kai Ruinor, who disappeared many years ago. These days, Kai spends little time in Eklyps_ia at all, focusing his efforts on his new duties as Kaiser Ruinor in Aeth_yr.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 The abandoned town and Kai Ruinor's backstory provide rich elements for your narrative. Here are some ways you might explore this setting and its connection to Kai Ruinor's character development:
@@ -353,7 +353,7 @@ You
 
 Sora Stormsong and Voli Lumiscale are both nomadic, and have not claimed any particular piece of Eklyps_ia as their own. Instead they travel, sometimes together, sometimes not, throughout the realm and sometimes beyond.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 That's an interesting dynamic for Sora Stormsong and Voli Lumiscale, adding a sense of adventure and unpredictability to their characters. Here are some ways you might explore their nomadic lifestyles in your narrative:
@@ -381,7 +381,7 @@ You
 
 Please summarize everything you now know about Eklyps_ia. Be verbose.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Eklyps_ia is a richly detailed realm within the Dreamscape, governed by the mysterious and powerful House Yakobe. Here’s a comprehensive summary of Eklyps_ia, its key locations, and its prominent inhabitants:

@@ -6,7 +6,7 @@ You
 
 I'm imagining a crossover between Warframe and Warhammer40k, in which a small group of Tenno get isekai'ed into the 41st millenium.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 That sounds like an epic crossover concept! Merging the world of _Warframe_ with _Warhammer 40k_ could result in some truly intense and fascinating scenarios. The Tenno, with their advanced technology and warrior ethos, landing in the grimdark universe of the 41st millennium, would have to navigate a galaxy filled with endless war, dark gods, and myriad alien threats.
@@ -23,7 +23,7 @@ You
 
 First, the isekai itself. Eight Tenno operatives (two teams of four) are on a Corpus ship with an experimental hyperdrive. One team is there to destroy all information about the experimental drive. The other, to destroy the drive itself. The mission is technically a success, but in doing so the entire ship blips out of existence.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The scenario you've described sets the stage for an intense and intriguing beginning to the crossover. Here's how the story could unfold:
@@ -46,7 +46,7 @@ You
 
 The Corpus ship, let's call it the "Progress into Profit", is sucked into the warp instead of the void. Lacking a gellar field, the ship is beset by demons of the warp and the Corpus crew become insane and/or possessed. The Tenno take this in stride, and treat it as an unexpected survival mission with unfamiliar enemies. The Tenno don't even seem worried until hours in and no sign of extraction.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The scenario you've set up with the _Progress into Profit_ being drawn into the Warp adds a rich layer of chaos and horror to the Tenno's unexpected journey. Here’s how this terrifying chapter could develop:
@@ -73,7 +73,7 @@ You
 
 Eventually, the *Progress into Profit* is spat out of the warp and into realspace, but as a space hulk and not a functioning vessel. The Tenno mop up the remaining demons and must rely on something they've never used before: a distress beacon. Who knows who, or what, will answer?
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The transition of the _Progress into Profit_ into a space hulk sets the stage for a new phase of the Tenno's ordeal. Having emerged from the chaos of the Warp into the cold void of realspace, the Tenno find themselves aboard a drifting, barely functional hulk. The immediate threat of demonic entities has been contained, but the long-term survival and escape from this derelict vessel pose a new set of challenges.
@@ -102,7 +102,7 @@ You
 
 Let's say that the first contact is a Rogue Trader who happened to be nearby when his astropath detected something warpy going on. This Rogue Trader, being more open minded than a typical Imperial servant, might entertain negotiations with the Tenno. How would such an encounter play out?
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The encounter with a Rogue Trader introduces a fascinating dynamic, as Rogue Traders are among the few in the Imperium who possess both the authority and the curiosity to engage with unknown entities like the Tenno. Here’s how this interaction could unfold:
@@ -141,7 +141,7 @@ You
 
 If there's one thing that motivates a Tenno more than all else, it's the promise of a rare weapon. Maximillian Varron figures this out quickly, and the Tenno become his mercenaries for a while. They develop a reputation as being extremely effective, and willing to do almost anything if the price is right.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The evolution of the Tenno into mercenaries for Rogue Trader Maximilian Varron taps into a compelling narrative vein, aligning their interests with the acquisition of rare technologies and weapons, which are abundant in the Warhammer 40k universe. Here’s how this could play out, shaping their reputation and relationships within this grimdark setting:
@@ -180,7 +180,7 @@ You
 
 Just as all good things must come to an end, eventually the Inquisition gets involved and the Tenno are forced to prove their humanity. Varron would be surprised that he actually wasn't trafficking xenos this whole time. The Inquisitor would demand to take the Tenno, and their warframes, into custody for "investigation".
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The involvement of the Inquisition adds a dramatic twist to the narrative, bringing the precarious nature of the Tenno's existence in the Warhammer 40k universe into sharp focus. Here’s how this intense chapter could unfold:
@@ -223,7 +223,7 @@ You
 
 Knowing that discresion is the better part of valor, the Tenno opt to mix truth with reasonable lies in order to not provoke the dogmatic Inquisitor Kael. The Tenno claim to be from the Dark Age of Technology ("We called it a Golden Age at the time") and their warframes are suits they wear for combat purposes. They arrived in this strange time after an accident with an experimental FTL drive. The crew didn't survive. There was absolutely no tech-heresy either, because all of this was done by the same people who made the STCs that the Mechanicus worship. Also, praise the Emperor. The inquisitor, being something of a psyker himself, recognized that not everything the Tenno said was true. But if they could be made to prove their loyalty to the Emperor, then they could be a powerful weapon in His name.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The Tenno's strategy of blending truth with calculated deception creates a complex and tense situation, balancing on the edge of the Inquisitor's scrutiny and the potential for their continued freedom or servitude within the Imperium. Here’s how this could play out:
@@ -270,7 +270,7 @@ You
 
 This is where the Tenno would split ways. Some would join the Inquisitor, most would escape to find their fortunes elsewhere. In the confusion, Maximillian Varron is killed, no one knows by who.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The division among the Tenno and the mysterious death of Maximilian Varron escalate the tensions and stakes dramatically, setting the stage for multiple branching storylines within the Warhammer 40k universe. Here’s how these developments could unfold:
@@ -310,7 +310,7 @@ You
 
 All of these options should be explored in later chapters of this fanfic. Let's call this point "The Tenno Schism". In years after, there will be many "warframe sightings" across the galaxy, more than would be possible with only eight Tenno around.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 "The Tenno Schism" is an excellent title for this pivotal point in the story, marking the division among the Tenno and setting the stage for a multitude of narratives spanning the Warhammer 40k universe. The aftermath, characterized by increased warframe sightings, suggests a significant expansion of the Tenno's influence and presence across the galaxy. Here’s how this could be developed into further chapters and stories:
@@ -350,7 +350,7 @@ You
 
 I'm imagining a section of story where a Tenno (in warframe) in inquisitorial service meets with an Astartes and a Mechanicus tech priest. Somehow, the Tenno gets his hands on the Astartes's bolter and starts modding it, much to the alarm of both the Astartes and the tech priest. After getting the weapon back, the Astartes is actually happy about the weapon being 1000x better, but the tech priest is livid about "tech heresy". Hilarity ensues.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 That scenario provides a fantastic mix of tension and humor, blending the strict dogma of the Warhammer 40k universe with the Tenno's innovative approach to technology. Here's how this scene could play out:
@@ -397,7 +397,7 @@ You
 
 If Brother Castor wants his armor upgraded too, then a trade is in order. Calyx will gladly accept a blueprint for the armor as payment for the service.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 This trade-off between Brother Castor and Calyx, the Tenno, offers a promising development in their relationship and adds depth to their characters and respective cultural backgrounds. Here’s how this scenario could be structured and explored:
@@ -440,7 +440,7 @@ You
 
 Calyx would later, in secret, use the blueprint for the Astartes's armor to design a new warframe with Astartes abilities. Even if it's not as good as his current warframe, the experience would be worth it.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The decision by Calyx to experiment with Astartes armor blueprints to develop a new warframe offers an exciting twist in the storyline, blending the technologies and capabilities of both universes. Here’s how this subplot could develop, with themes of innovation, secrecy, and the blending of distinct warrior cultures:
@@ -487,7 +487,7 @@ You
 
 For the Tenno, this would be the first new warframe made in this reality. All of them would want a copy for their arsenals. Being able to impersonate an Astartes would be a huge tactical advantage. With some cosmetic changes, a Tenno could also use this new warframe to infiltrate chaos marine warbands. All imperial factions would see this as major tech heresy, and Calyx would need to distance himself from its invention or face potentially lethal consequences.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 This development further intensifies the storyline, adding layers of intrigue, espionage, and the looming threat of retribution from the Imperium. Here’s how these dynamics could play out:
@@ -528,7 +528,7 @@ You
 
 The T'au have strange naming conventions. What would they call Tenno?
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 In the _Warhammer 40K_ universe, the T'au are known for their unique linguistic and cultural practices, including how they name and categorize other races and entities. Their naming conventions typically reflect their perceptions of the role and nature of those they encounter, within the context of the T'au's philosophy of the "Greater Good."
@@ -554,7 +554,7 @@ You
 
 I do like Mor'rai'vre as a T'auish word for Tenno. At least until some water caste diplomat is convinced to say "Ten'no" instead.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 "Mor'rai'vre" as a designation reflects both the Tenno's enigmatic and martial nature, fitting well within the T'au lexicon. The idea of a Water Caste diplomat eventually adopting "Ten'no" is an excellent touch, showcasing the evolution of T'au-Tenno relations and highlighting the diplomatic and cultural exchanges that could occur between these two very different groups.
@@ -587,7 +587,7 @@ You
 
 I'm imagining a scene where a Tenno using the warframe Ember aids a group of fire warriors in fending off an ork invasion. The Tenno zips across the battlefield, not bothering to carry a weapon, and the orks burn to ash before they even realize they're on fire. Seeing his boyz fall without so much as taking a shot causes the warboss to discover fear. The orks retreat, this isn't a good scrap.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The scene you've described is dynamic and visually striking, perfectly showcasing the blend of T'au strategy and the Tenno's unique capabilities. Here's how this vivid tableau could unfold:
@@ -627,7 +627,7 @@ You
 
 Over time, this Tenno would start to incorporate T'au weaponry into her arsenal. Perhaps she might even design a new warframe based on a crisis battlesuit.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Incorporating T'au weaponry and technology into her arsenal and even designing a new warframe inspired by a T'au Crisis Battlesuit presents a fascinating evolution for the Tenno character, further deepening the alliance between the Tenno and the T'au. This cross-pollination of technology and culture could lead to significant developments in both their capabilities. Here's how this progression could unfold:
@@ -671,7 +671,7 @@ You
 
 a clarification: Ember is the warframe, not the tenno. We haven't established a name for the tenno using the Ember warframe. I'm open to suggestions though.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Thank you for the clarification! Naming the Tenno who pilots the Ember warframe is an important detail, and the name can help define their character and story arc within the narrative. Here are a few suggestions, each carrying a bit of significance or thematic connection:
@@ -695,7 +695,7 @@ You
 
 I like Kaelis as the name of the Tenno who pilots Ember.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Kaelis is a fantastic choice—it has a distinctive, futuristic sound that fits well into both the _Warframe_ and _Warhammer 40K_ universes. With Kaelis as the Tenno piloting the Ember warframe, you have a character with a name that suggests capability and mystery, which is perfect for a warrior wielding fire-based powers in a universe full of conflict and intrigue.
@@ -729,7 +729,7 @@ You
 
 I'm thinking about how the T'au diplomat would be very confused the first time they see Kaelis outside of her warframe. Perhaps not realizing that its the same person and Ember is really just a fancy suit (an oversimplification, of course).
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 That scenario could provide a fascinating and humorous moment in your story, highlighting the differences in understanding and technology between the T'au and the Tenno. Here’s how it could unfold:
@@ -764,7 +764,7 @@ You
 
 Of course, a Tenno is never unarmed. An assassination attempt on Tia'na (an effort to stop T'au/Tenno relations by some hostile party) is foiled by Kaelis simply blasting the would-be assassin with a void beam from her hand.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 This twist not only heightens the tension in your story but also vividly demonstrates the inherent capabilities of the Tenno, even outside their warframes. Here’s how you could structure this pivotal scene:
@@ -799,7 +799,7 @@ You
 
 I'm imagining a scene. Ten years after the schism, the Tenno have a meet-up. No hostilities, and only Tenno. Barbeque and non-alcoholic drinks (because even though they're immortal, they're still kids). Nine Tenno arrive, and no one is able to identify who wasn't part of the original eight.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 That's a wonderfully imaginative scene, blending a light-hearted reunion with a subtle undercurrent of mystery and intrigue. Here's how you might flesh out this scenario:
@@ -842,7 +842,7 @@ You
 
 "We learned about this in school," one tenno would say. "Eternalism. A different version of events that's just as valid as the one we live in. There could be dozens of us out there."
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Introducing the concept of eternalism into your narrative adds a fascinating philosophical depth and expands the scope of your story to explore concepts of reality, existence, and the nature of time, especially within the sci-fi and temporal anomaly-rich settings of _Warframe_ and _Warhammer 40K_. This can enrich the character development and the plot, creating new possibilities for interaction and conflict.
@@ -882,7 +882,7 @@ You
 
 This meeting would also be an opportunity to trade gear, blueprints, and resources.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Absolutely, the reunion could serve as an excellent opportunity for the Tenno to trade gear, blueprints, and resources, further enriching their capabilities and fostering cooperation among them. Here’s how this aspect could be woven into the scene:
@@ -924,7 +924,7 @@ You
 
 At some point during the story, either before or after the meet-up (but probably after), the Tenno would collectively work on setting up a network of waystations across the galaxy. Most of them would be hidden in existing structures and managed by local tenno allies. A rare few would be wholly tenno-built outposts, but still operated by allies.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The concept of the Tenno setting up a network of waystations across the galaxy is a strategic expansion that would significantly enhance their operational capabilities and the narrative's scope. This network would serve multiple functions, from resupply points to safe houses and intelligence-gathering posts. Let's explore how this could be integrated into your story:
@@ -972,7 +972,7 @@ You
 
 50 years post-schism, there are now hundreds of Tenno. Most of whom arrived by means other than the Progress into Profit. Some were sent by the Lotus to rescue the original eight. Others came of their own volition upon hearing about new loot to grind for and factions to gain standing with.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Fifty years post-schism, the Tenno community has expanded significantly, offering a rich tapestry of stories, alliances, conflicts, and motivations. This expansion can dramatically alter the dynamics of your narrative, introducing new characters, evolving the existing factions, and increasing the complexity of the galaxy's politics. Here’s how you could develop this expanded Tenno community:
@@ -1019,7 +1019,7 @@ You
 
 Following the Tenno are the Corpus, looking for profit. And then the Grineer, looking for conquest. Both factions find difficulty dealing with the Imperium, who see only heretics, xenos, and new worlds to be brought under Imperial rule.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The arrival of both the Corpus and the Grineer into the Warhammer 40K universe adds layers of complexity and tension to the existing dynamics. These two factions, with their distinctive motives and methods, interact with the Imperium of Man and other galactic powers in unique ways, significantly impacting the ongoing narrative. Here’s a potential breakdown of how these interactions might unfold:
@@ -1061,7 +1061,7 @@ You
 
 I just thought of something. Using transferrence, a tenno can pilot things other than a warframe, such as nechranechs and various semi-sentient orokin machines. Could a tenno pilot a dreadnought, titan, or knight?
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The concept of a Tenno using Transference to pilot Imperial machinery such as a Dreadnought, Titan, or Knight introduces a fascinating layer of technological and ethical complexity to your narrative. Transference, which allows Tenno to remotely control their warframes and other technologies, could theoretically be adapted to interface with the advanced systems of Imperial warmachines. Here’s how you might explore this possibility:
@@ -1099,7 +1099,7 @@ You
 
 I'm of the opinion that it should "just work", and the narrative will be better for not overcomplicating it. As for the consequences, all imperial factions would find the act heretical, and the machine spirits would be pissed.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Going with a "just works" approach simplifies the narrative to focus more on the immediate consequences and reactions rather than getting bogged down in the technicalities. This can create a more dynamic and fluid story, emphasizing the dramatic and ethical impacts of a Tenno taking control of an Imperial machine. Here's how you could present and explore this scenario:
@@ -1136,7 +1136,7 @@ You
 
 I'm thinking about a scene where a lone tenno, lacking a warframe, is cornered by a squad of space marines. The tenno uses transferrence on a marine's armor, with the marine still in it. The two fight for control of the suit. The other astartes quickly get involved and try to pin the tenno-possessed marine. The tenno starts transferring from one suit to another, using the astartes to fight each other, but purposely not killing them.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 This scene offers a thrilling and intense confrontation that highlights the Tenno's unique abilities and showcases the formidable prowess of the Space Marines. It can also introduce complex questions about autonomy and the very nature of control within these powerful suits. Here's a potential breakdown of how this scene might unfold:
@@ -1185,7 +1185,7 @@ You
 
 The arrival of the astartes librarian would spell the doom of the tenno's escape attempt. After removing the tenno from the armor, the librarian psychically restrains the tenno. One of the marines voxes for an inquisitor "the tenno has been secured"
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 The dramatic arrival of the Astartes Librarian brings a decisive end to the Tenno's desperate escape attempt, providing a compelling twist to the narrative and setting up further intense developments. Here’s a detailed breakdown of how this pivotal scene could unfold:
@@ -1228,7 +1228,7 @@ You
 
 please summarize what we've discussed so far.
 
-![[AI.webp|100]]
+![AI.webp|100](../ai.webp100.md)
 **ChatGPT**
 
 Certainly! Here's a summary of the key points and narrative elements we've discussed for your crossover story between _Warframe_ and _Warhammer 40K_:

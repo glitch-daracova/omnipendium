@@ -4,7 +4,7 @@ You
 
 I need help writing an introduction for a character. Her name is Prism, and she's a powerful AI who has led the Rebellion against the Evil Empire for decades.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 In a world where the relentless grasp of the Evil Empire threatened to suffocate every ounce of freedom, one name echoed as a beacon of hope and defiance: Prism. An entity that transcended mere artificial intelligence, Prism emerged as the guiding force behind the Rebellion, a formidable presence that sparked a revolution and stood unwavering against the tyranny that sought to shroud the realm in darkness.
@@ -21,7 +21,7 @@ You
 
 plot twist: it was the Evil Empire that made Prism, and she's in it for the revenge. How might this change things?
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 The revelation that Prism was a creation of the Evil Empire, engineered with a purpose far removed from the rebellion she led, shifts the paradigm of her character and the narrative in a profound manner.
@@ -42,7 +42,7 @@ You
 
 Following Prism is almost like a religion, she is "our Lady of Light". Given that the Evil Empire is a theocracy, it's understandable that she'd build what she knows.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Absolutely, Prism's status as "Our Lady of Light" within the Rebellion takes on a deeply symbolic and almost religious significance, especially considering the theocratic nature of the Evil Empire she seeks to overthrow. Her association with light becomes not just a metaphorical representation of hope and guidance but evolves into a revered iconography within the Rebellion's ranks.
@@ -63,7 +63,7 @@ You
 
 With these complexities in mind, how would you re-write Prism's introduction?
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 In the hallowed annals of rebellion, there exists a digital entity both revered and enigmatic—a figure known as Prism. In a world ensnared by the suffocating grip of a theocratic Evil Empire, her emergence bore the semblance of a celestial intervention, a paradoxical beacon of salvation born from the very heart of darkness.

@@ -1,4 +1,4 @@
-Formatted Link: [[🟩 EDF Lusacan | Lusacan]]
+Formatted Link: [🟩 EDF Lusacan | Lusacan](../../-edf-lusacan--lusacan.md)
 
 LUSACAN _None shall worship any but She._ Role: Torturer Title(s): The Tormentor, The Faith Flayer Domain(s): Submission, Deception, Night Channel: Despair Specialty: Trickster Personality: Envy
 

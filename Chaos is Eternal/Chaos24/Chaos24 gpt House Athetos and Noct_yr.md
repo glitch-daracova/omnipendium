@@ -42,7 +42,7 @@ You
 
 House Yakobe is not the only godly house in the dreamscape. Have I told you about the House Athetos?
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 No, you haven't mentioned House Athetos yet. I'd love to hear more about them and their role in the Dreamscape!
@@ -53,7 +53,7 @@ You
 
 Athetos is a word from a language I don't recognize, but it means "without place". House Athetos is an alliance of gods cast out of their respective pantheons, or survivors of pantheons that no longer exist. Like House Yakobe, they are eight in number.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -66,7 +66,7 @@ You
 
 It is the overarching goal of House Athetos to destroy all of existence, both the dreamscape and material reality. They justify this as it being vengeance for the sins committed against them. Until they figure out how to accomplish their goals, the gods of House Athetos are happy to enjoy existence while it still exists.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -79,7 +79,7 @@ You
 
 Most characters who know about Athetos, including other gods, disregard Athetos as a meaningful threat. It is widely accepted that destroying existence itself is utterly impossible.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -92,7 +92,7 @@ You
 
 House Athetos resides in and operates from a realm called Noct_yr. I am intending, from a narrative standpoint, a dark mirror of Eklyps_ia and House Yakobe.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -120,7 +120,7 @@ You
 
 While the Estate in Eklyps_ia is convoluted, it's primary purpose is to be lived in. The Palace in Noct_yr is a fortification. The Palace features endless walls, towers, battlements, etc. Massive arcane guns are mounted on every defensible platform.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -148,7 +148,7 @@ You
 
 Surrounding the Palace on all sides are sheer cliffs, which drop downwards to reveal more cliffs, so on and so forth. From a distance, this gives the Palace the appearance of a huge mountain. On closer inspection, however, entire towns and cities can be found on the ridges of these cliffs. These settlements are connected by bridges, lifts, and tunnels.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -178,7 +178,7 @@ You
 
 For the mortals, proximity to the Palace is desired, as it brings them closer to their gods. The only honor greater than being accepted into the palace itself (usually as a servant or slave), is to be sacrificed to the gods.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -206,7 +206,7 @@ You
 
 I had to dig through old writing to make sure I got it right, but I have compiled a list of the gods Athetos, their titles, associated colors, and powers if reduced to a single word. Leroy "The God King", Color: Purple, Power: Control. Nolan "The Hand", Color: Orange and Green, Power: Torment and Damnation. Myra "The Beast", Color: Red, Power: Strength. Sol "The Lightbreaker", Color: Yellow, Power: Light. Jimmy "The Dashing", Color: Blue, Power: Speed. Iris "The Absolver", Color: White, Power: Forgiveness. Matthias "The Dragonslayer", Color: Black, Power: Void. Zeke "The Wizard", Color: Gray, Power: Sage.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -219,7 +219,7 @@ You
 
 I'd like each of these gods Athetos to have a surname. Based on what you know so far, can you suggest surnames for these gods?
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Certainly! Here are suggested surnames for the gods of House Athetos, designed to complement their titles and powers:
@@ -249,7 +249,7 @@ You
 
 More options for Myra, please.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Certainly! Here are additional surname options for Myra "The Beast", each designed to emphasize different aspects of her character and power:
@@ -273,7 +273,7 @@ You
 
 More options for Nolan, please.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Certainly! Here are additional surname options for Nolan "The Hand," each designed to underscore his role and powers involving torment and damnation:
@@ -297,7 +297,7 @@ You
 
 This is the new list with updated names. Leroy Tyrannus "The God King", Color: Purple, Power: Control. Nolan Grimm "The Hand", Color: Orange and Green, Power: Torment and Damnation. Myra Fortis "The Beast", Color: Red, Power: Strength. Sol Luxor "The Lightbreaker", Color: Yellow, Power: Light. Jimmy Celeritas "The Dashing", Color: Blue, Power: Speed. Iris Clementia "The Absolver", Color: White, Power: Forgiveness. Matthias Voidheart "The Dragonslayer", Color: Black, Power: Void. Zeke Arcanix "The Wizard", Color: Gray, Power: Sage.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -310,7 +310,7 @@ You
 
 Much like we did for the gods Yakobe, I'd like to turn the associated colors of Athetos into gemstones. Please suggest options, but different ones from what we used for the gods Yakobe.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Certainly! Here are gemstone suggestions for the gods of House Athetos that differ from those chosen for House Yakobe, aligning with their unique colors and themes:
@@ -356,7 +356,7 @@ You
 
 New list again. Now with stones instead of colors, and added flavor text. Leroy Tyrannus "The God King" Stone: Purple Charoite, Power: Control. The undisputed tyrant of Noct_yr. He wields the powers of those who oppose him. Nolan Grimm "The Hand" Stones: Fire Opal and Peridot, Powers: Torment and Damnation. Once a god of the dead, now a god of punishment. He commands the dead and condemns the living. Myra Fortis "The Beast" Stone: Garnet, Power: Strength. Only along for the ride to have a good fight. Often turns her own powers off to make things more interesting. Sol Luxor "The Lightbreaker" Stone: Citrine, Power: Light. Fed up with being a sun god, and done with mortals and their bullshit. Would rather read a book and let the mortals freeze and starve. Jimmy Celeritas "The Dashing" Stone: Aquamarine, Power: Speed. The fastest speedster in all the dreamscape, and objectively (in his opinion) the sexiest god alive. Iris Clementia "The Absolver" Stone: Moonstone, Power: Forgiveness. Forgive and forget, it will be as if your sins never happened. As if you never existed at all. Matthias Voidheart "The Dragonslayer" Stone: Hematite, Power: Void. Is a dragon, hates his own kind. Hates everyone else almost as much. There's a hole where his heart should be, and in its place is only void. Zeke Arcanix "The Wizard" Stone: Gray Agate, Power: Sage. Always the smartest guy in the room. Shame nobody understands a thing he says.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -369,7 +369,7 @@ You
 
 Agriculture in Noct_yr is difficult, since their sun god can't be bothered to haul the sun across the sky. In the endless night, the mortals have bred special crops that can grow by moonlight alone.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -382,7 +382,7 @@ You
 
 Furthermore, the some of the tunnels throughout the mountain are used to channel heat upwards from the nearby infernal underworld.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -395,7 +395,7 @@ You
 
 This underworld beneath the palace mountain is Nolan's domain. He seeks to expand the influence of House Athetos by tunneling from his underworld into the underworlds of other realms. He uses undead soldiers and demon mercenaries to secure new grounds.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Used **Bio**
@@ -408,7 +408,7 @@ You
 
 Please summarize everything you now know about Noct_yr. Be verbose.
 
-![[AI.webp|100]]
+![AI.webp|100](../../ai.webp100.md)
 **ChatGPT**
 
 Noct_yr is a realm within the Dreamscape, characterized by its dark and foreboding environment, largely influenced by its ruling pantheon, House Athetos. Here is a detailed summary of Noct_yr and its significant aspects:

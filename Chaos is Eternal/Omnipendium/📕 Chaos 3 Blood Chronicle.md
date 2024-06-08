@@ -1,5 +1,5 @@
-**Where:** [[🌎 Terra]] and [[🌌 Dreamscape]]  
-**Who:** [[🔻 Glitch Daracova]] and [[🧛‍♀️ Sala Otanashi]]
+**Where:** [🌎 Terra](../../-terra.md) and [🌌 Dreamscape](../../-dreamscape.md)  
+**Who:** [🔻 Glitch Daracova](../../-glitch-daracova.md) and [🧛‍♀️ Sala Otanashi](../../-sala-otanashi.md)
 **What:** The struggle to find purpose after resurrection  
 **Why:** To rediscover what truly matters and confront new threats  
 **Actually Why:** I'm still here, so why not?

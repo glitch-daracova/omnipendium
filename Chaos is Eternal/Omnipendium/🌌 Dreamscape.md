@@ -1,6 +1,6 @@
-Formatted link: [[🌌 Dreamscape | dreamscape]]
+Formatted link: [🌌 Dreamscape | dreamscape](../../-dreamscape--dreamscape.md)
 # The Dreamscape
-Location: [[🌌 Dreamscape]]
+Location: [🌌 Dreamscape](../../-dreamscape.md)
 
 > The Dreamscape is a vast, magical world that exists alongside our own.
 > *just don't question how it got there.*
@@ -15,7 +15,7 @@ Location: [[🌌 Dreamscape]]
 ---
 
 # Nature and Access
-[[⚙ Dreamcatcher]] - [[✨ Dreamers]] - [[👩‍💻 Dreamrunners]]
+[⚙ Dreamcatcher](../../-dreamcatcher.md) - [✨ Dreamers](../../-dreamers.md) - [👩‍💻 Dreamrunners](../../-dreamrunners.md)
 
 **Nature**
 The Dreamscape is a highly immersive and interactive world, blending elements of magic, advanced technology, and mythological themes. It features a variety of realms, each with its own unique characteristics and challenges.
@@ -28,7 +28,7 @@ People in the waking world access the Dreamscape using a device known as the dre
 # Realms of the Dreamscape
 There are many, potentially an infinite number, of realms within the dreamscape. These are a few.
 
-[[🌐 Agar_ia]] - [[🌐 Elys_ium]] - [[🌐 Aeth_yr]] - [[🌐 Eklyps_ia]] - [[🌐 Noct_yr]] - [[🌐 Azer_os]]
+[🌐 Agar_ia](../../-agaria.md) - [🌐 Elys_ium](../../-elysium.md) - [🌐 Aeth_yr](../../-aethyr.md) - [🌐 Eklyps_ia](../../-eklypsia.md) - [🌐 Noct_yr](../../-noctyr.md) - [🌐 Azer_os](../../-azeros.md)
 
 **Agar_ia**
 A central fantasy realm populated by diverse cultures and races, such as elves, dwarves, and orks. It features kingdoms like Greater Anglica, Jarlheim, Fretalia, Einroth, Rodinia, and Former Olympia.
@@ -69,7 +69,7 @@ A realm featuring an unending struggle between the living and the hordes of unde
 - A profession similar to a military general and crowned monarch, involving leadership and governance within the demonic realms.
 
 # The Fringe Realms
-[[㊙ Fringe Realms]]
+[㊙ Fringe Realms](../../-fringe-realms.md)
 
 The fringe realms of the Dreamscape are the borderlands where the boundaries between the digital simulation world, become thin and permeable. These realms are characterized by their instability, unpredictability, and the constant interplay of magic and technology.
 

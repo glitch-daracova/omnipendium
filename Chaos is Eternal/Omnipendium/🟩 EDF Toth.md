@@ -1,4 +1,4 @@
-Formatted Link: [[🟩 EDF Toth | Toth]]
+Formatted Link: [🟩 EDF Toth | Toth](../../-edf-toth--toth.md)
 
 TOTH _Peace is the enemy of strength._ Role: Warrior Title(s): The Flame, The Iron Maiden Domain(s): Pain, Strength, War Channel: Conflict Specialty: War Magic Personality: Sloth
 

@@ -1,1 +1,1 @@
-A designation for years used on Terra after the end of Anno Domini. Later adopted by other organizations and civilizations for the [[📅 Galactic Calendar]].
+A designation for years used on Terra after the end of Anno Domini. Later adopted by other organizations and civilizations for the [📅 Galactic Calendar](../../-galactic-calendar.md).

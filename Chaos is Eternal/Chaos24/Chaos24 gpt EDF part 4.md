@@ -1,11 +1,11 @@
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Let's talk about Vedaric's orgin for a bit.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Certainly! Exploring Vedaric Nox Rammus's origins can provide valuable insights into his character and motivations within the Empire of the Darkness Flame. Vedaric's journey from being an elf to becoming undead and eventually ascending as a Demon Overlord and the Emperor offers rich narrative potential. Here are some aspects of his origin that you might consider expanding:
@@ -18,7 +18,7 @@ Certainly! Exploring Vedaric Nox Rammus's origins can provide valuable insights 
 
 Exploring these questions can deepen our understanding of Vedaric's character and his role within your world. Which aspect would you like to delve into first, or is there another part of his origin story you're interested in exploring?
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Vedaric hails from a realm, otherwise un-noteworthy, known as Azer_os. (the underscore in the middle of the realm's name is intentional, and makes sense due to context I have not shared in this conversation. You might know anyway, if this conversation has "memories" enabled.).
@@ -29,7 +29,7 @@ Used **Bio**
 
 Stopped talking to undefined
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Thank you for sharing more about Vedaric's origins! Knowing that he comes from a realm called Azer_os adds another layer to his backstory. Since Azer_os is described as otherwise un-noteworthy, it might be interesting to explore how Vedaric's rise to power contrasts with the humble or ordinary nature of his homeland.
@@ -43,7 +43,7 @@ Here are some questions that could help expand on this aspect:
 
 Exploring these details can enrich Vedaric's character development and provide deeper insights into his motivations and the challenges he faced on his path to power.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 When compared to other realms, such as Agar_ia or Noct_yr, Azer_os did not have nearly as many wars nor calamities as other realms. Of Great People (who are measured as such by their influence on realms other than where they were born), Azer_os produced few. A realm easily outclassed, and utterly unremarkable. Except, one man who would later become Vedaric Nox Rammus was born there.
@@ -54,7 +54,7 @@ Used **Bio**
 
 Stopped talking to undefined
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 The contrast between the peaceful, unremarkable nature of Azer_os and the dramatic, influential life of Vedaric Nox Rammus adds a rich narrative dimension. It suggests that his rise to power was not just a product of his environment but possibly a reaction against the ordinariness he experienced growing up.
@@ -69,7 +69,7 @@ To further develop this contrast and Vedaric's origins, consider exploring:
 
 Exploring these elements can provide deeper insights into Vedaric's character and the motivations behind his dramatic transformation and rise to power.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Let's not get ahead of ourselves. Azer_os was not "peacefull". There was one big conflict, and it didn't change. Within the realm of Azer_os, the living were under siege by the dead, and the dead vastly outnumbered the living.
@@ -78,7 +78,7 @@ ChatGPT
 
 Used **Bio**
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Thank you for the clarification. The ongoing siege by the undead in Azer_os presents a critical backdrop for understanding the environment that shaped Vedaric Nox Rammus. This context of constant threat from the undead adds layers of urgency and survivalist mentality to his origins.
@@ -93,7 +93,7 @@ Thank you for the clarification. The ongoing siege by the undead in Azer_os pres
 
 Exploring these questions can provide a comprehensive background to Vedaric's character development and the unique challenges he faced in his formative environment.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 The dead were ruled by a being known as the Lich King, and all who died became his subjects. At the time, Vedaric was a hope filled hero and challenged the Lich King to single combat. Vedaric failed, utterly. The Lich King is the unworthy master to whom Vedaric served.
@@ -102,7 +102,7 @@ ChatGPT
 
 Used **Bio**
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Vedaric's initial defeat by the Lich King and subsequent servitude add a dramatic chapter to his backstory, highlighting his transformation from a hopeful hero to a powerful, perhaps disillusioned, ruler. This pivotal event not only shaped his destiny but also set the stage for his later rebellion and rise to power.
@@ -117,7 +117,7 @@ Vedaric's initial defeat by the Lich King and subsequent servitude add a dramati
 
 Exploring these elements can provide a richer understanding of Vedaric's early motivations, the challenges he faced, and how these experiences forged him into the formidable figure he later became.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 When Vedaric had the chance, he left. His friend, Zebulah, had made a deal with a demon to grant passage to another realm where they could start anew. Thus began Vedaric's and Zebulah's partnership, and a habit of screwing over beings who are arguable more powerful than themselves.
@@ -126,7 +126,7 @@ ChatGPT
 
 Used **Bio**
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 Vedaric and Zebulah's escape from Azer_os and their subsequent adventures set the foundation for their enduring partnership and their penchant for overcoming formidable foes. This part of their story can be explored in multiple ways to add depth and intrigue to their characters and their journey together.
@@ -141,14 +141,14 @@ Vedaric and Zebulah's escape from Azer_os and their subsequent adventures set th
 
 Exploring these questions can help flesh out the early stages of Vedaric's and Zebulah's alliance, providing insights into their motivations, strategies, and the impact of their actions on their world and beyond.
 
-![[gdx.png|100]]  
+![gdx.png|100](../../gdx.png100.md)  
 **GDX**
 
 Please summarize everything you've learned since I last asked for a summary. Please be verbose, and after every subject, include some questions to inspire expanding the lore.
 
 ChatGPT
 
-![[AI.webp|100]]  
+![AI.webp|100](../../ai.webp100.md)  
 **ChatGPT**
 
 **Vedaric’s Origin and Early Life:** Vedaric Nox Rammus hails from the realm of Azer_os, which was not as war-torn as other realms but was under constant siege by the undead, ruled by the Lich King. Vedaric, initially a hero filled with hope, challenged the Lich King to single combat but was utterly defeated and subsequently served him. His friend, Zebulah, facilitated their escape by making a deal with a demon, allowing them to travel to a new realm and start anew. This experience marked the beginning of Vedaric’s transformation from a hopeful hero to a powerful, influential figure in the Empire of the Darkness Flame.

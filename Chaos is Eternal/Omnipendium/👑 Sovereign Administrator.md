@@ -1,1 +1,1 @@
-A title bestowed by [[🏛 WISE 🌎]] to an individual who will manage a collection of [[⚙ Megacities]]. The authority of a Sovereign Administrator is absolute, and is carried out by cabals of assistants, generals, so on and so forth.
+A title bestowed by [🏛 WISE 🌎](../../-wise-.md) to an individual who will manage a collection of [⚙ Megacities](../../-megacities.md). The authority of a Sovereign Administrator is absolute, and is carried out by cabals of assistants, generals, so on and so forth.
