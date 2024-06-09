@@ -1,1 +1,0 @@
-Location: [🌎 Terra](🌎%20Terra.md)

@@ -1,1 +1,0 @@
-Part of [☠ Terra's Third Apocalypse](☠%20Terra's%20Third%20Apocalypse.md).

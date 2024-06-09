@@ -14,7 +14,7 @@ Location: [🌌Dreamscape](🌌Dreamscape.md)
 ---
 
 # Nature and Access
-[⚙ Dreamcatcher](⚙%20Dreamcatcher.md) - [✨ Dreamers](✨%20Dreamers.md) - [👩‍💻 Dreamrunners](👩‍💻%20Dreamrunners.md)
+[⚙Dreamcatcher](⚙Dreamcatcher.md) - [✨Dreamers](✨Dreamers.md) - [👩‍💻Dreamrunners](👩‍💻Dreamrunners.md)
 
 **Nature**
 The Dreamscape is a highly immersive and interactive world, blending elements of magic, advanced technology, and mythological themes. It features a variety of realms, each with its own unique characteristics and challenges.
@@ -27,7 +27,7 @@ People in the waking world access the Dreamscape using a device known as the dre
 # Realms of the Dreamscape
 There are many, potentially an infinite number, of realms within the dreamscape. These are a few.
 
-[🌐 Agar_ia](🌐%20Agar_ia.md) - [🌐 Elys_ium](🌐%20Elys_ium.md) - [🌐 Aeth_yr](🌐%20Aeth_yr.md) - [🌐 Eklyps_ia](🌐%20Eklyps_ia.md) - [🌐 Noct_yr](🌐%20Noct_yr.md) - [🌐 Azer_os](🌐%20Azer_os.md)
+[🌐Agar_ia](🌐Agar_ia.md) - [🌐Elys_ium](🌐Elys_ium.md) - [🌐Aeth_yr](🌐Aeth_yr.md) - [🌐Eklyps_ia](🌐Eklyps_ia.md) - [🌐Noct_yr](🌐Noct_yr.md) - [🌐Azer_os](🌐Azer_os.md)
 
 **Agar_ia**
 A central fantasy realm populated by diverse cultures and races, such as elves, dwarves, and orks. It features kingdoms like Greater Anglica, Jarlheim, Fretalia, Einroth, Rodinia, and Former Olympia.
@@ -68,7 +68,7 @@ A realm featuring an unending struggle between the living and the hordes of unde
 - A profession similar to a military general and crowned monarch, involving leadership and governance within the demonic realms.
 
 # The Fringe Realms
-[㊙ Fringe Realms](㊙%20Fringe%20Realms.md)
+[㊙FringeRealms](㊙FringeRealms.md)
 
 The fringe realms of the Dreamscape are the borderlands where the boundaries between the digital simulation world, become thin and permeable. These realms are characterized by their instability, unpredictability, and the constant interplay of magic and technology.
 

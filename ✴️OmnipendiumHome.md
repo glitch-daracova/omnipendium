@@ -14,26 +14,26 @@ Apart from being a reference for authors, game masters, and players alike, I als
 
 # Key Reading
 [🌌MaterialReality](🌌MaterialReality.md) - [🌌Dreamscape](🌌Dreamscape.md)
-[🏛 WISE 🌎](🏛%20WISE%20🌎.md) - [🏛 Xaran Alliance 🔺](🏛%20Xaran%20Alliance%20🔺.md) - [🏛 Vexian Empire 🔷](🏛%20Vexian%20Empire%20🔷.md)
-[🏛 ORDER 🔻](🏛%20ORDER%20🔻.md)
-[🏛 EDF 🟩](🏛%20EDF%20🟩.md)
+[🏛WISE🌎](🏛WISE🌎.md) - [🏛XaranAlliance🔺](🏛XaranAlliance🔺.md) - [🏛VexianEmpire🔷](🏛VexianEmpire🔷.md)
+[🏛ORDER🔻](🏛ORDER🔻.md)
+[🏛EDF🟩](🏛EDF🟩.md)
 
 # The Books (that I'll probably never write)
-[📕 Chaos 1 An Origin Story](📕%20Chaos%201%20An%20Origin%20Story.md)
-[📕 Chaos 2 A War Among the Stars](📕%20Chaos%202%20A%20War%20Among%20the%20Stars.md)
-[📕 Chaos 3 Blood Chronicle](📕%20Chaos%203%20Blood%20Chronicle.md)
-[📕 Chaos 4 End War](📕%20Chaos%204%20End%20War.md)
+[📕Chaos1AnOriginStory](📕Chaos1AnOriginStory.md)
+[📕Chaos2AWarAmongtheStars](📕Chaos2AWarAmongtheStars.md)
+[📕Chaos3BloodChronicle](📕Chaos3BloodChronicle.md)
+[📕Chaos4EndWar](📕Chaos4EndWar.md)
 
 # Gameplay Conceits
-[📄 Damage Types](📄%20Damage%20Types.md)
-[📄 Character Attributes](📄%20Character%20Attributes.md)
+[📄DamageTypes](📄DamageTypes.md)
+[📄CharacterAttributes](📄CharacterAttributes.md)
 
 # Meta Bullshit
-[📄 Article Labelling Rules](📄%20Article%20Labelling%20Rules.md)
+[📄ArticleLabellingRules](📄ArticleLabellingRules.md)
 [Credits](Credits)
 
 # For Posterity
 [📜 Old Lore - Index 📜](OldLore/📜%20Old%20Lore%20-%20Index%20📜.md)
 
 # To Do
-[📄 Pages To Do](📄%20Pages%20To%20Do.md)
+[📄PagesToDo](📄PagesToDo.md)

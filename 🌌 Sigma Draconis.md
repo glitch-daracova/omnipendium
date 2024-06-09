@@ -1,1 +1,0 @@
-Location: [🌌 Milky Way Galaxy](🌌%20Milky%20Way%20Galaxy.md)
