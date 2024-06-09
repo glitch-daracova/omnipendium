@@ -1,4 +1,4 @@
-A [[🛐 Dreamscape Gods]] belonging to the [[🏛 Core Realms Pantheon]]
+A [🛐 Dreamscape Gods](🛐%20Dreamscape%20Gods.md) belonging to the [🏛 Core Realms Pantheon](🏛%20Core%20Realms%20Pantheon.md)
 
 ---
 

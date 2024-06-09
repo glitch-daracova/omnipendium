@@ -1,4 +1,4 @@
-Empress of the EDF, ruling alongside [[🟩 Vedaric Nox Rammus]].
+Empress of the EDF, ruling alongside [🟩 Vedaric Nox Rammus](🟩%20Vedaric%20Nox%20Rammus.md).
 
 _Valex, God-Empress of the Black Flame Imperium,
 May I wield Salvation with my right,

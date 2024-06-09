@@ -1,27 +1,27 @@
 The Five Great Houses represent the foundational philosophies and magical precepts of the empire. Each house has its own doctrines, oversight boards, and military forces.
 
 > **House Verdanthall** - *Precept Biomancy*
->[[🟩 EDF Verdanthall]]
+>[🟩 EDF Verdanthall](🟩%20EDF%20Verdanthall.md)
 > Symbol: a leaf dripping with blood.
 > Focuses on the manipulation of life and organic processes. Responsible for the domains of growth, evolution, reproduction, decay, etc.
 
 > **House Cogwright** - *Precept Technomancy*
-> [[🟩 EDF Cogwright]]
+> [🟩 EDF Cogwright](🟩%20EDF%20Cogwright.md)
 > Symbol: A steel skull etched with circuit traces.
 > Integrates magic with advanced technology. Responsible for bringing industry to the empire, and furthering scientific knowledge.
 
 > **House Temporus** - *Precept Chronomancy*
-> [[🟩 EDF Temporus]]
+> [🟩 EDF Temporus](🟩%20EDF%20Temporus.md)
 > Symbol: An hourglass full of stardust, sitting on top of a leather bound book.
 > Controls and manipulates time. Responsible for recording history, and changing it for the benefit of the empire.
 
 > **House Grundstone** - *Precept Geomancy*
-> [[🟩 EDF Grundstone]]
+> [🟩 EDF Grundstone](🟩%20EDF%20Grundstone.md)
 > Symbol: A finely cut gemstone glowing with power, emerging from rough hewn rock.
 > Deals with earth and mineral magic. Responsible for traditional methods of craftsmanship, and dominating the souls of worlds.
 
 > **House Voidhart** - *Precept Astromancy*
-> [[🟩 EDF Voidhart]]
+> [🟩 EDF Voidhart](🟩%20EDF%20Voidhart.md)
 > Symbol: A model solar system remarkably similar to a carbon atom.
 > Focuses on celestial bodies and space magic. Responsible for psionics, faster than light travel, prophecy, and more.
 

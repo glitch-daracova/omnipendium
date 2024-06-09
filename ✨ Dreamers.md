@@ -1,5 +1,7 @@
-[](👩‍💻%20Dreamrunners.md)Formatted link: [[✨ Dreamers| dreamer]]
+
 > [!info] **Related documents:**
-> [[🌌 Dreamscape]]
-> [](🌌%20Dreamscape.md)/Omnipendium/🌌%20Dreamscape.md)ers]]
-[](🌌%20Dreamscape.md)s.md)als in the waking world who utilize a dreamcatcher "as intended", interacting with only the most surface-level features of the dreamscape.
+> [⚙ Dreamcatcher](⚙%20Dreamcatcher.md)
+> [🌌 Dreamscape](🌌%20Dreamscape.md)
+> [👩‍💻 Dreamrunners](👩‍💻%20Dreamrunners.md)
+
+Dreamers are people in the waking world who use a dreamcatcher "as intended".

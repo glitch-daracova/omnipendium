@@ -1,1 +1,1 @@
-Location: [[🌌 Sol System]]
+Location: [🌌 Sol System](🌌%20Sol%20System.md)

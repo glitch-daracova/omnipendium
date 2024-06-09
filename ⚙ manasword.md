@@ -3,13 +3,13 @@
 
 ### Manaswords
 
-Within the [[🌌 Dreamscape| dreamscape]], **manaswords** are magical artifacts designed to focus and channel the wielder's innate magical potential into a powerful, tangible form. These devices are known across various cultures and realms for their unique ability to harness life energy and project it as a lethal weapon.
+Within the [dreamscape](🌌%20Dreamscape), **manaswords** are magical artifacts designed to focus and channel the wielder's innate magical potential into a powerful, tangible form. These devices are known across various cultures and realms for their unique ability to harness life energy and project it as a lethal weapon.
 
-Remarkably similar to the [[⚙ nanosword| nanoswords]] used in [[🌌 Material Reality| material reality]].
+Remarkably similar to the [nanoswords](⚙%20nanosword) used in [material reality](🌌%20Material%20Reality).
 
 #### Design and Function
 
-- **Core Mechanism**: At their core, manaswords operate by utilizing the wielder's life force as fuel. This energy is channeled through the hilt of the manasword, emitting a beam of [[✨ Pure Energy ✨]].
+- **Core Mechanism**: At their core, manaswords operate by utilizing the wielder's life force as fuel. This energy is channeled through the hilt of the manasword, emitting a beam of [Pure Energy](✨%20Pure%20Energy%20✨.md).
 - **Beam of Pure Energy**: Typically, the energy beam is around one meter in length. The beam is highly concentrated and can cut through most materials with ease.
 - **Color Variation**: The color of the energy beam can vary, depending on the craftsmanship of the device and the natural aura of the user. Colors might range from vibrant blues and greens to dark reds and purples, reflecting the unique properties of the wielder's magic.
 

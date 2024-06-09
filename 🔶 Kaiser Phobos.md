@@ -1,5 +1,5 @@
 **God King Kaiser Phobos, Lord of Fear, Killer of Gods**
 
-A [[🛐 Dreamscape Gods| dreamscape god]] belonging to no pantheon.
+A [ dreamscape god](🛐%20Dreamscape%20Gods) belonging to no pantheon.
 
-Ruler of [[🌐 Aeth_yr]] from the founding of the [[🏛 Empire of Phobos 🔶| Empire of Phobos]] until his death at the hands of [[🟣 Kai Ruinor| Kai Ruinor]].
+Ruler of [[🌐 Aeth_yr]] from the founding of the [🏛 Empire of Phobos 🔶](🏛%20Empire%20of%20Phobos%20🔶.md) until his death at the hands of [🟣 Kai Ruinor](🟣%20Kai%20Ruinor.md).

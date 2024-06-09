@@ -1,3 +1,3 @@
-A collection of [[⚙ Megacities]] spread out across North and South America. These megacities are managed under the authority of [[👑 Sovereign Administrator]] [[👑 Chad Thunder]].
+A collection of [⚙ Megacities](⚙%20Megacities.md) spread out across North and South America. These megacities are managed under the authority of [👑 Sovereign Administrator](👑%20Sovereign%20Administrator.md) [👑 Chad Thunder](👑%20Chad%20Thunder.md).
 
-In North America, there is the [[🏙 Texas Megacity]], [[🏙 York Megacity]], and [[🏙 California Megacity]]
+In North America, there is the [🏙 Texas Megacity](🏙%20Texas%20Megacity.md), [🏙 York Megacity](🏙%20York%20Megacity.md), and [🏙 California Megacity](🏙%20California%20Megacity.md)

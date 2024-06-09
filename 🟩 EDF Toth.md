@@ -1,5 +1,3 @@
-Formatted Link: [[🟩 EDF Toth| Toth]]
-
 TOTH _Peace is the enemy of strength._ Role: Warrior Title(s): The Flame, The Iron Maiden Domain(s): Pain, Strength, War Channel: Conflict Specialty: War Magic Personality: Sloth
 
 Toth's domain is within the struggle, the Conflict, that arises within and between beings, dissolving alliances and bonds. She feeds on and perpetuates the Conflict that comes from the battles between armies, and within their Souls. Along with judging claimed Souls, Toth and Andoral watch for weakness that arises within the Imperium and decide what is to be done to turn it into Strength. Being the symbol of the survival-of-the-fittest internal structure of the Imperium, Toth is known to cast her favor upon Cultists that possess great Strength despite the Imperium’s will-breaking evil.

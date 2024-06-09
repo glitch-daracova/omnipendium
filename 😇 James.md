@@ -1,5 +1,5 @@
-A [[🛐 Dreamscape Gods]] belonging to the [[🏛 Elysian Pantheon 😇]]
-Ruling god of [[Glebe]]
+A [🛐 Dreamscape Gods](🛐%20Dreamscape%20Gods.md) belonging to the [🏛 Elysian Pantheon 😇](🏛%20Elysian%20Pantheon%20😇.md)
+Ruling god of [Glebe](Glebe)
 
 ---
 

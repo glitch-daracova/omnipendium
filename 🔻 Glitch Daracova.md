@@ -6,14 +6,14 @@ Formatted Link: [[🔻 Glitch Daracova| Glitch Daracova]]
 🔺🔻🔺🔻🔺🔻🔺🔻🔺
 I am Glitch Daracova.
 
-I was born on [[🌎 Terra| Terra]], August 29, 19987 of the New Age.
+I was born on [ Terra](🌎%20Terra), August 29, 19987 of the New Age.
 
-I named myself in honor of my favorite main protagonist and author insert character. It amuses me to refer to my creation in the first person, and I will do so throughout the [[✴️OmnipendiumHome| Omnipendium]]. You can't stop me.
+I named myself in honor of my favorite main protagonist and author insert character. It amuses me to refer to my creation in the first person, and I will do so throughout the [ Omnipendium](✴️OmnipendiumHome). You can't stop me.
 
 I had several adventures personally, some highlights you can read about in my books.
-[[📕 Chaos 1 An Origin Story]]
-[[📕 Chaos 2 A War Among the Stars]]
-[[📕 Chaos 3 Blood Chronicle]]
-[[📕 Chaos 4 End War]]
+[📕 Chaos 1 An Origin Story](📕%20Chaos%201%20An%20Origin%20Story.md)
+[📕 Chaos 2 A War Among the Stars](📕%20Chaos%202%20A%20War%20Among%20the%20Stars.md)
+[📕 Chaos 3 Blood Chronicle](📕%20Chaos%203%20Blood%20Chronicle.md)
+[📕 Chaos 4 End War](📕%20Chaos%204%20End%20War.md)
 
 These days I mostly sit around, drink, play video games, and attempt to document everything I think I remember about that world I don't live in anymore.

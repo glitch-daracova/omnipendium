@@ -1,4 +1,4 @@
-Location: [[🌌 Dreamscape]]
+Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
 Home of the [[🏛 Core Realms Pantheon]]
 
 
@@ -11,8 +11,8 @@ Agar_ia: A realm steeped in tradition and vibrant cultures, Agar_ia is a fantasy
 ---
 
 # The Kingdoms of Agar_ia
-[[📍 Greater Anglica]] - [[📍 Jarlheim]] - [[📍 Fretalia]] - [[📍 Einroth]] - [[📍 Rodinia]] - [[📍 Former Olympia]]
+[📍 Greater Anglica](📍%20Greater%20Anglica) - [📍 Jarlheim](📍%20Jarlheim) - [📍 Fretalia](📍%20Fretalia) - [📍 Einroth](📍%20Einroth) - [📍 Rodinia](📍%20Rodinia) - [📍 Former Olympia](📍%20Former%20Olympia)
 
 # The Pantheon of Agar_ia
-Known as the [[🏛 Core Realms Pantheon| Core Realms Pantheon]]
-[[😇 Persephone]] - [[😇 Krolm]] - [[😇 Lunord]] - [[😇 Helia]] - [[😇 Grum-Gog]] - [[😇 Krypta]] - [[😇 Dauros]] - [[😇 Fervus]]
+Known as the [Core Realms Pantheon](🏛%20Core%20Realms%20Pantheon)
+[😇 Persephone](😇%20Persephone.md) - [😇 Krolm](😇%20Krolm.md) - [😇 Lunord](😇%20Lunord.md) - [😇 Helia](😇%20Helia.md) - [😇 Grum-Gog](😇%20Grum-Gog.md) - [😇 Krypta](😇%20Krypta.md) - [😇 Dauros](😇%20Dauros.md) - [😇 Fervus](😇%20Fervus.md)

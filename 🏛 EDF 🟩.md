@@ -1,5 +1,4 @@
 # 𝔗𝔥𝔢 𝔈𝔪𝔭𝔦𝔯𝔢 𝔬𝔣 𝔱𝔥𝔢 𝔇𝔞𝔯𝔨𝔫𝔢𝔰𝔰 𝔉𝔩𝔞𝔪𝔢
-Formatted Link: [[🏛 EDF 🟩| Empire of the Darkness Flame]]
 Original Concept by **Benjamin Bradford**.
 ⬛🟩⬛🟩⬛🟩⬛🟩⬛🟩
 🟩⬛🟩⬛🟩⬛🟩⬛🟩⬛
@@ -20,20 +19,20 @@ The **Empire of the Darkness Flame** is a vast and powerful dominion characteriz
 The empire is organized into a rigid hierarchy:
 
 ## Emperor and Empress
-The Emperor: [[🟩 Vedaric Nox Rammus]]
-The Empress: [[🟩 Valex Nox Rammus]]
+The Emperor: [🟩 Vedaric Nox Rammus](🟩%20Vedaric%20Nox%20Rammus.md)
+The Empress: [🟩 Valex Nox Rammus](🟩%20Valex%20Nox%20Rammus.md)
 
 ## The Demon Ascendancy
-[[🟩 EDF Archdemons]]
+[🟩 EDF Archdemons](🟩%20EDF%20Archdemons.md)
 
 The **Demon Ascendancy** is a pantheon of seven archdemons, effectively the gods of the Empire of the Darkness Flame directly underneath the Emperor and Empress. These powerful beings embody the dark virtues that underpin the empire's religious and militaristic structure. Each archdemon represents a unique aspect of how the empire maintains dominion over its subjects.
 
 ## The Order of Octogrammic Knights
-[[🟩 EDF Octogrammic Knights]]
+[🟩 EDF Octogrammic Knights](🟩%20EDF%20Octogrammic%20Knights.md)
 Below the Archdemons is the Order of the Octogrammic Knights. Eight knights who are the elite enforcers of the empire’s will. Knights must maintain their status through a vote among their peers and can be challenged if their status is in doubt. Ambitions among the knights vary from personal power to true loyalty to the empire.
 
 ## Great Houses
-[[🟩 EDF Great Houses]]
+[🟩 EDF Great Houses](🟩%20EDF%20Great%20Houses.md)
 The **Great Houses** are pivotal institutions within the Empire of the Darkness Flame, each representing a foundational magical precept. They serve as the bureaucratic backbone of the empire, managing the day-to-day affairs of its vast organizations and assets. The Great Houses are technically distinct from the cult, but most positions of power within these houses are occupied by cult members. Each house embodies a unique philosophy and magical discipline, fostering a culture of rivalry and excellence. Members of noble families are often assigned to different houses to instill loyalty to the empire above familial ties. The Great Houses are governed by the Penultimate Lords, a council of five, each representing one of the houses.
 
 1. **Verdanthall** Specializes in **Biomancy**, focusing on the manipulation of life and organic processes.
@@ -80,4 +79,4 @@ The Empire of the Darkness Flame thus represents a formidable force of conquest 
 > [!tip] ㊙️ Secret Knowledge ㊙️
 > This following contains information that is not intended to be widely known, not even among readers. Proceed at your own risk.
 
-The end goal of the Empire, given current rulership, is to transform all that exists into [[✨ Pure Energy ✨| pure energy]] for the [[🟩 Valex Nox Rammus| Empress]] to eat for the rest of time.
+The end goal of the Empire, given current rulership, is to transform all that exists into [ pure energy](✨%20Pure%20Energy%20✨) for the [Empress](🟩%20Valex%20Nox%20Rammus) to eat for the rest of time.
