@@ -1,1 +1,0 @@
-If this card is in your hand at the end of your turn, [[ChaosisEternal/Chaos23/Chaos23 Keyword Exhaust|exhaust]] it instead of discarding it.

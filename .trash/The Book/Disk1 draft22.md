@@ -1,1 +1,0 @@
-Wow, didn't write a single damn page in 2022.

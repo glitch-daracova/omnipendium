@@ -1,2 +1,0 @@
-# Attack
-Using your equipped weapon, deal damage to an enemy within range. Your weapon's description will specify how much damage and what range. Attacks always hit, but targets may have resistances to reduce damage taken.
