@@ -8,5 +8,7 @@
   "attachmentFolderPath": "Image Library",
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }

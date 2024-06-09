@@ -1,3 +1,0 @@
-On [🌎 Terra](../../-terra.md), this was the day that true thinking artificial intelligence was invented. Advancing beyond mere machine learning and language models, these "Actual Intelligences" could form independent thought without user input. Absolutely nothing could possibly go wrong, and there absolutely wasn't decades of sci-fi movies and novels warning of possible dangers.
-
-While the exact date AD is lost, the [📅 New Age](../../-new-age.md) began that day.

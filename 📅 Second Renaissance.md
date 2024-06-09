@@ -1,0 +1,1 @@
+A period of time on [[🌎 Terra]] in which humanity saw great advancements in the arts and technology.

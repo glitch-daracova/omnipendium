@@ -1,0 +1,1 @@
+When you play this card, it is removed from your deck until the end of combat. Purged cards cannot be retrieved.

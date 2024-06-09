@@ -1,1 +1,0 @@
-Location: [🌎 Terra](../../-terra.md)

@@ -1,1 +1,0 @@
-Location: [🌌 Sigma Draconis](../../-sigma-draconis.md)
