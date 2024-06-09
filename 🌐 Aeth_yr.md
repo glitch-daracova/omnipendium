@@ -1,4 +1,4 @@
-Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
+Location: [🌌Dreamscape](🌌Dreamscape.md)
 Domain of the [🏛 Empire of Phobos 🔶](🏛%20Empire%20of%20Phobos%20🔶.md)
 
 > [!warning] AI generated content

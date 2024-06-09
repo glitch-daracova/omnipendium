@@ -1,4 +1,4 @@
-**Where:** [🌎 Terra](🌎%20Terra.md) and [🌌 Dreamscape](🌌%20Dreamscape.md)  
+**Where:** [🌎 Terra](🌎%20Terra.md) and [🌌Dreamscape](🌌Dreamscape.md)  
 **Who:** [🔻 Glitch Daracova](🔻%20Glitch%20Daracova.md) and [🧛‍♀️ Sala Otanashi](🧛‍♀️%20Sala%20Otanashi.md)
 **What:** The struggle to find purpose after resurrection  
 **Why:** To rediscover what truly matters and confront new threats  

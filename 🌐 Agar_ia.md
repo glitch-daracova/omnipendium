@@ -1,4 +1,4 @@
-Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
+Location: [🌌Dreamscape](🌌Dreamscape.md)
 Home of the [[🏛 Core Realms Pantheon]]
 
 

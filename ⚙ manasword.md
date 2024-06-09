@@ -3,9 +3,9 @@
 
 ### Manaswords
 
-Within the [dreamscape](🌌%20Dreamscape), **manaswords** are magical artifacts designed to focus and channel the wielder's innate magical potential into a powerful, tangible form. These devices are known across various cultures and realms for their unique ability to harness life energy and project it as a lethal weapon.
+Within the [dreamscape](🌌Dreamscape.md), **manaswords** are magical artifacts designed to focus and channel the wielder's innate magical potential into a powerful, tangible form. These devices are known across various cultures and realms for their unique ability to harness life energy and project it as a lethal weapon.
 
-Remarkably similar to the [nanoswords](⚙%20nanosword) used in [material reality](🌌%20Material%20Reality).
+Remarkably similar to the [nanoswords](⚙%20nanosword) used in [material reality](🌌MaterialReality.md).
 
 #### Design and Function
 

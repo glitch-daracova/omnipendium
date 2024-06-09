@@ -1,4 +1,4 @@
-Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
+Location: [🌌Dreamscape](🌌Dreamscape.md)
 Home of the godly [🏛 House Yakobe 🟣](🏛%20House%20Yakobe%20🟣.md)
 
 > [!warning] AI generated content

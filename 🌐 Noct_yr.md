@@ -1,4 +1,4 @@
-Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
+Location: [🌌Dreamscape](🌌Dreamscape.md)
 Home of the Godly [🏛 House Athetos 🖤](🏛%20House%20Athetos%20🖤.md)
 
 > [!warning] AI generated content

@@ -1,4 +1,4 @@
-Within [🌌 Material Reality](🌌%20Material%20Reality.md)
+Within [🌌MaterialReality](🌌MaterialReality.md)
 
 See
 > [📅 New Age](📅%20New%20Age.md)

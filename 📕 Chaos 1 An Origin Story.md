@@ -1,4 +1,4 @@
-Where: [🌎 Terra](🌎%20Terra.md) and the [🌌 Dreamscape](🌌%20Dreamscape.md)
+Where: [🌎 Terra](🌎%20Terra.md) and the [🌌Dreamscape](🌌Dreamscape.md)
 Who: [🔻 Glitch Daracova](🔻%20Glitch%20Daracova.md) and [🧛‍♀️ Sala Otanashi](🧛‍♀️%20Sala%20Otanashi.md)
 Who Else: Many characters not named
 What: My origin story

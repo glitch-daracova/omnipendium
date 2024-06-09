@@ -1,5 +1,5 @@
 # The Dreamscape
-Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
+Location: [🌌Dreamscape](🌌Dreamscape.md)
 
 > The Dreamscape is a vast, magical world that exists alongside our own.
 > *just don't question how it got there.*

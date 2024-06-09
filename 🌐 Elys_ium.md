@@ -1,4 +1,4 @@
-Location: [🌌 Dreamscape](🌌%20Dreamscape.md)
+Location: [🌌Dreamscape](🌌Dreamscape.md)
 Home of the [🏛 Elysian Pantheon 😇](🏛%20Elysian%20Pantheon%20😇.md)
 
 > [!warning] AI generated content

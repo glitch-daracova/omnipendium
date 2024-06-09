@@ -13,7 +13,7 @@ Good question. The GCOI was full of old, outdated, incomplete, and contradictory
 Apart from being a reference for authors, game masters, and players alike, I also intend to eventually train a GPT like AI on the contents of the Omnipedia. I will then use this ai to transform "Excerpts from a book I'll never write" into a book actually written. I don't know how that's going to work yet, but I'll get there when I get there.
 
 # Key Reading
-[🌌 Material Reality](🌌%20Material%20Reality.md) - [🌌 Dreamscape](🌌%20Dreamscape.md)
+[🌌MaterialReality](🌌MaterialReality.md) - [🌌Dreamscape](🌌Dreamscape.md)
 [🏛 WISE 🌎](🏛%20WISE%20🌎.md) - [🏛 Xaran Alliance 🔺](🏛%20Xaran%20Alliance%20🔺.md) - [🏛 Vexian Empire 🔷](🏛%20Vexian%20Empire%20🔷.md)
 [🏛 ORDER 🔻](🏛%20ORDER%20🔻.md)
 [🏛 EDF 🟩](🏛%20EDF%20🟩.md)
