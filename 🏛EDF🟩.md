@@ -22,10 +22,12 @@ The **Empire of the Darkness Flame** is a vast and powerful dominion characteriz
 
 The empire is organized into a rigid hierarchy:
 
-## Emperor and Empress
 The Emperor: [🟩VedaricNoxRammus](🟩VedaricNoxRammus.md)
 
 The Empress: [🟩ValexNoxRammus](🟩ValexNoxRammus.md)
+
+The High Minister: [[🟩EDFZebulah]]
+
 
 ## The Demon Ascendancy
 [🟩EDFArchdemons](🟩EDFArchdemons.md)

@@ -33,7 +33,7 @@ Apart from being a reference for authors, game masters, and players alike, I als
 [Credits](Credits)
 
 # For Posterity
-[📜 Old Lore - Index 📜](OldLore/📜%20Old%20Lore%20-%20Index%20📜.md)
+[📜OldLore-Index📜](OldLore/📜OldLore-Index📜.md)
 
 # To Do
-[📄PagesToDo](📄PagesToDo.md)
+LEGAL - I don't understand how licenses work, and I really need to figure that out.
