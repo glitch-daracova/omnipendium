@@ -1,4 +1,6 @@
 # The Dreamscape
+Return to [✴️OmnipendiumHome](✴️OmnipendiumHome.md)
+
 Location: [🌌Dreamscape](🌌Dreamscape.md)
 
 > The Dreamscape is a vast, magical world that exists alongside our own.
