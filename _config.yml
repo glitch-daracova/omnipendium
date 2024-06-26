@@ -1,1 +1,5 @@
+title: "The Omnipendium"
+description: "A wiki for Chaos is Eternal."
+baseurl: "/"
+url: "http://www.chaosiseternal.com"
 theme: jekyll-theme-midnight
