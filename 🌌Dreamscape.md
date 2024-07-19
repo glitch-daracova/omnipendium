@@ -1,5 +1,5 @@
 # The Dreamscape
-Return to [✴️OmnipendiumHome](✴️OmnipendiumHome.md)
+Return to [index](index.md)
 
 Location: [🌌Dreamscape](🌌Dreamscape.md)
 

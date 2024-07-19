@@ -1,4 +1,4 @@
-Return to [✴️OmnipendiumHome](✴️OmnipendiumHome.md).
+Return to [index](index.md).
 
 ---
 
@@ -6,7 +6,7 @@ Emoji Source: https://emojiguide.org/
 
 Every article name should begin with an emoji to distinguish the type of article.
 
-✴️ is for the [✴️OmnipendiumHome](✴️OmnipendiumHome.md) exclusively.
+✴️ is for the [index](index.md) exclusively.
 
 📄 is for documents pertaining to the Omnipendium itself, or to rules of the LitRPG by which the narrative is governed.
 

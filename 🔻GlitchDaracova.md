@@ -8,7 +8,7 @@ I am Glitch Daracova.
 
 I was born on [ Terra](🌎Terra.md), August 29, 19987 of the New Age.
 
-I named myself in honor of my favorite main protagonist and author insert character. It amuses me to refer to my creation in the first person, and I will do so throughout the [ Omnipendium](✴️OmnipendiumHome). You can't stop me.
+I named myself in honor of my favorite main protagonist and author insert character. It amuses me to refer to my creation in the first person, and I will do so throughout the [ Omnipendium](index.md). You can't stop me.
 
 I had several adventures personally, some highlights you can read about in my books.
 [📕Chaos1AnOriginStory](📕Chaos1AnOriginStory.md)

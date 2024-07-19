@@ -1,9 +1,9 @@
 # Material Reality
-Return to [✴️OmnipendiumHome](✴️OmnipendiumHome.md)
+Return to [index](index.md)
 
 Location: [🌌MaterialReality](🌌MaterialReality.md)
 
-Also known as the "waking world"
+Also known as the "[Waking World](🌌WakingWorld.md)"
 
 > [!failure] Beware of Lies and Deceit
 >**This page contains blatantly incorrect information that was copy-pasta'ed in without review. Complete re-write is needed.**
