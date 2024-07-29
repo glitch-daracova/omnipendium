@@ -12,7 +12,7 @@
 
 **Notable Stories**:
 
-- **[Zombie Outbreak on O'Mally Station](Zombie%20Outbreak%20on%20O'Mally%20Station)**
+- **[ZombieOutbreakOnOMallyStation](ZombieOutbreakOnOMallyStation.md)**
 
 **Appearance**:
 

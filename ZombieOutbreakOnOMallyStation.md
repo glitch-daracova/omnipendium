@@ -1,6 +1,7 @@
+# Zombie Outbreak on O'Mally Station
 Related pages:
 
-[James Rogue](James%20Rogue.md)
+[JamesRogue](JamesRogue.md)
 [Marcus Greenwood](Marcus%20Greenwood.md)
 
 ---

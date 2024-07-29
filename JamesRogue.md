@@ -1,3 +1,5 @@
+# James Rogue
+
 **Name**: James Rogue
 
 **Race**: Human
@@ -12,7 +14,7 @@
 
 **Notable Stories**:
 
-- **[Zombie Outbreak on O'Mally Station](Zombie%20Outbreak%20on%20O'Mally%20Station.md)**
+- **[ZombieOutbreakOnOMallyStation](ZombieOutbreakOnOMallyStation.md)**
 
 **Appearance**:
 
