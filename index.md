@@ -47,3 +47,9 @@ Apart from being a reference for authors, game masters, and players alike, I als
 LEGAL - I don't understand how licenses work, and I really need to figure that out.
 
 [📅GalacticCalendar](📅GalacticCalendar.md) Rule: Instead of setting events to specific years, events should happen relative to other events. Several articles will need to change to reflect this design choice.
+
+
+# links to be organized later
+[ZombieOutbreakOnOMallyStation](ZombieOutbreakOnOMallyStation.md)
+
+[🏛️HarmonicCollective🎼](🏛️HarmonicCollective🎼.md)

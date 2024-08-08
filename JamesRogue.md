@@ -1,4 +1,5 @@
 # James Rogue
+Return to: [**Zombie Outbreak on O'Mally Station**](ZombieOutbreakOnOMallyStation.md)
 
 **Name**: James Rogue
 

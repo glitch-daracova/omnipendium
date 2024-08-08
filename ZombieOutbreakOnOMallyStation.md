@@ -1,8 +1,37 @@
 # Zombie Outbreak on O'Mally Station
-Related pages:
+Return to: [Omnipendium Home](index.md)
 
-[JamesRogue](JamesRogue.md)
-[Marcus Greenwood](Marcus%20Greenwood.md)
+Return to: [**Zombie Outbreak on O'Mally Station**](ZombieOutbreakOnOMallyStation.md)
+
+---
+
+**ZOOOMS** is (probably never going to be) a playable rpg module for one or more players, featuring varied cast of characters, and set in an increasingly absurd disaster.
+
+[ZooomsRoster](ZooomsRoster.md)
+
+## Cast of "Heroes"
+
+[James Rogue "Big Time"](JamesRogue.md)
+
+[Marcus Greenwood "Nature Boy"](MarcusGreenwood.md)
+
+[Gregory Montero "G Money"](GregoryMontero.md)
+
+[Devon Kateran "Cat Daddy"](DevonKateran.md)
+
+[Dr. Celia Brieson "Cool Breeze"](CeliaBrieson.md)
+
+[Kara Vander "Echo Hawk"](KaraVander.md)
+
+## Gameplay Stuff
+
+[Beginning Play](ZooomsSetup.md)
+
+[Recources](ZooomsResources.md)
+
+[Player Death](ZooomsPlayerDeath.md)
+
+[Game Loss](ZoomsGameLoss.md)
 
 ---
 
