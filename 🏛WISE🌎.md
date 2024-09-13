@@ -1,8 +1,8 @@
 # The World Institute of Sovereign Enforcement.
 
-Formatted Link: [WISE](🏛WISE🌎.md)
-
-Defacto Government of [Terra](🌎Terra.md).
+> Formatted Link: [WISE](🏛WISE🌎.md)
+>
+> Defacto Government of [Terra](🌎Terra.md).
 
 # 🌎🌍🌏🌎🌍🌏🌎🌍🌏
 

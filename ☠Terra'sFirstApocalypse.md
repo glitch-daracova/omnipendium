@@ -1,3 +1,0 @@
-### The First Apocalypse
-**Ecological Collapse**
-Beginning in 7166NA, less than a year after the Ark left Terra for Sigma Draconis, the planet's ecosphere completely collapsed. Everyone in power claimed that no-one could have predicted it while the scientific community waved centuries of papers saying otherwise. The Ozone layer was gone, and sunlight burned everything it touched. With plant life gone, nothing was slowing the buildup of toxic gasses making the outside air completely unbreathable. Everyone who didn't move into the already overcrowded megacities, died.

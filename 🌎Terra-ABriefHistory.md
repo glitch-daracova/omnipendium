@@ -25,7 +25,7 @@ The crowning achievement of the Second Renaissance was the construction of the A
 In a strange twist of fate, one of these corporate elites owned the trademark rights to the name "Earth." Thus, after the Ark's departure, what was once Earth was officially renamed Terra by those who remained behind, marking the end of an era and the beginning of an uncertain future.
 
 ## The Age of Disaster
-> External: [🌌Breach](🌌Breach.md) - [⚔TerranAIWar](⚔TerranAIWar.md)
+> External: [🌌Breach](🌌Breach.md)
 
 The Age of Disaster marks a dark chapter in human history. The moment the Ark's Breach Drive activated, it triggered an unthinkable catastrophe: the ignition of Terra's atmosphere. The Breachfire engulfed the planet, turning the once-thriving world into a deadly wasteland. Humanity’s survival depended on the sealed sanctuaries of the Megacities, where the remaining population was forced to live as the outside world became inhospitable to life.
 
