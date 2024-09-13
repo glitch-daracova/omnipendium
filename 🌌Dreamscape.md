@@ -4,13 +4,21 @@ Return to [index](index.md)
 Location: [🌌Dreamscape](🌌Dreamscape.md)
 
 > The Dreamscape is a vast, magical world that exists alongside our own.
+> 
 > *just don't question how it got there.*
+> 
 > Imagine it as a place you can visit in your sleep, where you can experience adventures in a land filled with fantastical landscapes and creatures.
+> 
 > *a perfect world.*
+> 
 >People from our world can enter the Dreamscape using a special device, almost like putting on a virtual reality headset. This device, called a Dreamcatcher, allows users to explore and interact with this vibrant, mystical realm.
+>
 > *you'll never want to sleep without it again.*
+> 
 > Within this realm are noble kings and powerful gods, dastardly villains and heroic warriors, each carving their fate in the annals of time.
+> 
 > *in fact, you'll never want to go back to your dull, bleak life.*
+> 
 > Buy a Dreamcatcher today! Payment plans available to qualifying applicants.
 
 ---

@@ -1,5 +1,5 @@
 # Gregory Montero
-Return to: [**Zombie Outbreak on O'Mally Station**](ZombieOutbreakOnOMallyStation.md)
+Return to: [**Zombie Outbreak on O'Mally Station**](ZooomsMain.md)
 
 **Name**: Gregory Montero
 

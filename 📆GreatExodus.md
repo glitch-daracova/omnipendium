@@ -1,2 +1,0 @@
-[📆GreatExodus](📆GreatExodus.md)
-

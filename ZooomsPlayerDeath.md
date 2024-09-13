@@ -1,5 +1,5 @@
 # In Event of Player Death
-Return to: [**Zombie Outbreak on O'Mally Station**](ZombieOutbreakOnOMallyStation.md)
+Return to: [**Zombie Outbreak on O'Mally Station**](ZooomsMain.md)
 
 #### **Player Survivor Death**
 

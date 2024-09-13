@@ -1,5 +1,5 @@
 # Marcus Greenwood
-Return to: [**Zombie Outbreak on O'Mally Station**](ZombieOutbreakOnOMallyStation.md)
+Return to: [**Zombie Outbreak on O'Mally Station**](ZooomsMain.md)
 
 **Name**: Marcus Greenwood
 
@@ -15,7 +15,7 @@ Return to: [**Zombie Outbreak on O'Mally Station**](ZombieOutbreakOnOMallyStatio
 
 **Notable Stories**:
 
-- **[ZombieOutbreakOnOMallyStation](ZombieOutbreakOnOMallyStation.md)**
+- **[ZooomsMain](ZooomsMain.md)**
 
 **Appearance**:
 
