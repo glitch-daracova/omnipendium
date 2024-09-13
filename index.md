@@ -1,7 +1,7 @@
-*Excerpts from a book I'll probably never write.*
-
 # The Omnipendium
 The Omnipendium is established 2024-03-07. It was a Thursday. This document will contain the ruleset for the Chaos LitRPG, as well as a wiki of locations, events, characters, and more.
+
+> Alternative title: *Excerpts from a book I'll never write.*
 
 ---
 

@@ -1,5 +1,7 @@
 # 🌎 Terra
 
+> Return to [Omnipendium Home](index.md)
+>
 > Formatted Link: [Terra](🌎Terra.md)
 >
 > Location: [🌌SolSystem](🌌SolSystem.md)
