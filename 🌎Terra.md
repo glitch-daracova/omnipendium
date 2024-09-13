@@ -17,11 +17,17 @@
 # Major Factions
 ## WISE
 > [🏛 WISE 🌎](🏛WISE🌎.md)
+> 
 > [🌎 Pax Americana](🌎PaxAmericana.md)
+> 
 > [🌏 Lotus Dominion](🌏LotusDominion.md)
 
 ## Corporations
 > [💼BinaryHelix](💼BinaryHelix.md)
+>
+> Lorem Ipsum
 
 ## Syndicates
 > [🌎ShadowConsortium](🌎ShadowConsortium.md)
+>
+> Dolor Sit Amet
