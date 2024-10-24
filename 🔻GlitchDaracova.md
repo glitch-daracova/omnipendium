@@ -7,7 +7,7 @@ I am Glitch Daracova.
 
 I was born on [ Terra](🌎Terra.md), August 29, some year in the New Age.
 
-I named myself in honor of my favorite main protagonist and author insert character. It amuses me to refer to my creation in the first person, and I will do so throughout the [ Omnipendium](index.md). You can't stop me.
+I named myself in honor of my favorite main protagonist and author insert character. It amuses me to refer to my creation in the first person, and I will do so throughout the [ Omnipendium](index.md). The lack of distinction between Glitch the character and Glitch the author is on purpose, and you can't stop me.
 
 I had several adventures personally, some highlights you can read about in my books.
 
@@ -28,7 +28,7 @@ These days I mostly sit around, drink, play video games, and attempt to document
 
 GPT, make me a character profile.
 
-### **Character Profile: Glitch Daracova**
+### Character Profile: Glitch Daracova
 
 **Aliases:**
 

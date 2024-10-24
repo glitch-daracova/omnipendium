@@ -16,16 +16,16 @@ Good question. The GCOI was full of old, outdated, incomplete, and contradictory
 
 ### What is the purpose of this new Omnipendium?
 
-Apart from being a reference for authors, game masters, and players alike, I also intend to eventually train a GPT like AI on the contents of the Omnipedia. I will then use this ai to transform "Excerpts from a book I'll never write" into a book actually written. I don't know how that's going to work yet, but I'll get there when I get there.
+Apart from being a reference for authors, game masters, and players alike, I also intend to eventually train a GPT like AI on the contents of the Omnipedia. I will then use this ai to transform "Excerpts from a book I'll never write" into a book actually written. I don't know how that's going to work yet, but I'll get there when I get there. Do note that before anyone can actually use this reference, I need to figure out how licences work and attach an appropriate one to this body of work.
 
 ---
 
 # Key Reading
-🌌Cosmology🌌
+### 🌌Cosmology🌌
 
 [Material Reality](🌌MaterialReality.md) - [Dreamscape](🌌Dreamscape.md) - [The Breach](🌌Breach.md)
 
-🏛Factions🏛
+### 🏛Factions🏛
 
 [WISE](🏛WISE🌎.md) - [Xaran Alliance](🏛XaranAlliance🔺.md) - [Vexian Empire](🏛VexianEmpire🔷.md)
 
@@ -56,7 +56,7 @@ Apart from being a reference for authors, game masters, and players alike, I als
 [📜OldLore-Index📜](OldLore/📜OldLore-Index📜.md)
 
 # To Do
-LEGAL - I don't understand how licenses work, and I really need to figure that out.
+[📄ToDoList](📄ToDoList.md)
 
 
 # links to be organized later
