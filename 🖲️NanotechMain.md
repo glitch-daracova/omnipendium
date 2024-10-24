@@ -1,5 +1,8 @@
 # Nanotech
 
+> Formatted Link: [Nanotech Main](🖲️NanotechMain.md)
+> Return to [index](index.md)
+
 
 [🖲️NanotechAugmentation](🖲️NanotechAugmentation.md)
 
