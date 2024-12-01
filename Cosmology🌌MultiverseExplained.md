@@ -3,7 +3,7 @@
 >
 > Return to: [**Omnipendium Home**](index.md)
 
-> [[Cosmology🌌RealmsList]]
+> [**List of Documented Realms**](Cosmology🌌RealmsList.md)
 
 "*Rule number one about the multiverse: nobody understands the multiverse. If anyone ever tries to tell you how it really works, they're lying. Either they're lying to you, or they're lying to themselves.*" -Unknown
 
