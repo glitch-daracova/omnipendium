@@ -1,4 +1,4 @@
-A [🛐DreamscapeGods](🛐DreamscapeGods.md) belonging to the [🏛CoreRealmsPantheon](🏛CoreRealmsPantheon.md)
+A - the [Erewhon🏛Pantheon](Erewhon🏛Pantheon.md)
 
 ---
 

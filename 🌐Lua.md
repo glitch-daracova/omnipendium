@@ -1,1 +1,0 @@
-Location: [🌌SolSystem](🌌SolSystem.md)

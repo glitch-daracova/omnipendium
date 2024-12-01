@@ -1,4 +1,6 @@
-**Overview of Azer_os**
+# **Overview of Azer_os**
+
+> See also: [TODO-EDF&Azer_os](TODO-EDF&Azer_os.md)
 
 Azer_os is a world defined by complex conflicts, deep-seated resentment, and ideological divides between factions that each seek power, survival, and identity in unique ways. At the heart of the conflict is the Glorious Kingdom, ruled by the King of Golden Lions—a staunch leader who enforces a vision of purity, loyalty, and expansionism. The Kingdom’s unyielding ideology drives it to view both the undead Swarm and the diverse cultures of the Savage Wilds as existential threats that must be subdued or destroyed. In this world, alliances, betrayals, and the echoes of past mistakes shape every faction’s goals and struggles.
 

@@ -1,5 +1,9 @@
 Ruling pantheon of [🌐Noct_yr](🌐Noct_yr.md)
 
+Has an ongoing feud with [🏛HouseYakobe🟣](🏛HouseYakobe🟣.md)
+
+[[Athetos🖤Notes]]
+
 ---
 
 **[🖤LeroyTyrannus](🖤LeroyTyrannus.md) "The God King"**  

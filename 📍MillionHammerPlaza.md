@@ -1,6 +1,6 @@
 # Million Hammer Plaza
 
-> Location: Dominatus Texas, [Pax Americana](🌎PaxAmericana.md)
+> Location: Dominatus Texas, [Pax Americana](Terra🌎PaxAmericana.md)
 
 ### Description
 

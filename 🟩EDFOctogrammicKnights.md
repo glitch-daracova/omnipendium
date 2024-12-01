@@ -1,8 +1,0 @@
-**Validus** [🟩EDFValidus](🟩EDFValidus.md)  
-**Kaden** [🟩EDFKaden](🟩EDFKaden.md)  
-**Marius** [🟩EDFMarius](🟩EDFMarius.md)  
-**Apollyon** [🟩EDFApollyon](🟩EDFApollyon.md)  
-**Uzziel** [🟩EDFUzziel](🟩EDFUzziel.md)  
-**Mandeus** [🟩EDFMandeus](🟩EDFMandeus.md)  
-**Syriel** [🟩EDFSyriel](🟩EDFSyriel.md)  
-**Ra'jaad** [🟩EDFRa'jaad](🟩EDFRa'jaad.md)

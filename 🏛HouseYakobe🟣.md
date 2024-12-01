@@ -1,5 +1,7 @@
 Ruling pantheon of [🌐Eklyps_ia](🌐Eklyps_ia.md)
 
+Has an ongoing feud with [🏛HouseAthetos🖤](🏛HouseAthetos🖤.md)
+
 ---
 
 **Queen Jane Eqlar, Protector of the Realm**

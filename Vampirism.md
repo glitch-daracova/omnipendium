@@ -49,7 +49,7 @@ Vampirism can be spread through blood transfusion, dark rituals, or the direct i
 
 **Overview:**
 
-Chiropteran vampirism is a distinct and ancient strain of vampirism that differs significantly from other forms. It is characterized by its hierarchical structure, with the presence of **Chiropteran Queens** who are central to the creation and control of their kind. This strain of vampirism has its roots in the Realm of Shadows and has spread to other worlds, including **Agar_ia** and **Terra**.
+Chiropteran vampirism is a distinct and ancient strain of vampirism that differs significantly from other forms. It is characterized by its hierarchical structure, with the presence of **Chiropteran Queens** who are central to the creation and control of their kind. This strain of vampirism has its roots in the Realm of Shadows and has spread to other worlds, including **Agar_ia** and **Mater_ia**.
 
 **Characteristics:**
 

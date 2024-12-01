@@ -1,5 +1,5 @@
-**Where:** [🌎Terra](🌎Terra.md) and [🌌Dreamscape](🌌Dreamscape.md)  
-**Who:** [🔻GlitchDaracova](🔻GlitchDaracova.md) and [🧛‍♀️SalaOtanashi](🧛‍♀️SalaOtanashi.md)
+**Where:** [Sol🌎Terra](Sol🌎Terra.md) and [Cosmology🌌TheDreamscape](Cosmology🌌TheDreamscape.md)  
+**Who:** [ORDER🔻GlitchDaracova](ORDER🔻GlitchDaracova.md) and [TOA🧛‍♀️SalaOtanashi](TOA🧛‍♀️SalaOtanashi.md)
 **What:** The struggle to find purpose after resurrection  
 **Why:** To rediscover what truly matters and confront new threats  
 **Actually Why:** I'm still here, so why not?

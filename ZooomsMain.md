@@ -1,7 +1,7 @@
 # Zombie Outbreak on O'Mally Station
-Return to: [Omnipendium Home](index.md)
-
-Return to: [**Zombie Outbreak on O'Mally Station**](ZooomsMain.md)
+> Return to: [**Omnipendium Home**](index.md)
+>
+> Return to: [**Zombie Outbreak on O'Mally Station**](ZooomsMain.md)
 
 ---
 

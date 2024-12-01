@@ -1,5 +1,5 @@
 Original Concept by **Jacob Molina**
-Location: [🌌Dreamscape](🌌Dreamscape.md)
+Location: [Cosmology🌌TheDreamscape](Cosmology🌌TheDreamscape.md)
 Home of the godly [🏛HouseYakobe🟣](🏛HouseYakobe🟣.md)
 
 > [!warning] AI generated content

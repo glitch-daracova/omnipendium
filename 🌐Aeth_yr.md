@@ -1,4 +1,5 @@
-Location: [🌌Dreamscape](🌌Dreamscape.md)
+# Aeth_yr
+
 Domain of the [🏛EmpireOfPhobos 🔶](🏛EmpireOfPhobos%20🔶.md)
 
 > [!warning] AI generated content

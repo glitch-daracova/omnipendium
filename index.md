@@ -1,4 +1,7 @@
 # The Omnipendium
+
+> Formatted link: [**Omnipendium Home**](index.md)
+
 The Omnipendium is established 2024-03-07. It was a Thursday. This document will contain the ruleset for the Chaos LitRPG, as well as a wiki of locations, events, characters, and more.
 
 > Alternative title: *Excerpts from a book I'll never write.*
@@ -16,22 +19,28 @@ Good question. The GCOI was full of old, outdated, incomplete, and contradictory
 
 ### What is the purpose of this new Omnipendium?
 
-Apart from being a reference for authors, game masters, and players alike, I also intend to eventually train a GPT like AI on the contents of the Omnipedia. I will then use this ai to transform "Excerpts from a book I'll never write" into a book actually written. I don't know how that's going to work yet, but I'll get there when I get there. Do note that before anyone can actually use this reference, I need to figure out how licences work and attach an appropriate one to this body of work.
+Apart from being a reference for authors, game masters, and players alike, I also intend to eventually train a GPT like AI on the contents of the Omnipendium. I will then use this ai to transform "Excerpts from a book I'll never write" into a book actually written. I don't know how that's going to work yet, but I'll get there when I get there. Do note that before anyone can actually use this reference, I need to figure out how licences work and attach an appropriate one to this body of work.
+
+### Why is it such... a mess?
+
+Because I'm one guy, and my time is split between a full-time job, a significant other, and multiple other hobbies. Maybe it would be better to think of this as less of a formal wiki and more like a digital garden that is open to guests.
 
 ---
 
 # Key Reading
 ### 🌌Cosmology🌌
 
-[Material Reality](🌌MaterialReality.md) - [Dreamscape](🌌Dreamscape.md) - [The Breach](🌌Breach.md)
+[The Multiverse: Explained](Cosmology🌌MultiverseExplained.md)
+
+[Material Reality](Mater_ia🌌Main.md) - [Dreamscape](Cosmology🌌TheDreamscape.md) - [The Breach](Cosmology🌌TheBreach.md)
 
 ### 🏛Factions🏛
 
-[WISE](🏛WISE🌎.md) - [Xaran Alliance](🏛XaranAlliance🔺.md) - [Vexian Empire](🏛VexianEmpire🔷.md)
+[WISE](Terra🌎🏛WISE.md) - [Xaran Alliance](🏛XaranAlliance🔺.md) - [Vexian Empire](🏛VexianEmpire🔷.md)
 
-[ORDER](🏛ORDER🔻.md)
+[ORDER](ORDER🔻Main.md)
 
-[The Empire of the Darkness Flame](🏛EDF🟩.md)
+[The Empire of the Darkness Flame](EDF🟩🏛️Main.md)
 
 # The Books (that I'll probably never write)
 [📕Chaos1AnOriginStory](📕Chaos1AnOriginStory.md)
@@ -43,12 +52,12 @@ Apart from being a reference for authors, game masters, and players alike, I als
 [📕Chaos4EndWar](📕Chaos4EndWar.md)
 
 # Gameplay Conceits
-[📄DamageTypes](📄DamageTypes.md)
+[Meta📄DamageTypes](Meta📄DamageTypes.md)
 
-[📄CharacterAttributes](📄CharacterAttributes.md)
+[Meta📄CharacterAttributes](Meta📄CharacterAttributes.md)
 
 # Meta Bullshit
-[📄ArticleLabellingRules](📄ArticleLabellingRules.md)
+[Meta📄ArticleLabellingRules](Meta📄ArticleLabellingRules.md)
 
 [Credits](Credits)
 
@@ -56,7 +65,7 @@ Apart from being a reference for authors, game masters, and players alike, I als
 [📜OldLore-Index📜](OldLore/📜OldLore-Index📜.md)
 
 # To Do
-[📄ToDoList](📄ToDoList.md)
+[TODO📄MainToDoList](TODO📄MainToDoList.md)
 
 
 # links to be organized later
@@ -64,4 +73,4 @@ Apart from being a reference for authors, game masters, and players alike, I als
 
 [🏛️HarmonicCollective🎼](🏛️HarmonicCollective🎼.md)
 
-[🖲️NanotechMain](🖲️NanotechMain.md)
+[Nanotech🖲️Main](Nanotech🖲️Main.md)
