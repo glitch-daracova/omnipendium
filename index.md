@@ -74,3 +74,7 @@ Because I'm one guy, and my time is split between a full-time job, a significant
 [🏛️HarmonicCollective🎼](🏛️HarmonicCollective🎼.md)
 
 [Nanotech🖲️Main](Nanotech🖲️Main.md)
+
+[aaa+thisisatest](aaa+thisisatest.md)
+[aaa-thisisatest](aaa-thisisatest.md)
+[aaa=thisisatest](aaa=thisisatest.md)

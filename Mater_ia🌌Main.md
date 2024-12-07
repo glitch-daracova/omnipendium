@@ -3,11 +3,11 @@
 
 Also known as the "Waking World" or "Mater_ia".
 
-[[Mater_ia📅Timeline]]
+[Mater_ia📅Timeline](Mater_ia📅Timeline.md)
 
 ---
 
-> [!failure] Beware of Lies and Deceit
+> ⚠️ Beware of Lies and Deceit
 >**This page contains blatantly incorrect information that was copy-pasta'ed in without review. Complete re-write is needed.**
 
 ### Overview

@@ -1,8 +1,13 @@
 Where: 🚀 Alien Spacecrafts and 🪐 Distant Planets  
+
 Who: [ORDER🔻GlitchDaracova](ORDER🔻GlitchDaracova.md), the [🏛XaranAlliance🔺](🏛XaranAlliance🔺.md), and the [🏛VexianEmpire🔷](🏛VexianEmpire🔷.md)
+
 Who Else: [🔺DracoKnightslayer](🔺DracoKnightslayer.md), [🔺Prism](🔺Prism.md), and many more.
+
 What: My harrowing survival and transformation  
+
 Why: To uncover the unknown and face new challenges
+
 Actually Why: I'm here, why not?
 
 ---

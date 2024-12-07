@@ -1,7 +1,11 @@
 Where: [Terra](Sol🌎Terra.md) and the [The Dreamscape](Cosmology🌌TheDreamscape.md)
+
 Who: [Glitch Daracova](ORDER🔻GlitchDaracova.md) and [Sala Otanashi](TOA🧛‍♀️SalaOtanashi.md)
+
 Who Else: Many characters not named
+
 What: My origin story
+
 Why: Because I'm an egocentric ass and of course the first book is about me
 
 ---
