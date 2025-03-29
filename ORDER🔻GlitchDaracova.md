@@ -7,7 +7,7 @@
 > [ORDER🔻MichaelShadesmith](ORDER🔻MichaelShadesmith.md) - [ORDER🔻SethShadesmith](ORDER🔻SethShadesmith) - [ORDER🔻AlzaelShadesmith](ORDER🔻AlzaelShadesmith.md) - [ORDER🔻HadraelShadesmith](ORDER🔻HadraelShadesmith.md) - [ORDER🔻TyraelShadesmith](ORDER🔻TyraelShadesmith) - [ORDER🔻UrielShadesmith](ORDER🔻UrielShadesmith) - [ORDER🔻GabraelShadesmith](ORDER🔻GabraelShadesmith.md)
 
 ---
-
+[[gdx-GlitchNotes1]]
 🔺🔻🔺🔻🔺🔻🔺🔻🔺
 I am Glitch Daracova.
 
@@ -26,7 +26,9 @@ I had several adventures personally, some highlights you can read about in my bo
 [📕Chaos3BloodChronicle](📕Chaos3BloodChronicle.md) - Things take a dark turn as I reckon with philosophical problems I didn't used to have time for. Also, my past mistakes come back to haunt me.
 
 
-[📕Chaos4EndWar](📕Chaos4EndWar.md) - It's the end of the world as we know it! Well, actually it's the end of all existence in any meaningful manner, unless we can stop an insane copy of me who is more powerful and somehow more of an ass than I am. Did we win? You'll have to read it to find out!
+[📕Chaos4ChaosAge](📕Chaos4ChaosAge.md) - It's the end of the world as we know it! Well, actually it's the end of all existence in any meaningful manner, unless we can stop an insane copy of me who is more powerful and somehow more of an ass than I am. Did we win? You'll have to read it to find out!
+
+Then there's the founding of ORDER.
 
 These days I mostly sit around, drink, play video games, and attempt to document everything I think I remember about that world I don't live in anymore.
 

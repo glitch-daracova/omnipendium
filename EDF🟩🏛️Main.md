@@ -11,7 +11,7 @@ The **Empire of the Darkness Flame** is a vast and powerful dominion characteriz
 
 # Founding and Leadership
 
-**Vedaric Nox Rammus** hails from the realm of **Azer_os**, a land plagued by an eternal conflict between the living and the dead. Initially a hopeful hero, Vedaric's fate changed dramatically after his failed duel with the Lich King, the ruler of the undead in Azer_os. With the help of his childhood friend Zebulah, who made a deal with a demon for passage to another realm, Vedaric escaped and began his rise to power, eventually founding the Empire of the Darkness Flame. Zebulah, not bound by the empire’s psychic pledge due to his unique status, remains a close advisor, loyal to the empire rather than to Vedaric personally.
+**Vedaric Nox Rammus** hails from the realm of **[Azer=os](🌐Azer=os.md)**, a land plagued by an eternal conflict between the living and the dead. Initially a hopeful hero, Vedaric's fate changed dramatically after his failed duel with the Lich King, the ruler of the undead in Azer_os. With the help of his childhood friend Zebulah, who made a deal with a demon for passage to another realm, Vedaric escaped and began his rise to power, eventually founding the Empire of the Darkness Flame. Zebulah, not bound by the empire’s psychic pledge due to his unique status, remains a close advisor, loyal to the empire rather than to Vedaric personally.
 
 
 # Structure and Hierarchy

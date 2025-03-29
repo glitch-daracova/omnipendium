@@ -2,9 +2,9 @@
 
 > See Also:
 > [TOA🧛‍♀️SalaOtanashi](TOA🧛‍♀️SalaOtanashi.md)
-> [🌐Pandemon_ium](🌐Pandemon_ium.md)
+> [🌐Pandemon=ium](🌐Pandemon=ium.md)
 
-The **Obsidian Accord (TOA)** is a powerful faction led by **Sala Otanashi**, the Chiropteran Queen and Demon Overlord of **Pandemon_ium**. Founded on the principles of sanctuary and unity, TOA serves as a haven for demons, undead, monsters, and other outcasts from across the multiverse. It stands in stark contrast to the chaotic and brutal hierarchies typical of demonkind, promoting a vision where loyalty is earned through respect and redemption, rather than fear and dominance.
+**The Obsidian Accord (TOA)** is a powerful faction led by **Sala Otanashi**, the Chiropteran Queen and Demon Overlord of **Pandemon=ium**. Founded on the principles of sanctuary and unity, TOA serves as a haven for demons, undead, monsters, and other outcasts from across the multiverse. It stands in stark contrast to the chaotic and brutal hierarchies typical of demonkind, promoting a vision where loyalty is earned through respect and redemption, rather than fear and dominance.
 
 ---
 

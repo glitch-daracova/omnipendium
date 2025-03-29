@@ -19,7 +19,7 @@
 > (The above should not be considered a complete list)
 
 
-Founded during the Chaos Age (see the [Timeline](Mater_ia📅Timeline.md)).
+Founded during the Chaos Age (see the [Timeline](Mater=ia📅Timeline.md)).
 
 ### ORDER as an Organization
 

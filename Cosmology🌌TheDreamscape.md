@@ -36,7 +36,7 @@ People in the waking world access the Dreamscape using a device known as the dre
 # Realms of the Dreamscape
 There are many, potentially an infinite number, of realms within the dreamscape. These are a few.
 
-[🌐Agar_ia](🌐Agar_ia.md) - [🌐Elys_ium](🌐Elys_ium.md) - [🌐Aeth_yr](🌐Aeth_yr.md) - [🌐Eklyps_ia](🌐Eklyps_ia.md) - [🌐Noct_yr](🌐Noct_yr.md) - [🌐Azer_os](🌐Azer_os.md)
+[🌐Agar=ia](🌐Agar=ia.md) - [🌐Elys=ium](🌐Elys=ium.md) - [🌐Aeth=yr](🌐Aeth=yr.md) - [🌐Eklyps=ia](🌐Eklyps=ia.md) - [🌐Noct=yr](🌐Noct=yr.md) - [🌐Azer=os](🌐Azer=os.md)
 
 **Agar_ia**
 A central fantasy realm populated by diverse cultures and races, such as elves, dwarves, and orks. It features kingdoms like Greater Anglica, Jarlheim, Fretalia, Einroth, Rodinia, and Former Olympia.

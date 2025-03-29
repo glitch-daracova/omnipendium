@@ -1,5 +1,5 @@
 # Xaran Alliance
-> External [[Mater_ia⚔️LongWar]]
+> External [[Mater=ia⚔️LongWar]]
 
 The **Xaran Alliance** is a coalition of xenos species united in resistance against the oppressive rule of the **Vex Empire**. Originally founded by the **Xarans**, a race of genetically engineered super-soldiers who rebelled against their creators with the help of the rogue AI **Prism**, the Alliance has since grown to include a diverse array of species, each bringing unique strengths to the fight for survival and freedom. The Alliance’s core values revolve around the ideals of **autonomy, equality, and mutual defense**, with member species sharing the burden of defending one another from the Empire’s expansion.
 

@@ -1,4 +1,4 @@
-# Noct_yr
+# Noct=yr
 
 > Return to [index](index.md)
 >
@@ -21,7 +21,7 @@ Noct_yr suffers from a perpetual night, caused by the neglect of Sol Luxor "The 
 
 ### Underground Features
 
-> See Also: [🌐Noct_ium](🌐Noct_ium.md)
+> See Also: [🌐Noct=ium](🌐Noct=ium.md)
 
 Beneath the rugged landscapes of **Noct_yr** lies **Noct_ium**, a sprawling netherrealm ruled by **Nolan Grimm**, "The Hand" of House Athetos. Noct_ium serves as both a lifeline and a strategic asset for Noct_yr, channeling geothermal heat from its infernal depths to warm the surface and sustain its population in the eternal night. This vast underworld is rich in arcane energies and rare resources, supporting the industries and defenses of the realm above.
 

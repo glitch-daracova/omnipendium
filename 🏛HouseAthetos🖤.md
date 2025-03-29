@@ -1,4 +1,4 @@
-Ruling pantheon of [🌐Noct_yr](🌐Noct_yr.md)
+Ruling pantheon of [🌐Noct=yr](🌐Noct=yr.md)
 
 Has an ongoing feud with [🏛HouseYakobe🟣](🏛HouseYakobe🟣.md)
 

@@ -1,7 +1,7 @@
 # Ignus
 
 > Part of the [Elys_ium😇Pantheon](Elys_ium😇Pantheon.md)
-> Ruling god of [Pyreborea](Elys_ium🔥Pyreborea.md) in [Elys_ium](🌐Elys_ium.md).
+> Ruling god of [Pyreborea](Elys_ium🔥Pyreborea.md) in [Elys_ium](🌐Elys=ium.md).
 
 Ignus, the god of fire. He rules the Pyreborea region, which features ashlands and active volcanoes.
 

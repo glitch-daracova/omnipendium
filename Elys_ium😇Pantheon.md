@@ -1,6 +1,6 @@
 # Elysian Pantheon
 
-> Ruling pantheon of [Elys_ium](🌐Elys_ium.md)
+> Ruling pantheon of [Elys_ium](🌐Elys=ium.md)
 > Formatted Link: [Elysian Pantheon](Elys_ium😇Pantheon.md)
 
 [Agrella](Elys_ium🌳Agrella.md): Goddess of life, order, seasons, and renewal.  

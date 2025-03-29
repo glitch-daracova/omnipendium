@@ -1,4 +1,4 @@
-# Pandemon_ium
+# Pandemon=ium
 
 > Related:
 > [TOA🧛‍♀️SalaOtanashi](TOA🧛‍♀️SalaOtanashi.md)

@@ -3,7 +3,7 @@
 
 Also known as the "Waking World" or "Mater_ia".
 
-[Mater_ia📅Timeline](Mater_ia📅Timeline.md)
+[Mater=ia📅Timeline](Mater=ia📅Timeline.md)
 
 ---
 

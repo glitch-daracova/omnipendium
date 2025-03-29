@@ -1,4 +1,4 @@
-Ruling pantheon of [🌐Eklyps_ia](🌐Eklyps_ia.md)
+Ruling pantheon of [🌐Eklyps=ia](🌐Eklyps=ia.md)
 
 Has an ongoing feud with [🏛HouseAthetos🖤](🏛HouseAthetos🖤.md)
 

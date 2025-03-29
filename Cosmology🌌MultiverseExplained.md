@@ -21,7 +21,7 @@ Infinitism states that all realms are tiny bubbles of reality floating in the in
 
 ---
 # The Breach
-[Cosmology🌌TheBreach](Cosmology🌌TheBreach.md)
+> External: [Cosmology🌌TheBreach](Cosmology🌌TheBreach.md)
 
 The **Breach** is an **interstitial realm**, a chaotic expanse that exists between stable realms, functioning as both a barrier and a bridge across the multiverse. Far from being empty, the Breach is filled with **wild nanotechnology**, **unpredictable energies**, and often **eldritch abominations**, all coexisting in an ever-shifting, hazardous environment. One of its most feared phenomena is **Breachfire**, a destructive force that disassembles matter at the atomic level. Travel through the Breach is essential for navigating between realms, but it is incredibly perilous without advanced technologies like **Vargas Fields**, which protect vessels and their occupants. Exposure to the Breach’s chaotic elements can lead to insanity, destruction, or the release of catastrophic anomalies into stable realms. Despite its dangers, the Breach remains the only known avenue for multiversal exploration and connectivity.
 
@@ -31,7 +31,9 @@ In the multiverse, realms vary widely in structure, scope, and properties, falli
 
 #### Infinite Material Realms
 
-These realms resemble **Material Reality** (Mater_ia) in both structure and physics. They are characterized by their vastness, containing multiple galaxies, countless stars, and potentially infinite worlds. These realms operate under **standard physical laws**, making them familiar to those from Mater_ia, though their size and complexity often make them functionally unknowable in their entirety.
+> External: [Mater=ia🌌Main](Mater=ia🌌Main.md)
+
+These realms resemble **Material Reality** (Mater=ia) in both structure and physics. They are characterized by their vastness, containing multiple galaxies, countless stars, and potentially infinite worlds. These realms operate under **standard physical laws**, making them familiar to those from Mater=ia, though their size and complexity often make them functionally unknowable in their entirety.
 
 - **Key Characteristics**: Multigalactic, infinite in scale, governed by familiar physics.
 - **Examples**: Material Reality itself serves as the archetype for this category.

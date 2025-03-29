@@ -3,7 +3,7 @@
 
 > External:
 > [Xaran Alliance](🏛XaranAlliance🔺.md) - [Vexian Empire](🏛VexianEmpire🔷.md)
-> [Age of Disaster](Mater_ia📅AgeOfDisaster.md) - [New Age](Mater_ia📅NewAge.md)
+> [Age of Disaster](Mater=ia📅AgeOfDisaster.md) - [New Age](Mater=ia📅NewAge.md)
 
 **The Long War** refers to the conflict between the **Xaran Alliance** and the **Vex Empire**, a war that lasted for thousands, if not hundreds of thousands of years, beginning during the Age of Disaster until its conclusion in the New Age. It spans the entire galaxy, with the Vex Empire controlling over a million worlds, and the conflict constantly shifting as planets and systems change hands. Despite countless battles, neither side has been able to secure a decisive victory, leading to a war of attrition and endless new fronts.
 

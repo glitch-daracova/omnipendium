@@ -1,4 +1,4 @@
-# Arech_ia: The Shimmering Desert Realm
+# Arech=ia: The Shimmering Desert Realm
 
 **Arech_ia** is a **single-world, geocentric realm** defined by its vast, unforgiving deserts and the ingenuity of its small-statured inhabitants. Despite its inhospitable environment, the realm thrives as a center of **learning, craftsmanship, and resilience**, with its crown jewel being the **Gleaming City**, a shining beacon of survival and creativity.
 

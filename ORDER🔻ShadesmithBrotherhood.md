@@ -2,7 +2,7 @@
 
 > Return to [ORDER🔻Main](ORDER🔻Main.md)
 > Related: [ORDER🔻GlitchDaracova](ORDER🔻GlitchDaracova.md) - 
-> [Mater_ia📅Timeline](Mater_ia📅Timeline.md)
+> [Mater=ia📅Timeline](Mater=ia📅Timeline.md)
 
 > [ORDER🔻MichaelShadesmith](ORDER🔻MichaelShadesmith.md) - 
 > [ORDER🔻AlzaelShadesmith](ORDER🔻AlzaelShadesmith) - 
@@ -14,7 +14,7 @@
 
 ## Republic Era
 
-*Note: The following pertains to a period of time that predates ORDER. Refer to the [Timeline](Mater_ia📅Timeline.md) for further information.*
+*Note: The following pertains to a period of time that predates ORDER. Refer to the [Timeline](Mater=ia📅Timeline.md) for further information.*
 
 The **Shadesmith Brotherhood** is an elite team of operatives created by the Galactic Republic, consisting of the mind-clones of **Glitch Daracova**, one of the most influential figures to emerge in the aftermath of the Long War. Each member of the Brotherhood possesses Glitch’s memories and skills up to the point of their creation, making them uniquely capable and deeply loyal to the Republic's mission of maintaining the fragile peace established following the Empire’s collapse.
 

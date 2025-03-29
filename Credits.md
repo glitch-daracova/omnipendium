@@ -2,6 +2,7 @@ Thanks to everyone who helped shape the Chaos Multiverse back when it was a pen 
 
 # Primary Author and Game Master
 
+Hi, that's me.
 
 |        name         | author code |
 |:-------------------:|:-----------:|
@@ -9,6 +10,8 @@ Thanks to everyone who helped shape the Chaos Multiverse back when it was a pen 
 
 
 # Recurring Players and Game Masters
+
+People who frequently were part of the group back when this was supposed to be a tabletop rpg.
 
 |          name           | author code |
 |:-----------------------:|:-----------:|
@@ -24,9 +27,11 @@ Thanks to everyone who helped shape the Chaos Multiverse back when it was a pen 
 
 # Former Players
 
+People who were only briefly part of the group, but were around long enough to have a permanent impact on the lore, however small.
+
 **Addison Steed**
 
-**Damiel Carpenter**
+**Daniel Carpenter**
 
 **Ian Andrews**
 

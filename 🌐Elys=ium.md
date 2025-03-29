@@ -1,4 +1,4 @@
-# Elys_ium
+# Elys=ium
 
 > Part of the [ErewhonCluster](ErewhonCluster.md) of realms.
 > Realm Type: Anomolous.

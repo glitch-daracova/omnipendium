@@ -19,7 +19,7 @@
 
 The Breach is a chaotic and hostile interdimensional realm that fills the gaps between universes. It is filled with independent nanotech and eldritch abominations—entities that defy conventional understanding of physics and biology. The Breach operates outside of normal space and time, making it infinite and unpredictable.
 
-The universe that humans refer to as [Material Reality](Mater_ia🌌Main.md) exists within the Breach as a bubble of normalcy, fragile and fleeting from this outside perspective. Other bubbles, such as the simulacrum realms of the [Dreamscape](Cosmology🌌TheDreamscape.md), also float within the Breach.
+The universe that humans refer to as [Material Reality](Mater=ia🌌Main.md) exists within the Breach as a bubble of normalcy, fragile and fleeting from this outside perspective. Other bubbles, such as the simulacrum realms of the [Dreamscape](Cosmology🌌TheDreamscape.md), also float within the Breach.
 
 The Breach is also the source of all [Nanotech](Nanotech🖲️Main.md), further reading is advised.
 

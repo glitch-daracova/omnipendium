@@ -3,7 +3,7 @@
 > [Phobos🔶Notes1-Daughters](Phobos🔶Notes1-Daughters.md)
 > [[Phobos🔶Notes2-Legions]]
 
-Ruler of [[🌐Aeth_yr]] from the founding of the [🏛EmpireOfPhobos 🔶](🏛EmpireOfPhobos%20🔶.md) until his death at the hands of [🟣KaiRuinor](🟣KaiRuinor.md).
+Ruler of [[🌐Aeth=yr]] from the founding of the [🏛EmpireOfPhobos 🔶](🏛EmpireOfPhobos%20🔶.md) until his death at the hands of [🟣KaiRuinor](🟣KaiRuinor.md).
 
 # Kaiser Phobos
 
@@ -11,4 +11,4 @@ Ruler of [[🌐Aeth_yr]] from the founding of the [🏛EmpireOfPhobos 🔶](🏛
 
 Notable for:
 - Establishing and ruling the Empire of Phobos within Aeth_yr, and spreading its dominion to the surrounding realms.
-- 
+- The creation of ~~20~~  ~~18~~ 9 [Femarchs](Phobos🔶Phobodae.md).

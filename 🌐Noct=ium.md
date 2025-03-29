@@ -1,6 +1,6 @@
-# Noct_ium
+# Noct=ium
 
-> Return to: [🌐Noct_yr](🌐Noct_yr.md)
+> Return to: [🌐Noct=yr](🌐Noct=yr.md)
 
 The hidden netherrealm underneith Noct_yr, ruled by [🖤NolanGrimm](🖤NolanGrimm.md).
 
